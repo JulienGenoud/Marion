@@ -188,11 +188,11 @@ textarea {
 }
 
 
+
 .navbar-fixed {
   position: fixed;
-  top: 30px;
-  right: 5px;
-  color: red;
+  z-index: 100;
+  margin-right: 0;
 }
 
 html, body, .container {
@@ -233,6 +233,64 @@ html, body, .container {
     margin-left: auto;
     margin-right: auto;
 }
+
+.menu {
+  /*position: fixed;
+  float: right;*/
+  background: #EC7571;
+  text-align: right;
+  position:fixed;
+   right:10px;
+   padding: 20px;
+padding-top: 30px;
+padding-right: 10px;
+min-width: 100px;
+
+
+
+   z-index: 100;
+  /*margin-top: 20px;
+  margin-right: 50px;*/
+}
+
+.menu a {
+  text-decoration: line-through;
+  color: #fff;
+}
+
+
+.menu a:hover {
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.menu a.active {
+  font-weight: 900;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .menu {
+    right:70px;
+  }
+}
+
+@media (min-width: 850px) {
+  .menu {
+    right:90px;
+  }
+}
+@media (min-width: 992px) {
+  .menu {
+    right:100px;
+  }/*
+}
+@media (min-width: 1200px) {
+  .menu {
+    right:80px;
+  }*/
+}
+
 
 /* content styles */
 .item {
