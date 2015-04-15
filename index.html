@@ -16,6 +16,8 @@
   <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <script src="js/bootstrap.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="js/responsiveslides.min.js"></script>
 
 </head>
 <body>
@@ -29,12 +31,12 @@
   <div class="container">
 
 
-      <div class="menu">
-        <a href="#" class="list-group-it active">HOME</a><br>
-        <a href="#" class="list-group-it">WORK</a><br>
-        <a href="#" class="list-group-it">ABOUT</a><br>
-        <a href="#" class="list-group-it">CONTACT</a>
-      </div>
+    <div class="menu">
+      <a href="index.html" class="list-group-it active">HOME</a><br>
+      <a href="work.html" class="list-group-it">WORK</a><br>
+      <a href="about.html" class="list-group-it">ABOUT</a><br>
+      <a href="contact.html" class="list-group-it">CONTACT</a>
+    </div>
 
       <div class="col-md-12 col-center">
         <img src="img/LOGO_MARION3.png" class="logo" alt="logo marion">
@@ -42,21 +44,28 @@
 
       <div class="col-lg-12">
       <div class="row">
-        <img src="img/bordeaux-83.jpg" class="img-responsive pagination-centered" alt="bordeaux">
+
+        <ul class="rslides">
+          <li><img src="img/bordeaux-83-1.jpg" alt=""></li>
+          <li><img src="img/bordeaux-83-2.jpg" alt=""></li>
+          <li><img src="img/bordeaux-83-3.jpg" alt=""></li>
+        </ul>
+         <!-- <img src="img/bordeaux-83.jpg" class="img-responsive pagination-centered" alt="bordeaux"> -->
       </div>
     </div>
 
-    <!-- <footer class="footer foot">
-    <div class="container">
-    <p class="text-muted">!@!</p>
-  </div>
-</footer> -->
 
 </div><!-- /.container -->
+
+
+<div class="foot">
+      <p class="text-muted">!@!</p>
+</div>
 
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
+
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>

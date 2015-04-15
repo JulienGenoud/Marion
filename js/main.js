@@ -1,0 +1,3 @@
+$(function() {
+  $(".rslides").responsiveSlides();
+});

@@ -96,7 +96,155 @@ textarea {
    ========================================================================== */
 
 
+   @font-face {
+     font-family: 'Din Sans Regular';
+     font-style: normal;
+     font-weight: 300;
+     src: url(../fonts/DINPro-Regular.otf);
+   }
 
+
+   @font-face {
+       font-family: DeliciousRoman;
+       src: url(http://www.font-face.com/fonts/delicious/Delicious-Roman.otf);
+       font-weight:400;
+   }
+
+.cont {
+  padding: 10%;
+}
+.img {
+  background-origin: content-box;
+  background-position: center left;
+  background: url('../img/bordeaux-82.jpg');
+  background-size: auto 100%;
+  height : 500px;
+  background-position: center;
+
+}
+
+   .foot {
+     bottom : 0;
+     position: fixed-bottom;
+     margin-top : 40px;
+     height : 35px;
+     width :100%;
+     background : #F6AF97;
+     margin-top: -35px;
+   }
+
+   .logo {
+     margin-left: auto;
+     margin-right: auto;
+     height : 87px;
+     width : 155px;
+     margin-bottom : 40px;
+     margin-top : 40px;
+   }
+
+
+   .col-center img {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+   }
+
+   .menu {
+     /*position: fixed;
+     float: right;*/
+     font-family: 'Din Sans Regular', normal;
+     background: #EC7571;
+     text-align: right;
+     position:fixed;
+      right:10px;
+      padding: 20px;
+   padding-top: 30px;
+   padding-right: 10px;
+   min-width: 100px;
+
+
+
+      z-index: 100;
+
+
+     /*margin-top: 20px;
+     margin-right: 50px;*/
+   }
+
+   .menu a {
+     text-decoration: line-through;
+     color: #fff;
+   }
+
+
+   .menu a:hover {
+     font-weight: 900;
+     text-decoration: none;
+   }
+
+   .menu a.active {
+     font-weight: 900;
+     text-decoration: none;
+   }
+
+   @media (min-width: 768px) {
+     .menu {
+       right:70px;
+     }
+   }
+
+   @media (min-width: 850px) {
+     .menu {
+       right:90px;
+     }
+   }
+   @media (min-width: 992px) {
+     .menu {
+       right:100px;
+     }/*
+   }
+   @media (min-width: 1200px) {
+     .menu {
+       right:80px;
+     }*/
+   }
+
+
+/* ==========================================================================
+  Rslides
+  ========================================================================== */
+
+   .rslides {
+     position: relative;
+     list-style: none;
+     overflow: hidden;
+     width: 100%;
+     padding: 0;
+     margin: 0;
+     }
+
+   .rslides li {
+     -webkit-backface-visibility: hidden;
+     position: absolute;
+     display: none;
+     width: 100%;
+     left: 0;
+     top: 0;
+     }
+
+   .rslides li:first-child {
+     position: relative;
+     display: block;
+     float: left;
+     }
+
+   .rslides img {
+     display: block;
+     height: auto;
+     float: left;
+     width: 100%;
+     border: 0;
+     }
 
 
 
@@ -208,88 +356,6 @@ html, body, .container {
     vertical-align: middle;
 }
 
-.foot {
-  bottom : 0;
-  position: fixed-bottom;
-  margin-top : 40px;
-  height : 35px;
-  width :100%;
-  background : #F6AF97;
-  margin-top: -35px;
-}
-
-.logo {
-  margin-left: auto;
-  margin-right: auto;
-  height : 87px;
-  width : 155px;
-  margin-bottom : 40px;
-  margin-top : 40px;
-}
-
-
-.col-center img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.menu {
-  /*position: fixed;
-  float: right;*/
-  background: #EC7571;
-  text-align: right;
-  position:fixed;
-   right:10px;
-   padding: 20px;
-padding-top: 30px;
-padding-right: 10px;
-min-width: 100px;
-
-
-
-   z-index: 100;
-  /*margin-top: 20px;
-  margin-right: 50px;*/
-}
-
-.menu a {
-  text-decoration: line-through;
-  color: #fff;
-}
-
-
-.menu a:hover {
-  font-weight: 900;
-  text-decoration: none;
-}
-
-.menu a.active {
-  font-weight: 900;
-  text-decoration: none;
-}
-
-@media (min-width: 768px) {
-  .menu {
-    right:70px;
-  }
-}
-
-@media (min-width: 850px) {
-  .menu {
-    right:90px;
-  }
-}
-@media (min-width: 992px) {
-  .menu {
-    right:100px;
-  }/*
-}
-@media (min-width: 1200px) {
-  .menu {
-    right:80px;
-  }*/
-}
 
 
 /* content styles */
