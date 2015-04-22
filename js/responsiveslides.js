@@ -110,20 +110,28 @@
           } else {
             $slide
               .stop()
-              .fadeOut(fadeTime, function () {
-                $(this)
-                  .removeClass(visibleClass)
-                  .css(hidden)
-                  .css("opacity", 1);
-              })
+              .slideUp("slow");
+              // .fadeOut(fadeTime, function () {
+              //   $(this)
+              //     .removeClass(visibleClass)
+              //     .css(hidden)
+              //     .css("opacity", 1);
+              // }
+              //
+
+              )
               .eq(idx)
-              .fadeIn(fadeTime, function () {
-                $(this)
-                  .addClass(visibleClass)
-                  .css(visible);
-                settings.after(idx);
-                index = idx;
-              });
+              .slideUp("slow");
+              // 
+              // .fadeIn(fadeTime, function () {
+              //   $(this)
+              //     .addClass(visibleClass)
+              //     .css(visible);
+              //   settings.after(idx);
+              //   index = idx;
+              // }
+
+              );
           }
         };
 

@@ -28,16 +28,72 @@
   <!-- Add your site or application content here -->
 
 
-  <div class="container">
+
+  <!-- <div class="container"> -->
 
 
-    <div class="menu">
+    <script type="text/x-handlebars">
+      <div class="menu">
+        <div class="navbar-innere">
+          <!-- {{#link-to 'index' class='brand'}}Bloggr{{/link-to}} -->
+          <ul class="nave">
+            <a>{{#link-to 'index'}}HOME{{/link-to}}</a><br>
+            <a>{{#link-to 'work'}}WORK{{/link-to}}</a><br>
+            <a>{{#link-to 'about'}}ABOUT{{/link-to}}</a><br>
+            <a>{{#link-to 'contact'}}CONTACT{{/link-to}}</a><br>
+          </ul>
+        </div>
+      </div>
+      {{outlet}}
+    </script>
+
+
+    <!-- <div class="menu">
       <a href="index.html" class="list-group-it active">HOME</a><br>
       <a href="work.html" class="list-group-it">WORK</a><br>
       <a href="about.html" class="list-group-it">ABOUT</a><br>
       <a href="contact.html" class="list-group-it">CONTACT</a>
-    </div>
+    </div> -->
 
+      <!-- <div class="col-md-12 col-center">
+        <img src="img/LOGO_MARION3.png" class="logo" alt="logo marion">
+      </div>
+
+      <div class="col-lg-12">
+      <div class="row">
+
+        <ul class="rslides">
+          <li><img src="img/bordeaux-83-1.jpg" alt=""></li>
+          <li><img src="img/bordeaux-83-2.jpg" alt=""></li>
+          <li><img src="img/bordeaux-83-3.jpg" alt=""></li>
+        </ul>
+      </div>
+    </div> -->
+
+
+
+
+<!-- </div> -->
+
+
+<!--
+<script type="text/x-handlebars">
+  <div class="navbar">
+    <div class="navbar-inner">
+      {{#link-to 'index' class='brand'}}Bloggr{{/link-to}}
+      <ul class="nav">
+        <li>{{#link-to 'posts'}}Posts{{/link-to}}</li>
+        <li>{{#link-to 'about'}}About{{/link-to}}</li>
+      </ul>
+    </div>
+  </div>
+  {{outlet}}
+</script> -->
+
+
+<script type="text/x-handlebars" id="index">
+  <div class='about'>
+    <div class="container">
       <div class="col-md-12 col-center">
         <img src="img/LOGO_MARION3.png" class="logo" alt="logo marion">
       </div>
@@ -50,12 +106,92 @@
           <li><img src="img/bordeaux-83-2.jpg" alt=""></li>
           <li><img src="img/bordeaux-83-3.jpg" alt=""></li>
         </ul>
-         <!-- <img src="img/bordeaux-83.jpg" class="img-responsive pagination-centered" alt="bordeaux"> -->
       </div>
     </div>
+    </div>
+
+  </div>
+</script>
 
 
-</div><!-- /.container -->
+
+
+
+<script type="text/x-handlebars" id="work">
+  <div class='work'>
+    <div class="container">
+
+
+      <div class="col-md-12 col-center">
+        <img src="img/LOGO_MARION3.png" class="logo" alt="logo marion">
+      </div>
+
+      <div class="row">
+        <div class="col-sm-3 ">
+          <div class="cont">
+
+            <div class="img">
+              img
+            </div>
+          </div>
+
+        </div>
+        <div class="col-sm-3 ">
+          <div class="cont">
+
+            <div class="img">
+              img
+            </div>
+          </div>
+
+        </div>
+        <div class="col-sm-3 ">
+          <div class="cont">
+
+            <div class="img">
+              img
+            </div>
+          </div>
+
+        </div>
+        <div class="col-sm-3 ">
+          <div class="cont">
+
+            <div class="img">
+              img
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+    <!-- <footer class="footer foot">
+    <div class="container">
+    <p class="text-muted">!@!</p>
+  </div>
+  </footer> -->
+
+  </div><!-- /.container -->
+  </div>
+</script>
+
+<script type="text/x-handlebars" id="about">
+  <div class='about'>
+    <p>
+    about
+  </div>
+</script>
+
+<script type="text/x-handlebars" id="contact">
+  <div class='about'>
+    <p>
+      contact
+  </div>
+</script>
+
 
 
 <div class="foot">
@@ -64,8 +200,14 @@
 
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
 
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+<script src="js/libs/handlebars-v1.3.0.js"></script>
+<script src="js/libs/ember-v1.6.1.js"></script>
+<script src="js/app.js"></script>
+
+<script src="js/main.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
