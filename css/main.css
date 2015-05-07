@@ -159,11 +159,11 @@ textarea {
       /*right:10px;*/
       padding: 20px;
       padding-top: 30px;
-      padding-right: 20px;
+      padding-right: 5px;
       min-width: 100px;
       z-index: 100;
 
-      background:url("/img/back.png") no-repeat scroll right center #fff;
+      background:url("../img/back.jpg") no-repeat scroll right center #fff;
 
      /*margin-top: 20px;
      margin-right: 50px;*/
