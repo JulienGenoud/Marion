@@ -155,21 +155,22 @@ textarea {
      font-family: 'Din Sans Regular', normal;
      background: #EC7571;
      text-align: right;
-     position:fixed;
-      right:10px;
+     /*position:fixed;*/
+      /*right:10px;*/
       padding: 20px;
-   padding-top: 30px;
-   padding-right: 10px;
-   min-width: 100px;
-
-
-
+      padding-top: 30px;
+      padding-right: 20px;
+      min-width: 100px;
       z-index: 100;
 
+      background:url("/img/back.png") no-repeat scroll right center #fff;
 
      /*margin-top: 20px;
      margin-right: 50px;*/
    }
+
+
+
 
    .menu a {
      text-decoration: line-through;
