@@ -138,10 +138,21 @@ textarea {
      margin-right: auto;
      height : 87px;
      width : 155px;
-     margin-bottom : 40px;
-     margin-top : 40px;
+     position:fixed;
+     left: 45%;
+     top: 20px;
+     z-index: 100;
+
+     /*margin-bottom : 40px;
+     margin-top : 40px;*/
    }
 
+
+.slides {
+  width:100% !important;
+   height:auto;
+   display:block;
+}
 
    .col-center img {
        display: block;
@@ -157,10 +168,12 @@ textarea {
      text-align: right;
      /*position:fixed;*/
       /*right:10px;*/
-      padding: 20px;
-      padding-top: 30px;
+      padding-bottom: 5px;
       padding-right: 5px;
-      min-width: 100px;
+      padding-top: 20px;
+      margin-bottom: 10px;
+
+      min-width: 80px;
       z-index: 100;
 
       background:url("../img/back.jpg") no-repeat scroll right center #fff;
@@ -169,12 +182,36 @@ textarea {
      margin-right: 50px;*/
    }
 
+   /*.slick-prev:before, .slick-next:before {
+       color:red !important;
+       background-color:red !important;
+z-index : 100;
+   }*/
+
+    .slick-prev {
+     /*background-color:red !important;
+
+       color:red !important;*/
+       z-index : 100;
+       left :  25px !important;
+
+   }
+
+
+   .slick-next {
+     /*background-color:red !important;
+
+       color:red !important;*/
+       z-index : 100;
+       right : 25px !important;
+
+   }
 
 
 
    .menu a {
      text-decoration: line-through;
-     color: #fff;
+     color: #fff !important;
    }
 
 
@@ -209,6 +246,9 @@ textarea {
        right:80px;
      }*/
    }
+
+
+
 
 
 /* ==========================================================================
