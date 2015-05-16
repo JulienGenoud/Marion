@@ -198,11 +198,16 @@ z-index : 100;
    }*/
 
 
-/*.slick-prev:before, .slick-next:before {
-  content: "   " !important;
+.slick-prev:before, .slick-next:before {
+  content: "               " !important;
+  background-color:#E7877E !important;
+  height: 7px;
+  width: 30px;
 
-    background-image: url("../img/back.jpg");
-}*/
+    /*background-image: url("../img/back.jpg");*/
+
+
+}
 
     .slick-prev {
      /*background-color:red !important;
