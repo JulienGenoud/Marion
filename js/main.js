@@ -45,7 +45,7 @@ scotchApp.controller('mainController', function($scope) {
          //
          dots: true,
            infinite: true,
-           speed: 500,
+           speed: 2000,
            cssEase: 'linear',
            slidesToScroll: 1,
           autoplay: true,

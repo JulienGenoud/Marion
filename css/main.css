@@ -188,6 +188,13 @@ textarea {
 z-index : 100;
    }*/
 
+
+/*.slick-prev:before, .slick-next:before {
+  content: "   " !important;
+
+    background-image: url("../img/back.jpg");
+}*/
+
     .slick-prev {
      /*background-color:red !important;
 
