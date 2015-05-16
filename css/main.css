@@ -177,11 +177,12 @@ textarea {
      /*position:fixed;*/
       /*right:10px;*/
       padding-bottom: 5px;
-      padding-right: 5px;
+      padding-right: 10px;
       padding-top: 20px;
       margin-bottom: 10px;
+      font-size: 13px;
 
-      min-width: 80px;
+      min-width: 100px;
       z-index: 100;
 
       background:url("../img/back.jpg") no-repeat scroll right center #fff;
