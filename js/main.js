@@ -45,11 +45,11 @@ scotchApp.controller('mainController', function($scope) {
          //
          dots: true,
            infinite: true,
-           speed: 2000,
+           speed: 1000,
            cssEase: 'linear',
            slidesToScroll: 1,
           autoplay: true,
-          autoplaySpeed: 2000,
+          autoplaySpeed: 3000,
           });
      });
 });
