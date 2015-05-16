@@ -43,7 +43,7 @@ scotchApp.controller('mainController', function($scope) {
        $('.your-class').slick({
           arrows: true,
          //
-         dots: true,
+        // dots: true,
            infinite: true,
            speed: 500,
            cssEase: 'linear',
