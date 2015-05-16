@@ -200,9 +200,8 @@ z-index : 100;
 
 .slick-prev:before, .slick-next:before {
   content: "               " !important;
-  background-color:#E7877E !important;
-  height: 7px;
-  width: 30px;
+  /*height: 7px !important;
+  width: 30px !important;*/
 
     /*background-image: url("../img/back.jpg");*/
 
@@ -212,7 +211,13 @@ z-index : 100;
     .slick-prev {
      /*background-color:red !important;
 
+
        color:red !important;*/
+
+       height: 7px !important;
+       width: 30px !important;
+       background-color:#E7877E !important;
+
        z-index : 100;
        left :  25px !important;
 
@@ -223,6 +228,10 @@ z-index : 100;
      /*background-color:red !important;
 
        color:red !important;*/
+
+       height: 7px !important;
+       width: 30px !important;
+
        z-index : 100;
        right : 25px !important;
 
