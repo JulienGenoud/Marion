@@ -97,6 +97,14 @@ textarea {
 
 
    @font-face {
+     font-family: 'DinProBold';
+     font-style: normal;
+     font-weight: 300;
+     src: url(../fonts/DINPro-Bold.otf);
+   }
+
+
+   @font-face {
      font-family: 'Din Sans Regular';
      font-style: normal;
      font-weight: 300;
@@ -223,12 +231,12 @@ z-index : 100;
 
 
    .menu a:hover {
-     font-weight: 900;
+     /*font-weight: 900;*/
      text-decoration: none;
    }
 
    .menu a.active {
-     font-weight: 900;
+     font-family: 'DinProBold', normal;
      text-decoration: none;
    }
 
