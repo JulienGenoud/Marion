@@ -171,8 +171,8 @@ textarea {
    .menu {
      /*position: fixed;
      float: right;*/
-     font-family: 'Din Sans Regular', normal;
-     background: #EC7571;
+     font-family: 'Din Sans Regular', normal !important;
+    /* background: #EC7571;*/
      text-align: right;
      /*position:fixed;*/
       /*right:10px;*/
@@ -185,7 +185,14 @@ textarea {
       min-width: 100px;
       z-index: 100;
 
-      background:url("../img/back.jpg") no-repeat scroll right center #fff;
+      /*background:url("../img/back.jpg") no-repeat scroll right center #fff;*/
+
+
+      background: url("../img/back.jpg"), url("../img/LOGO_MARION3.png");
+      background-position: right center, center;
+      background-repeat: no-repeat, no-repeat;
+
+      background-size: auto, 155px 87px ;
 
      /*margin-top: 20px;
      margin-right: 50px;*/
@@ -198,6 +205,8 @@ z-index : 100;
    }*/
 
 
+
+
 .slick-prev:before, .slick-next:before {
   content: "               " !important;
   /*height: 7px !important;
@@ -208,11 +217,28 @@ z-index : 100;
 
 }
 
+.slick-slider:hover .slick-prev {
+  visibility:visible;
+   opacity:1;
+   transition-delay:0s;}
+
+.slick-slider:hover .slick-next {
+  visibility:visible;
+   opacity:1;
+   transition-delay:0s;
+   }
+
+
+
     .slick-prev {
      /*background-color:red !important;
 
 
        color:red !important;*/
+
+       visibility:hidden;
+        opacity:0;
+        transition:visibility 0s linear 0.5s,opacity 0.5s linear;
 
        height: 7px !important;
        width: 30px !important;
@@ -229,14 +255,18 @@ z-index : 100;
 
        color:red !important;*/
 
+       visibility:hidden;
+        opacity:0;
+        transition:visibility 0s linear 0.5s,opacity 0.5s linear;
+
        height: 7px !important;
        width: 30px !important;
        background-color:#E7877E !important;
 
+
        z-index : 100;
        right : 25px !important
    }
-
 
 
    .menu a {
@@ -252,8 +282,15 @@ z-index : 100;
 
    .menu a.active {
      font-family: 'DinProBold', normal;
-     text-decoration: none;
+     text-decoration: none !important;
    }
+
+
+   /*.menu a.inactive {
+     font-family: 'Din Sans Regular', normal;
+     /*text-decoration: none !important;
+   }*/
+
 
    @media (min-width: 768px) {
      .menu {

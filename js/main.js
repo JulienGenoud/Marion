@@ -34,10 +34,10 @@ scotchApp.controller('mainController', function($scope) {
   // create a message to display in our view
   $scope.message = 'Everyone come and see how good I look!';
   // $(".rslides").responsiveSlides();
-  $("#home").css({"text-decoration" : "none"});
-  $("#work").css({"text-decoration" : "line-through"});
-  $("#about").css({"text-decoration" : "line-through"});
-  $("#contact").css({"text-decoration" : "line-through"});
+  $("#home").addClass('active');
+  $("#work").removeClass('active');
+  $("#about").removeClass('active');
+  $("#contact").removeClass('active');
 
   $(document).ready(function(){
        $('.your-class').slick({
@@ -56,24 +56,24 @@ scotchApp.controller('mainController', function($scope) {
 
 scotchApp.controller('aboutController', function($scope) {
 
-  $("#home").css({"text-decoration" : "line-through"});
-  $("#work").css({"text-decoration" : "line-through"});
-  $("#about").css({"text-decoration" : "none"});
-  $("#contact").css({"text-decoration" : "line-through"});
+  $("#home").removeClass('active');
+  $("#work").removeClass('active');
+  $("#about").addClass('active');
+  $("#contact").removeClass('active');
 
 });
 
 scotchApp.controller('contactController', function($scope) {
-  $("#home").css({"text-decoration" : "line-through"});
-  $("#work").css({"text-decoration" : "line-through"});
-  $("#about").css({"text-decoration" : "line-through"});
-  $("#contact").css({"text-decoration" : "none"});
+  $("#home").removeClass('active');
+  $("#work").removeClass('active');
+  $("#about").removeClass('active');
+  $("#contact").addClass('active');
   });
 
 scotchApp.controller('workController', function($scope) {
-  $("#home").css({"text-decoration" : "line-through"});
-  $("#work").css({"text-decoration" : "none"});
-  $("#about").css({"text-decoration" : "line-through"});
-  $("#contact").css({"text-decoration" : "line-through"});
+  $("#home").removeClass('active');
+  $("#work").addClass('active');
+  $("#about").removeClass('active');
+  $("#contact").removeClass('active');
 
   });
