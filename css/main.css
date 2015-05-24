@@ -326,9 +326,7 @@ z-index : 100;
      }
    }*/
 
-.container {
-   width: 100%;
- }
+
 
 
 
@@ -471,10 +469,12 @@ z-index : 100;
 
 html, body, .container {
     height: 100%;
+
 }
 .container {
     display: table;
     vertical-align: middle;
+    width: 100%;
 }
 .vertical-center-row {
 
