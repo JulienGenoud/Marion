@@ -304,7 +304,7 @@ z-index : 100;
    }
 
 
-   @media (min-width: 768px) {
+   /*@media (min-width: 768px) {
      .menu {
        right:70px;
      }
@@ -323,8 +323,14 @@ z-index : 100;
    @media (min-width: 1200px) {
      .menu {
        right:80px;
-     }*/
-   }
+     }
+   }*/
+
+.container {
+   width: 100%;
+ }
+
+
 
 
 
