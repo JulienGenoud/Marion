@@ -77,14 +77,35 @@ scotchApp.controller('workController', function($scope) {
   $("#contact").removeClass('active');
 
 
+
+  // function newwindow() {
+  //                 var showme = document.getElementById("port");
+  //                 showme.style.visibility = "visible";
+  //             }
+  //
+
+              // $('.gallery ul li a').click(function() {
+              //      return false;
+              //  });
+              //
+
   $('.gallery ul li a').click(function() {
        var itemID = $(this).attr('href');
+      //  $(".port").show();
        $('.gallery ul').addClass('item_open');
        $(itemID).addClass('item_open');
+       $(itemID).show();
        return false;
    });
    $('.close').click(function() {
-       $('.port, .gallery ul').removeClass('item_open');
+
+     var itemID = $(this).attr('href');
+     $(itemID).hide();
+
+      // var itemID = $(this).attr('href');
+      //  $(itemID).show();
+      //  $('.port, .gallery ul').hide();
+      //  $('.port, .gallery ul').removeClass('item_open');
        return false;
    });
 
