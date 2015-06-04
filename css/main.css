@@ -30,7 +30,7 @@ html {
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #8CD1B4;
     text-shadow: none;
 }
 
@@ -137,7 +137,7 @@ textarea {
      margin-top : 40px;
      height : 35px;
      width :100%;
-     background : #F6AF97;
+     background : #8CD1B4;
      margin-top: -35px;
    }
 
