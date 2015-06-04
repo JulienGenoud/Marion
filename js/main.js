@@ -109,11 +109,11 @@ scotchApp.controller('workController', function($scope) {
        return false;
    });
 
-   $(".gallery ul li a").click(function() {
-       $('html, body').animate({
-           scrollTop: parseInt($("#top").offset().top)
-       }, 400);
-   });
+  //  $(".gallery ul li a").click(function() {
+  //      $('html, body').animate({
+  //          scrollTop: parseInt($("#top").offset().top)
+  //      }, 400);
+  //  });
 
 
 
