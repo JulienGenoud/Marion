@@ -698,7 +698,7 @@ a {
   opacity: 1;
 }
 .gallery ul li a:after {
-  position: absolute;
+  /*position: absolute;*/
   width: 100%;
   top: 0;
   bottom: 0;
