@@ -640,7 +640,6 @@ a {
   height: auto;
   padding: 0;
   margin: 0;
-  border-radius: 20px;
 }
 
 .row div {
@@ -811,4 +810,8 @@ a {
 .title-contact {
   font-size: 20px;
   color: #0081A7;
+}
+
+#contact {
+  margin-left: 60px;
 }
