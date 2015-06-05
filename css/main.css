@@ -16,6 +16,10 @@ html {
     line-height: 1.4;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -40,11 +44,12 @@ html {
 
 hr {
     display: block;
-    height: 1px;
+    height: 4px !important;
     border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
+    border-top: 1px solid #ccc !important;
     padding: 0;
+    margin-top: 50px !important;
+
 }
 
 /*
@@ -657,8 +662,9 @@ a {
 
 
 .gallery {
-  padding: 20px 0;
-  position: relative;
+  padding: 10px 0;
+  width: 101%;
+  /*position: relative;*/
   overflow: hidden;
 }
 .gallery ul {
@@ -704,13 +710,13 @@ a {
   top: 0;
   left:0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.3);
+  /* ici c'est la couleur du mousehover"*/
+  background: rgba(140, 209, 180, 0.6);
   content: "";
   opacity: 0;
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  border-radius: 20px;
 
 }
 .gallery ul li a:hover:after {
@@ -814,4 +820,8 @@ a {
 
 #contact {
   margin-left: 60px;
+}
+
+.top {
+  height: 10px !important;
 }
