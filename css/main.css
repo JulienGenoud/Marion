@@ -820,3 +820,11 @@ a {
 .top {
   height: 10px !important;
 }
+
+h4 {
+  font-family: 'DinProBold', normal !important;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif !important;
+}
