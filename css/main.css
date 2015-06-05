@@ -737,6 +737,7 @@ a {
 .port {
   position: absolute;
   width: 100%;
+  min-height: 100%;
   top: 0;
   left: 0;
   /*padding-top: 70px;*/
@@ -788,6 +789,7 @@ a {
 }
 
  h1.project-title {
+   font-size: 30px !important;
    width: auto !important;
    display: inline-block !important;
  }
@@ -839,4 +841,20 @@ h4 {
 
 h5 {
   font-family: 'Raleway', sans-serif !important;
+}
+
+.port img {
+	width:100%;
+}
+
+.margin {
+	margin-top:30px;
+}
+
+.textdescription {
+  font-family: 'Raleway', sans-serif !important;
+  font-size: 15px;
+  text-align: justify;
+	margin-top:20px;
+	margin-bottom:20px;
 }
