@@ -184,7 +184,7 @@ textarea {
       padding-bottom: 3px;
       padding-right: 13px;
       padding-top: 40px;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
       font-size: 13px;
 
       min-width: 100px;
@@ -194,7 +194,7 @@ textarea {
 
 
       background: url("../img/back.jpg"), url("../img/title.png");
-      background-position: right center, center 18px;
+      background-position: right center, center 20px;
       background-repeat: no-repeat, no-repeat;
 
       background-size: auto, 155px 87px ;
