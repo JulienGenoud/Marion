@@ -726,12 +726,11 @@ a {
 .port {
   position: absolute;
   width: 100%;
-  height: 100%;
   top: 0;
   left: 0;
   /*padding-top: 70px;*/
   background: #ffffff;
-  background-color: #fafafa;
+  background-color: #ffffff;
   z-index: 103;
   /*visibility: hidden;*/
   display:none;
@@ -777,25 +776,21 @@ a {
   transition-delay: 0.5s;
 }
 
+ h1.project-title {
+   width: auto !important;
+   display: inline-block !important;
+ }
 .close {
   width: 21px;
   height: 21px;
-  background: url(data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%0A%09%20id%3D%22svg2%22%20xmlns%3Adc%3D%22http%3A//purl.org/dc/elements/1.1/%22%20xmlns%3Acc%3D%22http%3A//creativecommons.org/ns%23%22%20xmlns%3Ardf%3D%22http%3A//www.w3.org/1999/02/22-rdf-syntax-ns%23%22%20xmlns%3Asvg%3D%22http%3A//www.w3.org/2000/svg%22%0A%09%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2021%2021%22%0A%09%20enable-background%3D%22new%200%200%2021%2021%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cg%20id%3D%22layer1%22%20transform%3D%22translate%280%2C-1031.3622%29%22%3E%0A%09%3Cpath%20id%3D%22path2987%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20d%3D%22M0%2C1031.4l21%2C21%22/%3E%0A%09%3Cpath%20id%3D%22path2989%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20d%3D%22M21%2C1031.4l-21%2C21%22/%3E%0A%3C/g%3E%0A%3C/svg%3E%0A%0A) no-repeat;
-  position: absolute;
-  right: 10px;
-  top: -101px;
+  margin-left: 20px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAB3VBMVEUAAAANEhAPFhMSGhYTHBgTHBkUHRkVIBwWIR0WIh0YJB8YJSAZJSAZJiEaJyIbKCIbKCMcKiQcKiUcKyUdKyYeLScfLigfLyggLykgMCkiMywjMywjNS0kNS4kNi4lODAmOTEnOjIoPDMoPDQrQDcsQjkXIx4SHBgOFBKQ2LqW38CR2bqN1LaP1biW38BwqJCM0LRvpo+K0LOT272JzLCT3L6Y48OFxquP17iIyq6R17p0rZWCwqeO07Zwp5CDxKlzrJSM0rWAwKWKzrKBwaaAvqSGya2JzbCExapvpo+Fx6uDxKiO1LeP1LeL0LOM0bSIzLCS27yKzrFroIpsoYuGx6uBwaaHya2Dw6l/vqN9uqCAv6V+vKKM0bST272Y48ST272X4sKY4sOX4sKS2ryW4MGT272W4MGW4cGX4cKU3b+U3b6U3b+V38CT3L2U3b6V38CS2ryS2ryU3b6Q17mQ2LmO1beS2ryO1beS2ryM0bSN0rWQ2LmZ5cWQ17mY48OO1biP1beM0bSZ5cWM0bSN0rWW4MGN0rWU3b+Y48OM0bSW4cGM0bSS2ryU3b+S2ryQ17mQ17mO1LeM0rSM0bSKzbGKzrGKzrKKz7KLz7KLz7OL0LOM0LOM0LSM0bRrU8ucAAAAlXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAyAgISIiJCUmJygoKSkpKyssLC0uLi8vMDAxMTIzMzQ2Nzc5Ojo7PD09PkBBQUJCQ0VGRkefxMTFx8fIycnKysrKy8zMzM3Ozs/Q0NHR09PU1NXV1tbX19jY2dna2trb3d3g4OHi5Ofo6+3u8g83KdoAAAFASURBVBjTY4it0mNjQAEagVMYquZVa7MiCzL6Tp7HoFc9r0KXEyHI5D9pXhcDm2bZ3BIDXpggS9CEee1mDAzcOqWzi0yEIYIc4b1zGoz5gCxRo8JZOebiIEGeiI7ZNRYSYAVSllkz0m2kGRgEo9tmljvKQQ2Tt0+dnuwkyB5TPz3fXQlusaJL0rR4z+DaableKkiOVHaNn5pWPC3TWxXFQ5J2efPmpVjLonpTICR73rwEfVEUQdmo5mkpcdOSXBSRBKUiO6dlOBgmTk+1l4cLSoR1Ty/wEOOySZ+RZSkFFRQK7ZtZ7KbAwCBunjOr0AhitlpA/+xKZxkQU9ikaHapDjeQpe43cXadrSREG69BydwyTTYGDZ9J8xqtRGBWcOpWzKvWYgicPK/VlB/hHFbt6nktDFPm9ZhxITudWatpHgC9MVGxMZIaUQAAAABJRU5ErkJggg==);
   opacity: 1;
-  z-index: 1004;
-  -webkit-transition: all 0.1s ease-in-out;
-  -moz-transition: all 0.1s ease-in-out;
-  transition: all 0.1s ease-in-out;
+  display: inline-block !important;
+  float: none !important;
 }
 .item_open .close {
   opacity: 1;
-  top: 0px;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
 }
 
 
