@@ -865,32 +865,48 @@ h5 {
 
 
 footer {
-  width: 101%;
+  width: 100%;
+  margin-bottom: 50px;
   /*position: relative;*/
   overflow: hidden;
 }
 footer ul {
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 180px;
   position: relative;
 }
+
 footer ul li {
   display: inline-block;
-  width: 10%;
   position: relative;
+
 }
-footer   ul li a {
-  display: inline-block;
-  width: 100%;
+
+
+footer ul li.link {
+  width: 25%;
+}
+
+footer ul li.separator {
+  width: 8%;
+}
+footer  ul li a {
+  /*width: 100px;*/
   /*height: 100%;*/
   margin: 0;
   padding: 0;
   line-height: 0;
 }
 
+footer  ul li:hover {
+  /*width: 100px;*/
+  /*height: 100%;*/
+  -webkit-transition: all 0.5s ease;
+  -webkit-filter: opacity(50%);
+  }
+
 footer ul li a img{
-  display: inline-block;
   position: relative;
   width: 100%;
   /*height: 100%;*/
