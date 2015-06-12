@@ -313,6 +313,9 @@ z-index : 100;
      .menu {
        background-position: right center, 65px 18px;
      }
+     h4 {
+       font-size: 14px !important;
+     }
    }
 
    /*@media (min-width: 768px) {
@@ -837,6 +840,7 @@ a {
 
 h4 {
   font-family: 'DinProBold', normal !important;
+  white-space:nowrap !important;
 }
 
 h5 {
