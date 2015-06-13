@@ -850,11 +850,7 @@ h4 {
   white-space:nowrap !important;
 }
 
-span {
-  font-family: 'Din Sans Regular', normal !important;
-  white-space:nowrap !important;
-  color: #EDD558;
-}
+
 
 h5 {
   font-family: 'Raleway', sans-serif !important;
@@ -877,9 +873,19 @@ h5 {
 }
 
 
-a#cv > img {
+a#cv > img  {
   vertical-align: top; /* here */
+  margin-left: -3px;
 }
+
+a#cv > div {
+  display: inline;
+  font-family: 'Din Sans Regular', normal !important;
+  white-space:nowrap !important;
+  color: #EDD558;
+  vertical-align: top;
+}
+
 
 footer {
   width: 100%;
