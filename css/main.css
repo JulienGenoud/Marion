@@ -845,6 +845,7 @@ h4 {
 
 h5 {
   font-family: 'Raleway', sans-serif !important;
+  white-space:nowrap !important;
 }
 
 .port img {
