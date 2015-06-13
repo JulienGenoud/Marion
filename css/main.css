@@ -838,6 +838,7 @@ a {
 
 #contact {
   margin-left: 60px;
+  margin-top: 60px;
 }
 
 .top {
@@ -847,6 +848,12 @@ a {
 h4 {
   font-family: 'DinProBold', normal !important;
   white-space:nowrap !important;
+}
+
+span {
+  font-family: 'Din Sans Regular', normal !important;
+  white-space:nowrap !important;
+  color: #EDD558;
 }
 
 h5 {
