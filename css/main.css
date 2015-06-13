@@ -863,6 +863,10 @@ h5 {
 }
 
 
+a#cv > img {
+  vertical-align: top; /* here */
+}
+
 footer {
   width: 100%;
   margin-bottom: 50px;
