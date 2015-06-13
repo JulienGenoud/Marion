@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+
+Author Julien Genoud
+
+
+# TECHNOLOGY COLOPHON
+
+  - CSS3, HTML5, JAVASCRIPT
+  - html5boilerplate.com
+  - angular.js
+  - slick
+  - bootstrap
+  - zoom.js
