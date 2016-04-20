@@ -18,8 +18,8 @@ scotchApp.config(function($routeProvider) {
 
 
     .when('/work', {
-      templateUrl : 'work.html',
-      controller  : 'workController'
+      templateUrl : 'home.html',
+      controller  : 'mainController'
     })
 
     // route for the contact page
