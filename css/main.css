@@ -731,7 +731,7 @@ a {
   left:0;
   bottom: 0;
   /* ici c'est la couleur du mousehover"*/
-  background: rgba(140, 209, 180, 0.6);
+  background: rgba(198, 233, 221, 0.6);
   content: "";
   opacity: 0;
   -webkit-transition: all 0.3s linear;
