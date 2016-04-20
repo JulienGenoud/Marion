@@ -19,7 +19,7 @@ scotchApp.config(function($routeProvider) {
 
     .when('/work', {
       templateUrl : 'home.html',
-      controller  : 'mainController'
+      controller  : 'workController'
     })
 
     // route for the contact page
@@ -35,7 +35,7 @@ scotchApp.controller('mainController', function($scope) {
   // $scope.message = 'Everyone come and see how good I look!'
 
   // Force to render work page
-  location.href = "#work";
+  // location.href = "#work";
 
   // $(".rslides").responsiveSlides();
   $("#work").addClass('active');
@@ -56,6 +56,33 @@ scotchApp.controller('mainController', function($scope) {
   //         autoplaySpeed: 3000,
   //         });
   //    });
+
+  $('.gallery ul li a').click(function() {
+       var itemID = $(this).attr('href');
+      //  $(".port").show();
+       $('.gallery ul').addClass('item_open');
+       $(itemID).addClass('item_open');
+       $(itemID).show();
+       return false;
+   });
+   $('.close').click(function() {
+
+     var itemID = $(this).attr('href');
+     $(itemID).hide();
+
+      // var itemID = $(this).attr('href');
+      //  $(itemID).show();
+      //  $('.port, .gallery ul').hide();
+      //  $('.port, .gallery ul').removeClass('item_open');
+       return false;
+   });
+
+   $(".gallery ul li a").click(function() {
+       $('html, body').animate({
+           scrollTop: parseInt($("#top").offset().top)
+       }, 400);
+   });
+
 });
 
 scotchApp.controller('aboutController', function($scope) {
