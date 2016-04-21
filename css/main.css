@@ -672,6 +672,10 @@ a {
   position: relative;
 }
 
+.row#contact div {
+  margin-top: 0px;
+}
+
 
 .gallery ul li {
   list-style: none;
@@ -833,13 +837,18 @@ a {
 
 .title-contact {
   font-size: 20px;
-  color: #0081A7;
+  color: #C6DFDD;
 }
 
-#contact {
+
+a#mail {
+  color: #C6DFDD;
+}
+
+/*#contact {
   margin-left: 60px;
   margin-top: 60px;
-}
+}*/
 
 .top {
   height: 10px !important;
@@ -884,10 +893,23 @@ a#cv > div {
   display: inline;
   font-family: 'Din Sans Regular', normal !important;
   white-space:nowrap !important;
-  color: #EDD558;
+  color: #E8BFB7;
   vertical-align: top;
 }
 
+#contact-pos {
+  position: absolute;
+   bottom: 0;
+   right: 0;
+}
+
+@media (max-width: 1000px) {
+  #contact-pos {
+    position: relative;
+     bottom: 0;
+     right: 0;
+  }
+}
 
 footer {
   width: 100%;
@@ -898,7 +920,7 @@ footer {
 footer ul {
   margin-left: auto;
   margin-right: auto;
-  width: 180px;
+  width: 280px;
   position: relative;
 }
 
@@ -910,11 +932,11 @@ footer ul li {
 
 
 footer ul li.link {
-  width: 18%;
+  width: 23%;
 }
 
 footer ul li.separator {
-  width: 16%;
+  width: 6%;
 }
 footer  ul li a {
   /*width: 100px;*/
