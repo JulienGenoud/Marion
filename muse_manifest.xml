@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525613141973">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525617209290">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-gabarit.css" crc="3977692676" ref="dakar:about:index:flamingo:journal"/>
-    <file name="dakar.css" crc="154971076" ref="dakar"/>
+    <file name="dakar.css" crc="442798567" ref="dakar"/>
     <file name="about.css" crc="154971076" ref="about"/>
-    <file name="index.css" crc="4029511004" ref="index"/>
-    <file name="flamingo.css" crc="423938037" ref="flamingo"/>
+    <file name="index.css" crc="3896592572" ref="index"/>
+    <file name="flamingo.css" crc="4043160367" ref="flamingo"/>
     <file name="journal.css" crc="154971076" ref="journal"/>
   </folder>
   <folder name="fonts">
@@ -32,7 +32,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar"/>
     <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -41,10 +41,12 @@
     </file>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="flamingo" alt=""/>
-      <caption webpage="journal" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="dakar" alt=""/>
+      <caption webpage="journal" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
     <file name="facebook2.png" crc="279691190" ref="index">
@@ -92,13 +94,37 @@
     <file name="6d62ee06a137fe1deae70ca9d26de507.jpg" crc="4193268257" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="poster.png" crc="4132729914" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
+    <file name="maxresdefault.jpg" crc="4018331231" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="maxresdefault_2x.jpg" crc="411219514" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="020127075acd425d206b71c33a92cac2-crop-u2764.png" crc="405119731" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="020127075acd425d206b71c33a92cac2-crop-u2764_2x.png" crc="3825754490" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="5a3e580b75d881b0b1c242df755313a1-crop-u2766.png" crc="3786195309" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="5a3e580b75d881b0b1c242df755313a1-crop-u2766_2x.png" crc="173664084" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="870859346ff0d56bff8290471ab61c13-crop-u2768.png" crc="4254093918" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="hugo.jpg" crc="208360934" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="hugo_2x.jpg" crc="3819482917" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="218491616" seo="true" mt="1525610104451" redirect="true"/>
-  <file name="journal.html" crc="4205643848" seo="true" mt="1525444922369" redirect="true"/>
-  <file name="about.html" crc="29303460" seo="true" mt="1525444922369" redirect="true"/>
-  <file name="flamingo.html" crc="406006359" seo="true" mt="1525613034400" redirect="true"/>
-  <file name="dakar.html" crc="3946629156" seo="true" mt="1525612942523" redirect="true"/>
+  <file name="index.html" crc="433033218" seo="true" mt="1525615778314" redirect="true"/>
+  <file name="journal.html" crc="289473948" seo="true" mt="1525615778314" redirect="true"/>
+  <file name="about.html" crc="458439013" seo="true" mt="1525615778314" redirect="true"/>
+  <file name="flamingo.html" crc="461002361" seo="true" mt="1525615778314" redirect="true"/>
+  <file name="dakar.html" crc="4084707050" seo="true" mt="1525616179732" redirect="true"/>
 </manifest>

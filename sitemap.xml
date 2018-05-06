@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/journal.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/about.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,6 +73,33 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/maxresdefault.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/maxresdefault_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/020127075acd425d206b71c33a92cac2-crop-u2764.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/020127075acd425d206b71c33a92cac2-crop-u2764_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/5a3e580b75d881b0b1c242df755313a1-crop-u2766.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/5a3e580b75d881b0b1c242df755313a1-crop-u2766_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/870859346ff0d56bff8290471ab61c13-crop-u2768.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/hugo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/hugo_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
