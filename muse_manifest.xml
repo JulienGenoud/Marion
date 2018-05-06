@@ -1,0 +1,104 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525613141973">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="3977692676" ref="dakar:about:index:flamingo:journal"/>
+    <file name="dakar.css" crc="154971076" ref="dakar"/>
+    <file name="about.css" crc="154971076" ref="about"/>
+    <file name="index.css" crc="4029511004" ref="index"/>
+    <file name="flamingo.css" crc="423938037" ref="flamingo"/>
+    <file name="journal.css" crc="154971076" ref="journal"/>
+  </folder>
+  <folder name="fonts">
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="roboto-v18-latin-300.woff" crc="3850343889"/>
+    <file name="roboto-v18-latin-300.eot" crc="4007918318"/>
+    <file name="roboto-v18-latin-300.svg" crc="3933797602"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:journal:about:flamingo:dakar"/>
+    <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar"/>
+    <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar"/>
+    <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="boutonmenutest.jpg" crc="158262074" ref="index">
+      <caption webpage="index" alt="Portfolio"/>
+    </file>
+    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
+    <file name="facebook2.png" crc="279691190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook2_2x.png" crc="48676983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram2.png" crc="4284952714" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram2_2x.png" crc="143827305" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-flamingo-scene.png" crc="4102522831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-flamingo-scene_2x.png" crc="358628622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lampe-neon-grand-flamant-rose.jpg" crc="3998920607" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="lampe-neon-grand-flamant-rose_2x.jpg" crc="4082058498" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="affiche.gif" crc="4115504218" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="capture d’écran 2017-12-20 à 200857.png" crc="4078386759" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="capture d’écran 2017-12-20 à 200857_2x.png" crc="435942183" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="73392346457155580ba3bc3978917033.jpg" crc="274442916" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="capture d’écran 2017-12-20 à 200313.png" crc="4071612352" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="capture d’écran 2017-12-20 à 200313_2x.png" crc="304735374" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="6d62ee06a137fe1deae70ca9d26de507.jpg" crc="4193268257" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="poster.png" crc="4132729914" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="218491616" seo="true" mt="1525610104451" redirect="true"/>
+  <file name="journal.html" crc="4205643848" seo="true" mt="1525444922369" redirect="true"/>
+  <file name="about.html" crc="29303460" seo="true" mt="1525444922369" redirect="true"/>
+  <file name="flamingo.html" crc="406006359" seo="true" mt="1525613034400" redirect="true"/>
+  <file name="dakar.html" crc="3946629156" seo="true" mt="1525612942523" redirect="true"/>
+</manifest>
