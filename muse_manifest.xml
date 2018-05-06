@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525617209290">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525628412240">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-gabarit.css" crc="3977692676" ref="dakar:about:index:flamingo:journal"/>
-    <file name="dakar.css" crc="442798567" ref="dakar"/>
+    <file name="master_a-gabarit.css" crc="324690031" ref="dakar:about:index:flamingo:journal"/>
+    <file name="dakar.css" crc="218504420" ref="dakar"/>
     <file name="about.css" crc="154971076" ref="about"/>
-    <file name="index.css" crc="3896592572" ref="index"/>
+    <file name="index.css" crc="213740094" ref="index"/>
     <file name="flamingo.css" crc="4043160367" ref="flamingo"/>
     <file name="journal.css" crc="154971076" ref="journal"/>
   </folder>
@@ -46,6 +46,7 @@
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
@@ -61,10 +62,10 @@
     <file name="instagram2_2x.png" crc="143827305" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-flamingo-scene.png" crc="4102522831" seo="true" ref="index">
+    <file name="all-flamingo-scene.png" crc="101988814" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-flamingo-scene_2x.png" crc="358628622" seo="true" ref="index">
+    <file name="all-flamingo-scene_2x.png" crc="4112291088" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lampe-neon-grand-flamant-rose.jpg" crc="3998920607" seo="true" ref="flamingo">
@@ -121,10 +122,28 @@
     <file name="hugo_2x.jpg" crc="3819482917" seo="true" ref="dakar">
       <caption webpage="dakar" alt=""/>
     </file>
+    <file name="all-flamingo-scene-hover.png" crc="3941196000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-flamingo-scene-hover_2x.png" crc="17914225" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-emojizz.png" crc="3817865508" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-emojizz-hover.png" crc="421780388" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar.png" crc="4158843743" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar-hover.png" crc="217982611" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="433033218" seo="true" mt="1525615778314" redirect="true"/>
+  <file name="index.html" crc="4151989932" seo="true" mt="1525625716857" redirect="true"/>
   <file name="journal.html" crc="289473948" seo="true" mt="1525615778314" redirect="true"/>
   <file name="about.html" crc="458439013" seo="true" mt="1525615778314" redirect="true"/>
   <file name="flamingo.html" crc="461002361" seo="true" mt="1525615778314" redirect="true"/>
-  <file name="dakar.html" crc="4084707050" seo="true" mt="1525616179732" redirect="true"/>
+  <file name="dakar.html" crc="527306141" seo="true" mt="1525617350024" redirect="true"/>
 </manifest>
