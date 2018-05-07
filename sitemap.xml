@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://marionbrizardlamour.fr/index.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/journal.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/about.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/flamingo.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -42,27 +42,87 @@
       <image:loc>http://marionbrizardlamour.fr/images/lampe-neon-grand-flamant-rose_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202017-12-20%20%C3%A0%20200857.png</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202017-12-20%20%C3%A0%20200857_2x.png</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie1_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/73392346457155580ba3bc3978917033.jpg</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202017-12-20%20%C3%A0%20200313.png</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202017-12-20%20%C3%A0%20200313_2x.png</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/6d62ee06a137fe1deae70ca9d26de507.jpg</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandboo5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-6_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-7_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-10_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-11.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/dakar.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
