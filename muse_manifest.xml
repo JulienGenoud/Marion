@@ -1,12 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525730554143">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1525805623980">
+  <folder name="assets">
+    <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-gabarit.css" crc="147375246" ref="dakar:about:index:flamingo:journal"/>
-    <file name="dakar.css" crc="218504420" ref="dakar"/>
+    <file name="site_global.css" crc="179085047"/>
+    <file name="master_a-gabarit.css" crc="147375246" ref="dakar:about:index:flamingo:journal:emojizz"/>
+    <file name="dakar.css" crc="4216886605" ref="dakar"/>
     <file name="about.css" crc="154971076" ref="about"/>
     <file name="index.css" crc="3806980612" ref="index"/>
-    <file name="flamingo.css" crc="112785346" ref="flamingo"/>
+    <file name="flamingo.css" crc="4293911988" ref="flamingo"/>
     <file name="journal.css" crc="154971076" ref="journal"/>
+    <file name="emojizz.css" crc="4236493156" ref="emojizz"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -23,30 +27,30 @@
     <file name="roboto-v18-latin-300.svg" crc="3933797602"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:journal:about:flamingo:dakar"/>
-    <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar"/>
-    <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar"/>
-    <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar"/>
-    <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar:emojizz"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="boutonmenutest.jpg" crc="158262074" ref="index">
       <caption webpage="index" alt="Portfolio"/>
     </file>
-    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar">
+    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
     <file name="facebook2.png" crc="279691190" ref="index">
@@ -67,41 +71,8 @@
     <file name="all-flamingo-scene_2x.png" crc="4112291088" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lampe-neon-grand-flamant-rose.jpg" crc="3930723750" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="lampe-neon-grand-flamant-rose_2x.jpg" crc="4030010628" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
     <file name="affiche.gif" crc="4115504218" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="maxresdefault.jpg" crc="4018331231" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="maxresdefault_2x.jpg" crc="411219514" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="020127075acd425d206b71c33a92cac2-crop-u2764.png" crc="405119731" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="020127075acd425d206b71c33a92cac2-crop-u2764_2x.png" crc="3825754490" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="5a3e580b75d881b0b1c242df755313a1-crop-u2766.png" crc="3786195309" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="5a3e580b75d881b0b1c242df755313a1-crop-u2766_2x.png" crc="173664084" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="870859346ff0d56bff8290471ab61c13-crop-u2768.png" crc="4254093918" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="hugo.jpg" crc="208360934" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="hugo_2x.jpg" crc="3819482917" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
     </file>
     <file name="all-flamingo-scene-hover.png" crc="3941196000" ref="index">
       <caption webpage="index" alt=""/>
@@ -181,16 +152,7 @@
     <file name="flamingo-brandbook-7_2x.jpg" crc="4020474126" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="flamingo-brandbook-8.jpg" crc="125032093" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="flamingo-brandbook-8_2x.jpg" crc="4266856336" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="flamingo-brandbook-9.jpg" crc="72654569" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="flamingo-brandbook-9_2x.jpg" crc="3823144037" seo="true" ref="flamingo">
+    <file name="flamingo-brandbook-9.jpg" crc="437753635" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-10.jpg" crc="4081472998" seo="true" ref="flamingo">
@@ -199,13 +161,137 @@
     <file name="flamingo-brandbook-10_2x.jpg" crc="260752021" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="flamingo-brandbook-11.jpg" crc="3977014068" seo="true" ref="flamingo">
+    <file name="flamingo-brandbook-11.jpg" crc="418159994" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
+    <file name="dakar-1.jpg" crc="4226733008" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1_2x.jpg" crc="3880492729" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2.jpg" crc="3760812371" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2_2x.jpg" crc="4139284906" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0.jpg" crc="214860716" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0_2x.jpg" crc="4163467043" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3.jpg" crc="307447246" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3_2x.jpg" crc="3795641173" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4.jpg" crc="433488759" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4_2x.jpg" crc="323242158" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5.jpg" crc="4092431854" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5_2x.jpg" crc="288268053" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6.jpg" crc="20129386" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6_2x.jpg" crc="4060142720" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7.jpg" crc="4121446818" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7_2x.jpg" crc="4136126920" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-8.gif" crc="4142283708" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9-crop-u5705.png" crc="3926468235" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis.jpg" crc="4067327901" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis_2x.jpg" crc="3846537516" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10.jpg" crc="4180815871" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10_2x.jpg" crc="160749382" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11.jpg" crc="349801359" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11_2x.jpg" crc="4089490788" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12.jpg" crc="4224400988" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12_2x.jpg" crc="495592699" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="sidaction.png" crc="4227396701" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="sidaction_2x.png" crc="425249163" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1.jpg" crc="81174605" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1_2x.jpg" crc="3860815672" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2.jpg" crc="3806700827" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2_2x.jpg" crc="376920238" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4.jpg" crc="81454432" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4_2x.jpg" crc="353495554" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9.jpg" crc="4282368556" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9_2x.jpg" crc="459961818" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10.jpg" crc="3980535440" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10_2x.jpg" crc="3860143638" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11.jpg" crc="4236034688" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11_2x.jpg" crc="53521924" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u6442.png" crc="19297118" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3778962313" seo="true" mt="1525686023425" redirect="true"/>
+  <file name="index.html" crc="3993835155" seo="true" mt="1525805599542" redirect="true"/>
   <file name="journal.html" crc="285860659" seo="true" mt="1525686023425" redirect="true"/>
   <file name="about.html" crc="233464745" seo="true" mt="1525686023425" redirect="true"/>
-  <file name="flamingo.html" crc="455454590" seo="true" mt="1525728096663" redirect="true"/>
-  <file name="dakar.html" crc="377018109" seo="true" mt="1525686023425" redirect="true"/>
+  <file name="flamingo.html" crc="4165664318" seo="true" mt="1525773337202" redirect="true"/>
+  <file name="dakar.html" crc="3900205028" seo="true" mt="1525797896431" redirect="true"/>
+  <file name="emojizz.html" crc="4153193220" seo="true" mt="1525800620041" redirect="true"/>
 </manifest>
