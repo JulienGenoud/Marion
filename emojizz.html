@@ -11,19 +11,19 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "emojizz.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "emojizz.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=307270355"/>
   <title>EMOJIZZ</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3840703877"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-gabarit.css?crc=3944461461"/>
-  <link rel="stylesheet" type="text/css" href="css/emojizz.css?crc=32900301" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-gabarit.css?crc=3957356425"/>
+  <link rel="stylesheet" type="text/css" href="css/emojizz.css?crc=3997063278" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-gabarit.css?crc=4147225184"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_emojizz.css?crc=280393025" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-gabarit.css?crc=3861898373"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_emojizz.css?crc=139384698" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -472,11 +472,11 @@ $('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,467.3]}
 $('#bp_1440').one('muse_this_bp_activate', function(){
 $('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,467.3]},{"speed":[0,0],"in":[467.3,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1025').one('muse_this_bp_activate', function(){
-$('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,467.3]},{"speed":[0,0],"in":[467.3,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,470]},{"speed":[0,0],"in":[470,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1025').one('muse_this_bp_activate', function(){
+$('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,467.3]},{"speed":[0,0],"in":[467.3,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u9243').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,467.3]},{"speed":[0,0],"in":[467.3,Infinity]}], $(this)); /* scroll effect */
