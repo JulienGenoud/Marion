@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526550987990">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526551193118">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
@@ -10,11 +10,11 @@
     <file name="index.css" crc="414238321" ref="index"/>
     <file name="flamingo.css" crc="328014839" ref="flamingo"/>
     <file name="journal.css" crc="108149960" ref="journal"/>
-    <file name="emojizz.css" crc="3997063278" ref="emojizz"/>
+    <file name="emojizz.css" crc="481668003" ref="emojizz"/>
     <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
     <file name="kodak.css" crc="276060266" ref="kodak"/>
     <file name="nomq_kodak.css" crc="78797214" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="139384698" ref="emojizz"/>
+    <file name="nomq_emojizz.css" crc="3778684500" ref="emojizz"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -49,19 +49,19 @@
       <caption webpage="index" alt="Portfolio"/>
     </file>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
@@ -691,6 +691,6 @@
   <file name="about.html" crc="4145435471" seo="true" mt="1526550471144" redirect="true"/>
   <file name="flamingo.html" crc="3882010428" seo="true" mt="1526550471144" redirect="true"/>
   <file name="dakar.html" crc="184970752" seo="true" mt="1526550471144" redirect="true"/>
-  <file name="emojizz.html" crc="358520714" seo="true" mt="1526550950834" redirect="true"/>
+  <file name="emojizz.html" crc="4283401698" seo="true" mt="1526551162240" redirect="true"/>
   <file name="kodak.html" crc="495413330" seo="true" mt="1526550471144" redirect="true"/>
 </manifest>
