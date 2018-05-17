@@ -14,6 +14,12 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dandy_g_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dandy_g292x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dandy_g292x219_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/flamingo.html</loc>
