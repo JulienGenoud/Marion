@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526568991592">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526569528515">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="4136744787" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
-    <file name="dakar.css" crc="534430308" ref="dakar"/>
+    <file name="master_a-gabarit.css" crc="4148239262" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
+    <file name="dakar.css" crc="3889824835" ref="dakar"/>
     <file name="about.css" crc="243033673" ref="about"/>
     <file name="index.css" crc="494125846" ref="index"/>
-    <file name="flamingo.css" crc="4174278507" ref="flamingo"/>
+    <file name="flamingo.css" crc="4134364661" ref="flamingo"/>
     <file name="journal.css" crc="243033673" ref="journal"/>
-    <file name="emojizz.css" crc="55786643" ref="emojizz"/>
+    <file name="emojizz.css" crc="260970168" ref="emojizz"/>
     <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
     <file name="kodak.css" crc="4091735737" ref="kodak"/>
     <file name="nomq_kodak.css" crc="78797214" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="4079918336" ref="emojizz"/>
+    <file name="nomq_emojizz.css" crc="359992515" ref="emojizz"/>
     <file name="nomq_index.css" crc="3961158614" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -36,7 +36,7 @@
     <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:kodak:dakar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:kodak"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
@@ -45,51 +45,55 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:dakar"/>
+    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:flamingo"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:kodak:dakar">
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:flamingo"/>
+    <file name="facebook2.png" crc="279691190" ref="index:emojizz:kodak:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:kodak:dakar">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:kodak:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:kodak:dakar">
+    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:kodak:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:kodak:dakar">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:kodak:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="all-flamingo-scene.png" crc="101988814" ref="index">
@@ -119,9 +123,10 @@
     <file name="all-dakar-hover.jpg" crc="4217292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:kodak:dakar">
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:kodak:flamingo">
       <caption webpage="index" alt="Portfolio"/>
       <caption webpage="emojizz" alt="Portfolio"/>
+      <caption webpage="flamingo" alt="Portfolio"/>
       <caption webpage="kodak" alt="Portfolio"/>
     </file>
     <file name="f-partie1.png" crc="502616963" seo="true" ref="flamingo">
@@ -615,7 +620,7 @@
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="favicon.ico" crc="307270355" ref="index"/>
+    <file name="favicon.ico" crc="307270355" ref="index:flamingo"/>
     <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
@@ -767,8 +772,8 @@
   <file name="index.html" crc="132561580" seo="true" mt="1526568815291" redirect="true"/>
   <file name="journal.html" crc="3990187693" seo="true" mt="1526565580222" redirect="true"/>
   <file name="about.html" crc="3789245915" seo="true" mt="1526565580222" redirect="true"/>
-  <file name="flamingo.html" crc="3836995624" seo="true" mt="1526565580222" redirect="true"/>
-  <file name="dakar.html" crc="214949148" seo="true" mt="1526568174501" redirect="true"/>
-  <file name="emojizz.html" crc="215381268" seo="true" mt="1526568712264" redirect="true"/>
+  <file name="flamingo.html" crc="235568336" seo="true" mt="1526569477454" redirect="true"/>
+  <file name="dakar.html" crc="4125265323" seo="true" mt="1526569383454" redirect="true"/>
+  <file name="emojizz.html" crc="159284919" seo="true" mt="1526569363309" redirect="true"/>
   <file name="kodak.html" crc="3784877127" seo="true" mt="1526565580222" redirect="true"/>
 </manifest>
