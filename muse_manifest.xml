@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526550187170">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526550802137">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="4283986015" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
+    <file name="master_a-gabarit.css" crc="3944461461" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
     <file name="dakar.css" crc="3987278756" ref="dakar"/>
     <file name="about.css" crc="108149960" ref="about"/>
     <file name="index.css" crc="414238321" ref="index"/>
     <file name="flamingo.css" crc="328014839" ref="flamingo"/>
     <file name="journal.css" crc="108149960" ref="journal"/>
-    <file name="emojizz.css" crc="3790273814" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
+    <file name="emojizz.css" crc="32900301" ref="emojizz"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4147225184" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
     <file name="kodak.css" crc="276060266" ref="kodak"/>
     <file name="nomq_kodak.css" crc="78797214" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="115137871" ref="emojizz"/>
+    <file name="nomq_emojizz.css" crc="280393025" ref="emojizz"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -49,23 +49,24 @@
       <caption webpage="index" alt="Portfolio"/>
     </file>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:emojizz"/>
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
     <file name="facebook2.png" crc="279691190" ref="index:emojizz:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
@@ -422,38 +423,50 @@
     </file>
     <file name="prez-emojizz-1700x548.jpg" crc="4041705295" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-1700x548_2x.jpg" crc="377387107" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-2700x548.jpg" crc="435209340" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-2700x548_2x.jpg" crc="4058522600" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-4700x548.jpg" crc="464657065" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-4700x548_2x.jpg" crc="4266165434" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-9700x548.jpg" crc="503078761" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-9700x548_2x.jpg" crc="4133753664" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-10700x548.jpg" crc="308269917" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-10700x548_2x.jpg" crc="3939635251" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-11700x548.jpg" crc="33476461" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-11700x548_2x.jpg" crc="118900844" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-12-crop-u64424.png" crc="327779055" seo="true" ref="emojizz">
@@ -461,8 +474,10 @@
     </file>
     <file name="chaton3221x221.jpg" crc="462646616" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
     </file>
     <file name="chaton3221x221_2x.jpg" crc="498716717" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="chaton2-crop-u93384.png" crc="167157662" seo="true" ref="emojizz">
@@ -597,20 +612,20 @@
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="favicon.ico" crc="307270355" ref="index:emojizz"/>
-    <file name="prez-emojizz-12-crop-u64425.png" crc="31132977" seo="true" ref="emojizz">
+    <file name="favicon.ico" crc="307270355" ref="index"/>
+    <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="chaton2-crop-u93385.png" crc="159268199" seo="true" ref="emojizz">
+    <file name="chaton2-crop-u93385.png" crc="167157662" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="chaton2-crop-u9338_2x5.png" crc="4253632314" seo="true" ref="emojizz">
+    <file name="chaton2-crop-u9338_2x5.png" crc="4239839949" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="chaton1-crop-u93475.png" crc="3993584097" seo="true" ref="emojizz">
+    <file name="chaton1-crop-u93475.png" crc="16108428" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="chaton1-crop-u9347_2x5.png" crc="26795840" seo="true" ref="emojizz">
+    <file name="chaton1-crop-u9347_2x5.png" crc="3834492408" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-1548x429.jpg" crc="4038177138" seo="true" ref="emojizz">
@@ -655,12 +670,27 @@
     <file name="chaton3173x173_2x.jpg" crc="333663036" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
+    <file name="prez-emojizz-12-crop-u64426.png" crc="31132977" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93386.png" crc="159268199" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x6.png" crc="4253632314" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93476.png" crc="3993584097" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x6.png" crc="26795840" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3856580672" seo="true" mt="1526141145460" redirect="true"/>
-  <file name="journal.html" crc="4070597288" seo="true" mt="1526141145460" redirect="true"/>
-  <file name="about.html" crc="4245405470" seo="true" mt="1526141145460" redirect="true"/>
-  <file name="flamingo.html" crc="342722394" seo="true" mt="1526232773278" redirect="true"/>
-  <file name="dakar.html" crc="4218676581" seo="true" mt="1526232866206" redirect="true"/>
-  <file name="emojizz.html" crc="280338892" seo="true" mt="1526550143490" redirect="true"/>
-  <file name="kodak.html" crc="4276579329" seo="true" mt="1526141145460" redirect="true"/>
+  <file name="index.html" crc="226225298" seo="true" mt="1526550471144" redirect="true"/>
+  <file name="journal.html" crc="211987187" seo="true" mt="1526550471144" redirect="true"/>
+  <file name="about.html" crc="4145435471" seo="true" mt="1526550471144" redirect="true"/>
+  <file name="flamingo.html" crc="3882010428" seo="true" mt="1526550471144" redirect="true"/>
+  <file name="dakar.html" crc="184970752" seo="true" mt="1526550471144" redirect="true"/>
+  <file name="emojizz.html" crc="509509546" seo="true" mt="1526550769077" redirect="true"/>
+  <file name="kodak.html" crc="495413330" seo="true" mt="1526550471144" redirect="true"/>
 </manifest>

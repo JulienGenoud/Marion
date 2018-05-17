@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://marionbrizardlamour.fr/index.html</loc>
-    <lastmod>2018-05-12</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/flamingo.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/journal.html</loc>
-    <lastmod>2018-05-12</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/about.html</loc>
-    <lastmod>2018-05-12</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -362,10 +362,25 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/chaton3173x173_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-12-crop-u64426.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton2-crop-u93386.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton2-crop-u9338_2x6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton1-crop-u93476.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton1-crop-u9347_2x6.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/dakar.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -452,7 +467,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/kodak.html</loc>
-    <lastmod>2018-05-12</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
