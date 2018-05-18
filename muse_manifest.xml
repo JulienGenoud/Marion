@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526634491631">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526638419276">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="450910361" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
+    <file name="master_a-gabarit.css" crc="3787798914" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
     <file name="dakar.css" crc="3898720723" ref="dakar"/>
     <file name="about.css" crc="80146682" ref="about"/>
     <file name="index.css" crc="4186695493" ref="index"/>
     <file name="flamingo.css" crc="170057842" ref="flamingo"/>
     <file name="journal.css" crc="80146682" ref="journal"/>
-    <file name="emojizz.css" crc="4010639605" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
-    <file name="kodak.css" crc="148129832" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="493137236" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="3873026884" ref="emojizz"/>
+    <file name="emojizz.css" crc="3866666897" ref="emojizz"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4208150179" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
+    <file name="kodak.css" crc="4082587673" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="41841203" ref="kodak"/>
+    <file name="nomq_emojizz.css" crc="172952715" ref="emojizz"/>
     <file name="nomq_index.css" crc="116365635" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -47,31 +47,32 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:emojizz"/>
     <file name="facebook2.png" crc="279691190" ref="index:emojizz:kodak:journal">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
@@ -498,105 +499,65 @@
     </file>
     <file name="kodak-digitalsucks-(3)-1.jpg" crc="3789897577" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-1_2x.jpg" crc="4291688031" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2.jpg" crc="405596179" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2_2x.jpg" crc="81213135" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3.jpg" crc="4078803160" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3_2x.jpg" crc="3971845036" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4.jpg" crc="3995476888" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4_2x.jpg" crc="3921250966" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5.jpg" crc="4232644752" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5_2x.jpg" crc="223723885" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6.jpg" crc="3963715427" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6_2x.jpg" crc="272152817" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7.jpg" crc="3931610463" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7_2x.jpg" crc="3963415472" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8.jpg" crc="158220814" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8_2x.jpg" crc="456248903" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9.jpg" crc="210202430" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9_2x.jpg" crc="4234177078" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12.jpg" crc="4010487871" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12_2x.jpg" crc="484384694" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
-    <file name="favicon.ico" crc="307270355" ref="index"/>
+    <file name="favicon.ico" crc="307270355" ref="index:emojizz"/>
     <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
@@ -612,61 +573,19 @@
     <file name="chaton1-crop-u9347_2x5.png" crc="3834492408" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="prez-emojizz-1548x429.jpg" crc="4038177138" seo="true" ref="emojizz">
+    <file name="prez-emojizz-12-crop-u64426.png" crc="4028265815" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="prez-emojizz-1548x429_2x.jpg" crc="504832258" seo="true" ref="emojizz">
+    <file name="chaton2-crop-u93386.png" crc="4231760898" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="prez-emojizz-2548x429.jpg" crc="4126076589" seo="true" ref="emojizz">
+    <file name="chaton2-crop-u9338_2x6.png" crc="3897668129" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="prez-emojizz-2548x429_2x.jpg" crc="409232134" seo="true" ref="emojizz">
+    <file name="chaton1-crop-u93476.png" crc="3979392504" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
-    <file name="prez-emojizz-4548x429.jpg" crc="299166012" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4548x429_2x.jpg" crc="184748642" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9548x429.jpg" crc="480882693" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9548x429_2x.jpg" crc="4004118165" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10548x429.jpg" crc="520722140" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10548x429_2x.jpg" crc="4143405811" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11548x429.jpg" crc="4113327597" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11548x429_2x.jpg" crc="4157121510" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3173x173.jpg" crc="94409010" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3173x173_2x.jpg" crc="333663036" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64426.png" crc="31132977" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93386.png" crc="159268199" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x6.png" crc="4253632314" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93476.png" crc="3993584097" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x6.png" crc="26795840" seo="true" ref="emojizz">
+    <file name="chaton1-crop-u9347_2x6.png" crc="4046732168" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
     <file name="prez-emojizz-1320x251.jpg" crc="4246438463" seo="true" ref="emojizz">
@@ -798,62 +717,244 @@
     </file>
     <file name="kodak-digitalsucks-(3)-1700x438.jpg" crc="4036456785" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-1700x438_2x.jpg" crc="4177815517" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2700x438.jpg" crc="3962824448" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2700x438_2x.jpg" crc="257645689" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3700x438.jpg" crc="4236991858" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3700x438_2x.jpg" crc="287584599" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4700x438.jpg" crc="3792019306" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4700x438_2x.jpg" crc="444793721" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5700x438.jpg" crc="3825104864" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5700x438_2x.jpg" crc="5655053" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6700x525.jpg" crc="483298841" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6700x525_2x.jpg" crc="392626848" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7700x525.jpg" crc="4178644636" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7700x525_2x.jpg" crc="391933570" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8700x525.jpg" crc="4267538232" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8700x525_2x.jpg" crc="251727654" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9700x438.jpg" crc="71974005" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9700x438_2x.jpg" crc="4185688339" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12700x438.jpg" crc="166977711" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12700x438_2x.jpg" crc="4118477714" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="prez-emojizz-1590x462.jpg" crc="1923004" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1590x462_2x.jpg" crc="476956442" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2590x462.jpg" crc="4165165313" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2590x462_2x.jpg" crc="44358039" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4590x462.jpg" crc="4196700733" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4590x462_2x.jpg" crc="487575008" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9590x462.jpg" crc="24897569" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9590x462_2x.jpg" crc="57253170" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10590x462.jpg" crc="242244057" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10590x462_2x.jpg" crc="4244678227" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11590x462.jpg" crc="3896295432" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11590x462_2x.jpg" crc="378419825" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3186x186.jpg" crc="4136697531" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3186x186_2x.jpg" crc="314779348" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1900x563.jpg" crc="3930533510" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1900x563_2x.jpg" crc="49157678" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2900x563.jpg" crc="3762247200" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2900x563_2x.jpg" crc="81213135" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3900x563.jpg" crc="480646590" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3900x563_2x.jpg" crc="407152428" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4900x563.jpg" crc="316103589" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4900x563_2x.jpg" crc="3760724328" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5900x563.jpg" crc="3774863640" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5900x563_2x.jpg" crc="350212615" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6900x675.jpg" crc="254956671" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6900x675_2x.jpg" crc="4256812716" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7900x675.jpg" crc="4262292824" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7900x675_2x.jpg" crc="47723094" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8900x675.jpg" crc="4179620759" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8900x675_2x.jpg" crc="3870741536" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9960x600.jpg" crc="478006555" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9960x600_2x.jpg" crc="4234177078" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12900x563.jpg" crc="41619108" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12900x563_2x.jpg" crc="4107763211" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1590x369.jpg" crc="3890358340" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1590x369_2x.jpg" crc="488898443" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2590x369.jpg" crc="85744796" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2590x369_2x.jpg" crc="53928348" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3590x369.jpg" crc="528140331" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3590x369_2x.jpg" crc="3892204993" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4590x369.jpg" crc="4078244715" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4590x369_2x.jpg" crc="523813045" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5590x369.jpg" crc="3801188641" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5590x369_2x.jpg" crc="159327365" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6590x443.jpg" crc="4229845866" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6590x443_2x.jpg" crc="368037022" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7590x443.jpg" crc="279917391" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7590x443_2x.jpg" crc="3841245270" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8590x443.jpg" crc="4192100270" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8590x443_2x.jpg" crc="4258393955" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9633x396.jpg" crc="244430883" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9633x396_2x.jpg" crc="4016535766" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12590x369.jpg" crc="3807295512" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12590x369_2x.jpg" crc="3865796043" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
   </folder>
@@ -862,6 +963,6 @@
   <file name="about.html" crc="3943071564" seo="true" mt="1526633987420" redirect="true"/>
   <file name="flamingo.html" crc="362315228" seo="true" mt="1526633987420" redirect="true"/>
   <file name="dakar.html" crc="4290720507" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="emojizz.html" crc="4195105922" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="kodak.html" crc="3829910166" seo="true" mt="1526633987420" redirect="true"/>
+  <file name="emojizz.html" crc="11987741" seo="true" mt="1526635916012" redirect="true"/>
+  <file name="kodak.html" crc="4181714928" seo="true" mt="1526638377402" redirect="true"/>
 </manifest>
