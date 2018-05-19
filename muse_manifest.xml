@@ -1,21 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526638419276">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526731194707">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="3787798914" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
+    <file name="master_a-gabarit.css" crc="3793826097" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
     <file name="dakar.css" crc="3898720723" ref="dakar"/>
     <file name="about.css" crc="80146682" ref="about"/>
-    <file name="index.css" crc="4186695493" ref="index"/>
-    <file name="flamingo.css" crc="170057842" ref="flamingo"/>
+    <file name="index.css" crc="126151377" ref="index"/>
+    <file name="flamingo.css" crc="3782436737" ref="flamingo"/>
     <file name="journal.css" crc="80146682" ref="journal"/>
-    <file name="emojizz.css" crc="3866666897" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="4208150179" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
-    <file name="kodak.css" crc="4082587673" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="41841203" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="172952715" ref="emojizz"/>
-    <file name="nomq_index.css" crc="116365635" ref="index"/>
+    <file name="emojizz.css" crc="488700765" ref="emojizz"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
+    <file name="kodak.css" crc="410205850" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="4240265926" ref="kodak"/>
+    <file name="nomq_emojizz.css" crc="308087347" ref="emojizz"/>
+    <file name="nomq_index.css" crc="4079550497" ref="index"/>
+    <file name="nomq_flamingo.css" crc="530156303" ref="flamingo"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -36,16 +37,16 @@
     <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:kodak:journal"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:journal"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal"/>
+    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal:flamingo"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -55,6 +56,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
@@ -72,26 +76,26 @@
       <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:emojizz"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:kodak:journal">
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:flamingo"/>
+    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:kodak:journal">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:kodak:journal">
+    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:kodak:journal">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal:flamingo">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
@@ -104,6 +108,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="affiche.gif" crc="4115504218" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="all-flamingo-scene-hover.png" crc="3941196000" ref="index">
@@ -124,7 +131,7 @@
     <file name="all-dakar-hover.jpg" crc="4217292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:kodak:journal">
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:journal:flamingo">
       <caption webpage="index" alt="Portfolio"/>
       <caption webpage="emojizz" alt="Portfolio"/>
       <caption webpage="flamingo" alt="Portfolio"/>
@@ -132,8 +139,12 @@
     </file>
     <file name="f-partie1.png" crc="502616963" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="f-partie1_2x.png" crc="3935005208" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-1.jpg" crc="100111310" seo="true" ref="flamingo">
@@ -165,8 +176,12 @@
     </file>
     <file name="f-partie2.png" crc="3789434200" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="f-partie2_2x.png" crc="502118560" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-6.jpg" crc="3784474144" seo="true" ref="flamingo">
@@ -177,8 +192,12 @@
     </file>
     <file name="f-partie3.png" crc="3825021669" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="f-partie3_2x.png" crc="4217712432" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-7.jpg" crc="3941502350" seo="true" ref="flamingo">
@@ -196,7 +215,7 @@
     <file name="flamingo-brandbook-10_2x.jpg" crc="260752021" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="flamingo-brandbook-11.jpg" crc="418159994" seo="true" ref="flamingo">
+    <file name="flamingo-brandbook-11.jpg" crc="4085439046" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="dakar-1.jpg" crc="4226733008" seo="true" ref="dakar">
@@ -557,7 +576,7 @@
     <file name="kodak-digitalsucks-(3)-12_2x.jpg" crc="484384694" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="favicon.ico" crc="307270355" ref="index:emojizz"/>
+    <file name="favicon.ico" crc="307270355" ref="index:flamingo"/>
     <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
@@ -717,82 +736,62 @@
     </file>
     <file name="kodak-digitalsucks-(3)-1700x438.jpg" crc="4036456785" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-1700x438_2x.jpg" crc="4177815517" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2700x438.jpg" crc="3962824448" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-2700x438_2x.jpg" crc="257645689" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3700x438.jpg" crc="4236991858" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-3700x438_2x.jpg" crc="287584599" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4700x438.jpg" crc="3792019306" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-4700x438_2x.jpg" crc="444793721" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5700x438.jpg" crc="3825104864" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-5700x438_2x.jpg" crc="5655053" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6700x525.jpg" crc="483298841" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-6700x525_2x.jpg" crc="392626848" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7700x525.jpg" crc="4178644636" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-7700x525_2x.jpg" crc="391933570" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8700x525.jpg" crc="4267538232" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-8700x525_2x.jpg" crc="251727654" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9700x438.jpg" crc="71974005" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-9700x438_2x.jpg" crc="4185688339" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12700x438.jpg" crc="166977711" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12700x438_2x.jpg" crc="4118477714" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="prez-emojizz-1590x462.jpg" crc="1923004" seo="true" ref="emojizz">
@@ -945,24 +944,255 @@
     <file name="kodak-digitalsucks-(3)-8590x443_2x.jpg" crc="4258393955" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-9633x396.jpg" crc="244430883" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9633x396_2x.jpg" crc="4016535766" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
     <file name="kodak-digitalsucks-(3)-12590x369.jpg" crc="3807295512" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
     <file name="kodak-digitalsucks-(3)-12590x369_2x.jpg" crc="3865796043" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
+    <file name="flamingo-brandbook-1412x283.jpg" crc="3845355594" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-1412x283_2x.jpg" crc="3854849977" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-498x447.jpg" crc="218600785" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-498x447_2x.jpg" crc="4458625" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2213x286.jpg" crc="311372918" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2213x286_2x.jpg" crc="484927073" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3247x279.jpg" crc="477269740" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3247x279_2x.jpg" crc="121524170" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandboo5364x286.jpg" crc="3813211537" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6617x364.jpg" crc="4251315122" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6617x364_2x.jpg" crc="3891807722" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7350x405.jpg" crc="401861150" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7350x405_2x.jpg" crc="4029169968" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-9514x389.jpg" crc="224779121" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10528x373.jpg" crc="4203928872" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10528x373_2x.jpg" crc="48293143" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-11350x262.jpg" crc="4106968652" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-1404x278.jpg" crc="447592026" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-1404x278_2x.jpg" crc="266845206" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-497x439.jpg" crc="93368164" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-497x439_2x.jpg" crc="3806358142" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2209x281.jpg" crc="242471498" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2209x281_2x.jpg" crc="3811647977" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3243x274.jpg" crc="4081429600" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3243x274_2x.jpg" crc="3809771055" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandboo5357x281.jpg" crc="226810900" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6606x357.jpg" crc="158106642" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6606x357_2x.jpg" crc="3856293730" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7344x398.jpg" crc="3987775588" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7344x398_2x.jpg" crc="217993120" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-9505x382.jpg" crc="187113215" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10519x367.jpg" crc="104699306" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10519x367_2x.jpg" crc="3954126873" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-11330x247.jpg" crc="3994239816" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie190x73.png" crc="4115757654" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie190x73_2x.png" crc="3785777784" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie3100x72.png" crc="158553652" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie3100x72_2x.png" crc="4198870737" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-1207x142.jpg" crc="378539637" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-1207x142_2x.jpg" crc="4130732990" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-450x225.jpg" crc="4178152059" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-450x225_2x.jpg" crc="518666095" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2107x144.jpg" crc="4080501311" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-2107x144_2x.jpg" crc="320227630" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3124x140.jpg" crc="196220887" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-3124x140_2x.jpg" crc="3784159393" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandboo5183x144.jpg" crc="3867516298" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6310x183.jpg" crc="4044382361" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-6310x183_2x.jpg" crc="4140946270" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7176x204.jpg" crc="522059895" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-7176x204_2x.jpg" crc="27975921" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-9259x196.jpg" crc="359904623" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10265x188.jpg" crc="4041441528" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-10265x188_2x.jpg" crc="325964671" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie2117x74.png" crc="200263223" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie2117x74_2x.png" crc="3896182267" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="flamingo-brandbook-11200x150.jpg" crc="3869189403" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9638x410.jpg" crc="409393974" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9638x410_2x.jpg" crc="4015691288" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1320x201.jpg" crc="4065406401" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1320x201_2x.jpg" crc="321744788" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2320x200.jpg" crc="139051025" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2320x200_2x.jpg" crc="327161055" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3320x200.jpg" crc="39020034" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3320x200_2x.jpg" crc="4195969639" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4320x200.jpg" crc="482121796" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4320x200_2x.jpg" crc="106577817" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5320x200.jpg" crc="469014092" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5320x200_2x.jpg" crc="46436852" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6320x240.jpg" crc="215116461" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6320x240_2x.jpg" crc="517490839" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7320x240.jpg" crc="60917866" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7320x240_2x.jpg" crc="321194004" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8320x240.jpg" crc="246440023" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8320x240_2x.jpg" crc="3864522695" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9320x200.jpg" crc="46693129" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9320x200_2x.jpg" crc="212818098" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12320x200.jpg" crc="319236537" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12320x200_2x.jpg" crc="4280154272" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="171338292" seo="true" mt="1526634404971" redirect="true"/>
+  <file name="index.html" crc="4131970671" seo="true" mt="1526679337815" redirect="true"/>
   <file name="journal.html" crc="86786057" seo="true" mt="1526633987420" redirect="true"/>
   <file name="about.html" crc="3943071564" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="flamingo.html" crc="362315228" seo="true" mt="1526633987420" redirect="true"/>
+  <file name="flamingo.html" crc="3853034174" seo="true" mt="1526731069750" redirect="true"/>
   <file name="dakar.html" crc="4290720507" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="emojizz.html" crc="11987741" seo="true" mt="1526635916012" redirect="true"/>
-  <file name="kodak.html" crc="4181714928" seo="true" mt="1526638377402" redirect="true"/>
+  <file name="emojizz.html" crc="337992936" seo="true" mt="1526679452539" redirect="true"/>
+  <file name="kodak.html" crc="4036668104" seo="true" mt="1526730120313" redirect="true"/>
 </manifest>
