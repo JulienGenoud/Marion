@@ -1,23 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526735391009">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526751460277">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="361016231" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
-    <file name="dakar.css" crc="4155868250" ref="dakar"/>
+    <file name="master_a-gabarit.css" crc="3823460082" ref="dakar:about:index:flamingo:journal:emojizz:kodak:palais-des-glaces"/>
+    <file name="dakar.css" crc="108781612" ref="dakar"/>
     <file name="about.css" crc="80146682" ref="about"/>
-    <file name="index.css" crc="3973807814" ref="index"/>
+    <file name="index.css" crc="515012827" ref="index"/>
     <file name="flamingo.css" crc="3843440722" ref="flamingo"/>
     <file name="journal.css" crc="80146682" ref="journal"/>
     <file name="emojizz.css" crc="229571487" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="4208150179" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
-    <file name="kodak.css" crc="158707601" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="399186179" ref="kodak"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4208150179" ref="journal:kodak:emojizz:index:dakar:flamingo:about:palais-des-glaces"/>
+    <file name="kodak.css" crc="3803661098" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="4241914719" ref="kodak"/>
     <file name="nomq_emojizz.css" crc="139822692" ref="emojizz"/>
-    <file name="nomq_index.css" crc="3913675770" ref="index"/>
+    <file name="nomq_index.css" crc="4024650753" ref="index"/>
     <file name="nomq_flamingo.css" crc="287348725" ref="flamingo"/>
-    <file name="nomq_dakar.css" crc="385324190" ref="dakar"/>
+    <file name="nomq_dakar.css" crc="450184909" ref="dakar"/>
+    <file name="palais-des-glaces.css" crc="3857617603" ref="palais-des-glaces"/>
+    <file name="nomq_palais-des-glaces.css" crc="475895731" ref="palais-des-glaces"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -34,29 +36,28 @@
     <file name="roboto-v18-latin-300.svg" crc="3933797602"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:journal"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo:dakar"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="museutils.js" crc="340535759" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="whatinput.js" crc="86476730" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="museconfig.js" crc="310584261" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:journal:kodak"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak:palais-des-glaces"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo:dakar:palais-des-glaces"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal:flamingo:dakar"/>
-    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal:flamingo:dakar:palais-des-glaces"/>
+    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak:palais-des-glaces">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
@@ -66,13 +67,18 @@
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
@@ -81,25 +87,25 @@
       <caption webpage="journal" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal">
+    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal">
+    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
@@ -135,7 +141,7 @@
     <file name="all-dakar-hover.jpg" crc="4217292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:journal">
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:journal:kodak">
       <caption webpage="index" alt="Portfolio"/>
       <caption webpage="emojizz" alt="Portfolio"/>
       <caption webpage="flamingo" alt="Portfolio"/>
@@ -1423,12 +1429,225 @@
     <file name="dakar-12284x164_2x.jpg" crc="405460965" seo="true" ref="dakar">
       <caption webpage="dakar" alt=""/>
     </file>
+    <file name="theatregalerie.jpg" crc="4092723282" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_04.jpg" crc="4026160071" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06.jpg" crc="316841315" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06_2x.jpg" crc="3822130862" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07.jpg" crc="3995914539" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07_2x.jpg" crc="364701508" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_08.jpg" crc="3839708134" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09.jpg" crc="3954907875" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09_2x.jpg" crc="3899266801" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11.jpg" crc="477970114" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11_2x.jpg" crc="223761771" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12.jpg" crc="4174114193" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12_2x.jpg" crc="481280215" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_02-crop-u30867.png" crc="4083417020" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_13.jpg" crc="4192889619" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_13_2x.jpg" crc="390984265" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14.jpg" crc="3803720767" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14_2x.jpg" crc="3862261387" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15.jpg" crc="110780103" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15_2x.jpg" crc="130100532" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregif2.gif" crc="58254494" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregif2_2x.gif" crc="58254494" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregalerie320x472.jpg" crc="270027922" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_04771x438.jpg" crc="3910960718" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06700x464.jpg" crc="3862684807" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06700x464_2x.jpg" crc="3966067192" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07700x464.jpg" crc="241368603" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07700x464_2x.jpg" crc="299336279" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_08700x464.jpg" crc="4229627953" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09700x464.jpg" crc="3770543782" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09700x464_2x.jpg" crc="491711701" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11700x477.jpg" crc="496064933" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11700x477_2x.jpg" crc="4036088231" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12700x464.jpg" crc="242739461" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12700x464_2x.jpg" crc="9957395" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_02-crop-u308672.png" crc="182301301" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_04650x369.jpg" crc="3854845976" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06590x391.jpg" crc="118290925" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06590x391_2x.jpg" crc="4016716764" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07590x391.jpg" crc="4222350658" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07590x391_2x.jpg" crc="446567481" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_08590x391.jpg" crc="222628006" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09590x391.jpg" crc="120390020" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09590x391_2x.jpg" crc="324496064" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11590x402.jpg" crc="4041781733" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11590x402_2x.jpg" crc="3889511924" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12590x391.jpg" crc="448745447" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12590x391_2x.jpg" crc="3988070186" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_02-crop-u308673.png" crc="469866756" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_04352x200.jpg" crc="472211386" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06320x212.jpg" crc="4078984984" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_06320x212_2x.jpg" crc="4001240800" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07320x212.jpg" crc="96959050" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_07320x212_2x.jpg" crc="229596411" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_08320x212.jpg" crc="62339363" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09320x212.jpg" crc="4284910858" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_09320x212_2x.jpg" crc="3850647861" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11320x218.jpg" crc="4078610157" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_11320x218_2x.jpg" crc="272944823" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12320x212.jpg" crc="505282035" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_12320x212_2x.jpg" crc="243447689" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_02-crop-u308674.png" crc="494401515" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4247586387" seo="true" mt="1526735307449" redirect="true"/>
+  <file name="index.html" crc="484453661" seo="true" mt="1526751417212" redirect="true"/>
   <file name="journal.html" crc="224016788" seo="true" mt="1526735230834" redirect="true"/>
   <file name="about.html" crc="514219494" seo="true" mt="1526735230834" redirect="true"/>
   <file name="flamingo.html" crc="4114860549" seo="true" mt="1526735230834" redirect="true"/>
-  <file name="dakar.html" crc="3804221929" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="dakar.html" crc="3910928412" seo="true" mt="1526735646144" redirect="true"/>
   <file name="emojizz.html" crc="236731999" seo="true" mt="1526735230834" redirect="true"/>
-  <file name="kodak.html" crc="425257532" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="kodak.html" crc="3864651546" seo="true" mt="1526735696632" redirect="true"/>
+  <file name="palais-des-glaces.html" crc="476621289" seo="true" mt="1526751342907" redirect="true"/>
 </manifest>

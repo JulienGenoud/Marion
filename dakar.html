@@ -18,12 +18,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>DAKAR</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3840703877"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-gabarit.css?crc=361016231"/>
-  <link rel="stylesheet" type="text/css" href="css/dakar.css?crc=4155868250" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-gabarit.css?crc=3823460082"/>
+  <link rel="stylesheet" type="text/css" href="css/dakar.css?crc=108781612" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-gabarit.css?crc=4208150179"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_dakar.css?crc=385324190" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_dakar.css?crc=450184909" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -375,11 +375,11 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u18427').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,470]},{"speed":[0,0],"in":[470,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1025').one('muse_this_bp_activate', function(){
-$('#u18427').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,363]},{"speed":[0,0],"in":[363,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1240').one('muse_this_bp_activate', function(){
 $('#u18427').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,397.9]},{"speed":[0,0],"in":[397.9,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1025').one('muse_this_bp_activate', function(){
+$('#u18427').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,363]},{"speed":[0,0],"in":[363,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
