@@ -1,22 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526731194707">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526735391009">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="3793826097" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
-    <file name="dakar.css" crc="3898720723" ref="dakar"/>
+    <file name="master_a-gabarit.css" crc="361016231" ref="dakar:about:index:flamingo:journal:emojizz:kodak"/>
+    <file name="dakar.css" crc="4155868250" ref="dakar"/>
     <file name="about.css" crc="80146682" ref="about"/>
-    <file name="index.css" crc="126151377" ref="index"/>
-    <file name="flamingo.css" crc="3782436737" ref="flamingo"/>
+    <file name="index.css" crc="3973807814" ref="index"/>
+    <file name="flamingo.css" crc="3843440722" ref="flamingo"/>
     <file name="journal.css" crc="80146682" ref="journal"/>
-    <file name="emojizz.css" crc="488700765" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="3861898373" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
-    <file name="kodak.css" crc="410205850" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="4240265926" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="308087347" ref="emojizz"/>
-    <file name="nomq_index.css" crc="4079550497" ref="index"/>
-    <file name="nomq_flamingo.css" crc="530156303" ref="flamingo"/>
+    <file name="emojizz.css" crc="229571487" ref="emojizz"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4208150179" ref="journal:kodak:emojizz:index:dakar:flamingo:about"/>
+    <file name="kodak.css" crc="158707601" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="399186179" ref="kodak"/>
+    <file name="nomq_emojizz.css" crc="139822692" ref="emojizz"/>
+    <file name="nomq_index.css" crc="3913675770" ref="index"/>
+    <file name="nomq_flamingo.css" crc="287348725" ref="flamingo"/>
+    <file name="nomq_dakar.css" crc="385324190" ref="dakar"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -43,10 +44,10 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="require.js" crc="7928878" ref="index:journal:about:flamingo:dakar:emojizz:kodak"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo:dakar"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal:flamingo"/>
+    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:journal:flamingo:dakar"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:journal:about:flamingo:dakar:emojizz:kodak">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -74,28 +75,31 @@
       <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
       <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:flamingo"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal:flamingo">
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
+    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal:flamingo">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal:flamingo">
+    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal:flamingo">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal">
       <caption webpage="index" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
@@ -131,7 +135,7 @@
     <file name="all-dakar-hover.jpg" crc="4217292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:journal:flamingo">
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:journal">
       <caption webpage="index" alt="Portfolio"/>
       <caption webpage="emojizz" alt="Portfolio"/>
       <caption webpage="flamingo" alt="Portfolio"/>
@@ -267,6 +271,9 @@
       <caption webpage="dakar" alt=""/>
     </file>
     <file name="dakar-8.gif" crc="4142283708" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
     </file>
     <file name="dakar-9-crop-u5705.png" crc="3926468235" seo="true" ref="dakar">
@@ -576,7 +583,7 @@
     <file name="kodak-digitalsucks-(3)-12_2x.jpg" crc="484384694" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="favicon.ico" crc="307270355" ref="index:flamingo"/>
+    <file name="favicon.ico" crc="307270355" ref="index"/>
     <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
       <caption webpage="emojizz" alt=""/>
     </file>
@@ -1187,12 +1194,241 @@
     <file name="kodak-digitalsucks-(3)-12320x200_2x.jpg" crc="4280154272" seo="true" ref="kodak">
       <caption webpage="kodak" alt=""/>
     </file>
+    <file name="facebook2-u27316-fr.png" crc="3822551541" ref="index"/>
+    <file name="facebook2-u27316-fr_2x.png" crc="3850140343" ref="index"/>
+    <file name="instagram2-u27317-fr.png" crc="306722857" ref="index"/>
+    <file name="instagram2-u27317-fr_2x.png" crc="4100779340" ref="index"/>
+    <file name="dakar-1722x7.jpg" crc="3949609859" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1722x7_2x.jpg" crc="3870625664" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2168x207.jpg" crc="483943526" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2168x207_2x.jpg" crc="338882175" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0308x222.jpg" crc="4008805171" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0308x222_2x.jpg" crc="4057867595" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3722x524.jpg" crc="129147862" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3722x524_2x.jpg" crc="4223473205" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4584x513.jpg" crc="4274231873" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4584x513_2x.jpg" crc="3849773023" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5552x321.jpg" crc="3787855195" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5552x321_2x.jpg" crc="3898067898" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6721x411.jpg" crc="4248825986" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6721x411_2x.jpg" crc="532468500" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7734x502.jpg" crc="366545689" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7734x502_2x.jpg" crc="4224301375" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9-crop-u57052.png" crc="318014191" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis210x48.jpg" crc="286726191" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis210x48_2x.jpg" crc="502036116" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10665x341.jpg" crc="222560431" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10665x341_2x.jpg" crc="505121780" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11644x326.jpg" crc="515071179" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11644x326_2x.jpg" crc="305992998" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12644x373.jpg" crc="3769901184" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12644x373_2x.jpg" crc="3835801636" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1674x7.jpg" crc="414681874" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1674x7_2x.jpg" crc="127248520" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2157x193.jpg" crc="332345459" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-2157x193_2x.jpg" crc="4174766258" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0287x207.jpg" crc="373604696" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0287x207_2x.jpg" crc="307769956" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3674x490.jpg" crc="220550358" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3674x490_2x.jpg" crc="351458295" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4545x479.jpg" crc="35909145" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4545x479_2x.jpg" crc="171683862" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5516x300.jpg" crc="102551165" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5516x300_2x.jpg" crc="422650334" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6673x384.jpg" crc="307258508" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6673x384_2x.jpg" crc="356953567" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7685x468.jpg" crc="4214749019" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7685x468_2x.jpg" crc="3812127634" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9-crop-u57053.png" crc="455729089" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis196x45.jpg" crc="161831043" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis196x45_2x.jpg" crc="520448395" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10621x318.jpg" crc="374772760" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10621x318_2x.jpg" crc="228286897" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11601x304.jpg" crc="4125257029" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11601x304_2x.jpg" crc="375309352" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12601x348.jpg" crc="379192790" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12601x348_2x.jpg" crc="108801268" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1280x3.jpg" crc="499614155" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-1280x3_2x.jpg" crc="4035928331" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-274x91.jpg" crc="193923117" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-274x91_2x.jpg" crc="3873339946" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0190x137.jpg" crc="266452749" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-0190x137_2x.jpg" crc="3852561002" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3318x231.jpg" crc="347760620" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-3318x231_2x.jpg" crc="4197977768" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4257x226.jpg" crc="78189485" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-4257x226_2x.jpg" crc="291208227" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5243x142.jpg" crc="3811302316" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-5243x142_2x.jpg" crc="4200233936" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6318x181.jpg" crc="391459157" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-6318x181_2x.jpg" crc="448699015" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7323x221.jpg" crc="4186984076" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-7323x221_2x.jpg" crc="3820594799" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9-crop-u57054.png" crc="121569611" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis93x21.jpg" crc="102639424" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-9bis93x21_2x.jpg" crc="253964052" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10293x150.jpg" crc="285504878" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-10293x150_2x.jpg" crc="4034490611" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11284x144.jpg" crc="4028411177" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11284x144_2x.jpg" crc="228462457" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12284x164.jpg" crc="505865478" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12284x164_2x.jpg" crc="405460965" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4131970671" seo="true" mt="1526679337815" redirect="true"/>
-  <file name="journal.html" crc="86786057" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="about.html" crc="3943071564" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="flamingo.html" crc="3853034174" seo="true" mt="1526731069750" redirect="true"/>
-  <file name="dakar.html" crc="4290720507" seo="true" mt="1526633987420" redirect="true"/>
-  <file name="emojizz.html" crc="337992936" seo="true" mt="1526679452539" redirect="true"/>
-  <file name="kodak.html" crc="4036668104" seo="true" mt="1526730120313" redirect="true"/>
+  <file name="index.html" crc="4247586387" seo="true" mt="1526735307449" redirect="true"/>
+  <file name="journal.html" crc="224016788" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="about.html" crc="514219494" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="flamingo.html" crc="4114860549" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="dakar.html" crc="3804221929" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="emojizz.html" crc="236731999" seo="true" mt="1526735230834" redirect="true"/>
+  <file name="kodak.html" crc="425257532" seo="true" mt="1526735230834" redirect="true"/>
 </manifest>
