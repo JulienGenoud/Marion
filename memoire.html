@@ -19,11 +19,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3840703877"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-gabarit.css?crc=3796304427"/>
-  <link rel="stylesheet" type="text/css" href="css/memoire.css?crc=3811118187" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/memoire.css?crc=4150663845" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-gabarit.css?crc=441653640"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_memoire.css?crc=534320678" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_memoire.css?crc=4102744343" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -116,7 +116,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="8644" data-content-above-spacer="8976" data-content-below-spacer="332"></div>
+    <div class="verticalspacer" data-offset-top="8644" data-content-above-spacer="8842" data-content-below-spacer="198"></div>
     <div class="browser_width grpelem shared_content" id="u36222-bw" data-content-guid="u36222-bw_content">
      <div id="u36222"><!-- column -->
       <div class="clearfix" id="u36222_align_to_page">
@@ -199,7 +199,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="7315" data-content-above-spacer="7647" data-content-below-spacer="332"></div>
+    <div class="verticalspacer" data-offset-top="7315" data-content-above-spacer="7647" data-content-below-spacer="198"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u36222-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -269,7 +269,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="5769" data-content-above-spacer="5963" data-content-below-spacer="194"></div>
+    <div class="verticalspacer" data-offset-top="5769" data-content-above-spacer="5955" data-content-below-spacer="146"></div>
     <div class="browser_width grpelem temp_no_id" data-orig-id="u36222-bw">
      <div class="temp_no_id" data-orig-id="u36222"><!-- group -->
       <div class="clearfix temp_no_id" data-orig-id="u36222_align_to_page">
@@ -465,17 +465,17 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1440', '#bp_1240', '#bp_1025', '#bp_414'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u33792').registerPositionScrollEffect([{"in":[-Infinity,470],"speed":[1,0]},{"in":[470,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1025').one('muse_this_bp_activate', function(){
 $('#u33792').registerPositionScrollEffect([{"in":[-Infinity,356],"speed":[1,0]},{"in":[356,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1240').one('muse_this_bp_activate', function(){
-$('#u33792').registerPositionScrollEffect([{"in":[-Infinity,397],"speed":[1,0]},{"in":[397,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1440').one('muse_this_bp_activate', function(){
 $('#u33792').registerPositionScrollEffect([{"in":[-Infinity,387.3],"speed":[1,0]},{"in":[387.3,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u33792').registerPositionScrollEffect([{"in":[-Infinity,470],"speed":[1,0]},{"in":[470,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1240').one('muse_this_bp_activate', function(){
+$('#u33792').registerPositionScrollEffect([{"in":[-Infinity,397],"speed":[1,0]},{"in":[397,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
