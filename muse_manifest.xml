@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1526861055692">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1528026539388">
   <folder name="assets">
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3840703877"/>
     <file name="master_a-gabarit.css" crc="3796304427" ref="dakar:about:index:flamingo:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
-    <file name="dakar.css" crc="4043506867" ref="dakar"/>
+    <file name="dakar.css" crc="153514457" ref="dakar"/>
     <file name="about.css" crc="4179408350" ref="about"/>
-    <file name="index.css" crc="19365803" ref="index"/>
-    <file name="flamingo.css" crc="3796268381" ref="flamingo"/>
-    <file name="emojizz.css" crc="4194199038" ref="emojizz"/>
+    <file name="index.css" crc="82934417" ref="index"/>
+    <file name="flamingo.css" crc="4109493837" ref="flamingo"/>
+    <file name="emojizz.css" crc="85505116" ref="emojizz"/>
     <file name="nomq_preview_master_a-gabarit.css" crc="441653640" ref="kodak:emojizz:index:dakar:flamingo:about:palais-des-glaces:memoire:dios-rojo"/>
-    <file name="kodak.css" crc="267390755" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="3951496259" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="275120233" ref="emojizz"/>
-    <file name="nomq_index.css" crc="4162896242" ref="index"/>
-    <file name="nomq_flamingo.css" crc="157285419" ref="flamingo"/>
-    <file name="nomq_dakar.css" crc="346113176" ref="dakar"/>
-    <file name="palais-des-glaces.css" crc="471518407" ref="palais-des-glaces"/>
-    <file name="nomq_palais-des-glaces.css" crc="324522566" ref="palais-des-glaces"/>
-    <file name="memoire.css" crc="193533407" ref="memoire"/>
-    <file name="nomq_memoire.css" crc="365471171" ref="memoire"/>
-    <file name="dios-rojo.css" crc="3950144203" ref="dios-rojo"/>
-    <file name="nomq_dios-rojo.css" crc="439424236" ref="dios-rojo"/>
+    <file name="kodak.css" crc="4271970969" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="198324211" ref="kodak"/>
+    <file name="nomq_emojizz.css" crc="359360845" ref="emojizz"/>
+    <file name="nomq_index.css" crc="4024782713" ref="index"/>
+    <file name="nomq_flamingo.css" crc="3982393985" ref="flamingo"/>
+    <file name="nomq_dakar.css" crc="3845904995" ref="dakar"/>
+    <file name="palais-des-glaces.css" crc="4059275620" ref="palais-des-glaces"/>
+    <file name="nomq_palais-des-glaces.css" crc="3914692766" ref="palais-des-glaces"/>
+    <file name="memoire.css" crc="3811118187" ref="memoire"/>
+    <file name="nomq_memoire.css" crc="534320678" ref="memoire"/>
+    <file name="dios-rojo.css" crc="309791060" ref="dios-rojo"/>
+    <file name="nomq_dios-rojo.css" crc="4015615611" ref="dios-rojo"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
@@ -54,75 +54,75 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:flamingo:dakar:palais-des-glaces:about:memoire:dios-rojo"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="journal" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
       <caption webpage="kodak" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
     <file name="facebook2.png" crc="279691190" ref="index:emojizz:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="instagram2.png" crc="4284952714" ref="index:emojizz:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="flamingo" alt=""/>
       <caption webpage="emojizz" alt=""/>
       <caption webpage="kodak" alt=""/>
-      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="all-flamingo-scene.png" crc="101988814" ref="index">
       <caption webpage="index" alt=""/>
@@ -156,9 +156,9 @@
     </file>
     <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:about">
       <caption webpage="index" alt="Portfolio"/>
+      <caption webpage="flamingo" alt="Portfolio"/>
       <caption webpage="emojizz" alt="Portfolio"/>
       <caption webpage="kodak" alt="Portfolio"/>
-      <caption webpage="flamingo" alt="Portfolio"/>
     </file>
     <file name="f-partie1.png" crc="502616963" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
@@ -1639,11 +1639,6 @@
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
@@ -1653,27 +1648,32 @@
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
     </file>
     <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index"/>
     <file name="all-theatre-u32563-fr.jpg" crc="207468063" ref="index"/>
@@ -2504,14 +2504,38 @@
     <file name="resto-13320x200_2x.jpg" crc="497569335" seo="true" ref="dios-rojo">
       <caption webpage="dios-rojo" alt=""/>
     </file>
+    <file name="all-diosrojo.jpg" crc="4217963" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo_2x.jpg" crc="389757753" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-hover.jpg" crc="4236463346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-hover_2x.jpg" crc="4166021784" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-u37926-fr.jpg" crc="4003272754" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x.jpg" crc="4285487422" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr.jpg" crc="368401761" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x.jpg" crc="223105827" ref="index"/>
+    <file name="all-diosrojo-u37926-fr2.jpg" crc="4264820682" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x2.jpg" crc="375674952" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr2.jpg" crc="3804305299" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x2.jpg" crc="468302911" ref="index"/>
+    <file name="all-diosrojo-u37926-fr3.jpg" crc="4066748181" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x3.jpg" crc="384343628" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr3.jpg" crc="3810080718" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x3.jpg" crc="106559286" ref="index"/>
   </folder>
-  <file name="index.html" crc="3941920342" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="about.html" crc="533798966" seo="true" mt="1526860914123" redirect="true"/>
-  <file name="flamingo.html" crc="4261267581" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="dakar.html" crc="166040903" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="emojizz.html" crc="515595583" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="kodak.html" crc="118695617" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="palais-des-glaces.html" crc="5802391" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="memoire.html" crc="3760497917" seo="true" mt="1526860864459" redirect="true"/>
-  <file name="dios-rojo.html" crc="4145683177" seo="true" mt="1526860864459" redirect="true"/>
+  <file name="index.html" crc="3758674111" seo="true" mt="1528026449404" redirect="true"/>
+  <file name="about.html" crc="533798966" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="flamingo.html" crc="4278042666" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="dakar.html" crc="4068717575" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="emojizz.html" crc="3894535537" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="kodak.html" crc="4282212386" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="palais-des-glaces.html" crc="4172460796" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="memoire.html" crc="4197836707" seo="true" mt="1528016307013" redirect="true"/>
+  <file name="dios-rojo.html" crc="98367008" seo="true" mt="1528016307013" redirect="true"/>
 </manifest>
