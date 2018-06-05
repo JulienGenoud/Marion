@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://marionbrizardlamour.fr/index.html</loc>
-    <lastmod>2018-06-03</lastmod>
+    <lastmod>2018-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,6 +19,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatregalerie.jpg</image:loc>
@@ -63,6 +66,12 @@
       <image:loc>http://marionbrizardlamour.fr/images/theatre_02-crop-u30867.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatregif2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatregif2_2x.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_13.jpg</image:loc>
     </image:image>
     <image:image>
@@ -79,12 +88,6 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_15_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatregif2.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatregif2_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatregalerie320x472.jpg</image:loc>
@@ -129,6 +132,27 @@
       <image:loc>http://marionbrizardlamour.fr/images/theatre_02-crop-u308672.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_13705x909.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_13705x909_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_14705x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_14705x420_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_15705x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_15705x420_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatregalerie240x354.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_04650x369.jpg</image:loc>
     </image:image>
     <image:image>
@@ -165,6 +189,30 @@
       <image:loc>http://marionbrizardlamour.fr/images/theatre_12590x391_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_02730x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_13590x761.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_13590x761_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_14590x352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_14590x352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_15590x352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatre_15590x352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/theatregalerie190x280.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_04352x200.jpg</image:loc>
     </image:image>
     <image:image>
@@ -199,54 +247,6 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_12320x212_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_13705x909.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_13705x909_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_14705x420.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_14705x420_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_15705x420.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_15705x420_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatregalerie240x354.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_02730x402.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_13590x761.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_13590x761_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_14590x352.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_14590x352_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_15590x352.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatre_15590x352_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/theatregalerie190x280.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/theatre_02400x220.jpg</image:loc>
@@ -297,10 +297,19 @@
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/f-partie1.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/f-partie1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie3_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-1.jpg</image:loc>
@@ -330,22 +339,10 @@
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandboo5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/f-partie2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/f-partie2_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-6.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-6_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/f-partie3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/f-partie3_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-7.jpg</image:loc>
@@ -364,6 +361,12 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/f-partie2_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-1412x283.jpg</image:loc>
@@ -536,9 +539,6 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/flamingo-brandbook-11200x150.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/dakar.html</loc>
@@ -547,6 +547,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dakar-1.jpg</image:loc>
@@ -851,9 +854,6 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dakar-12284x164_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/emojizz.html</loc>
@@ -862,6 +862,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-1.jpg</image:loc>
@@ -1065,7 +1068,49 @@
       <image:loc>http://marionbrizardlamour.fr/images/chaton1-crop-u9347_2x5.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-1590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-1590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-2590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-2590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-4590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-4590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-9590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-9590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-10590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-10590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-11590x462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-11590x462_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-12-crop-u64426.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton3186x186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/chaton3186x186_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/chaton2-crop-u93386.png</image:loc>
@@ -1136,51 +1181,6 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/chaton1-crop-u9347_2x7.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-1590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-1590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-2590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-2590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-4590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-4590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-9590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-9590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-10590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-10590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-11590x462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/prez-emojizz-11590x462_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/chaton3186x186.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/chaton3186x186_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/kodak.html</loc>
@@ -1189,6 +1189,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-99738-x-55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1.jpg</image:loc>
@@ -1251,66 +1254,6 @@
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-2700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-2700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-3700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-3700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-4700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-4700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-5700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-5700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-6700x525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-6700x525_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-7700x525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-7700x525_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-8700x525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-8700x525_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12700x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12700x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1900x563.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1371,6 +1314,66 @@
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12900x563_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-2700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-2700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-3700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-3700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-4700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-4700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-5700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-5700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-6700x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-6700x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-7700x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-7700x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-8700x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-8700x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12700x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12700x438_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1590x369.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1419,16 +1422,16 @@
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-8590x443_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12590x369.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12590x369_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9638x410.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-9638x410_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12590x369.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12590x369_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-1320x201.jpg</image:loc>
@@ -1490,13 +1493,10 @@
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/kodak-digitalsucks-(3)-12320x200_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/jeanette.html</loc>
-    <lastmod>2018-06-03</lastmod>
+    <lastmod>2018-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1507,6 +1507,102 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/mbl_6634_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6652451x299.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6652451x299_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6498-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6498-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6501.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6501_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post15_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post17_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post20_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post18_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/post19_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20142600.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20142600_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20142307.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20142307_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20141840.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20141840_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20141905.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%20141905_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6652.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mbl_6652_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%201426001237x703.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%201426001237x703_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%201426001236x703.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/capture%20d%E2%80%99%C3%A9cran%202018-05-17%20%C3%A0%201426001236x703_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -2255,7 +2351,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/les-mamies.html</loc>
-    <lastmod>2018-06-03</lastmod>
+    <lastmod>2018-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2264,7 +2360,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/les-sacs.html</loc>
-    <lastmod>2018-06-03</lastmod>
+    <lastmod>2018-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2273,7 +2369,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/le-journal.html</loc>
-    <lastmod>2018-06-03</lastmod>
+    <lastmod>2018-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

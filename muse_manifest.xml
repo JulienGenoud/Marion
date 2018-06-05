@@ -1,40 +1,52 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1528030306426">
-  <folder name="assets">
-    <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1528239015021">
   <folder name="css">
-    <file name="site_global.css" crc="3840703877"/>
-    <file name="master_a-gabarit.css" crc="3796304427" ref="dakar:about:index:flamingo:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
-    <file name="dakar.css" crc="290289606" ref="dakar"/>
-    <file name="about.css" crc="119158488" ref="about"/>
-    <file name="index.css" crc="3962830842" ref="index"/>
-    <file name="flamingo.css" crc="4069505696" ref="flamingo"/>
-    <file name="emojizz.css" crc="3779363633" ref="emojizz"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="441653640" ref="kodak:emojizz:index:dakar:flamingo:about:palais-des-glaces:memoire:dios-rojo"/>
-    <file name="kodak.css" crc="4233392357" ref="kodak"/>
-    <file name="nomq_kodak.css" crc="4014965651" ref="kodak"/>
-    <file name="nomq_emojizz.css" crc="180632618" ref="emojizz"/>
-    <file name="nomq_index.css" crc="3948960441" ref="index"/>
-    <file name="nomq_flamingo.css" crc="3968449563" ref="flamingo"/>
-    <file name="nomq_dakar.css" crc="463643889" ref="dakar"/>
-    <file name="palais-des-glaces.css" crc="4076140443" ref="palais-des-glaces"/>
+    <file name="site_global.css" crc="4106240452"/>
+    <file name="master_a-gabarit.css" crc="297340569" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="272817151" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
+    <file name="master_jeanette.css" crc="259591242" ref="le-journal:jeanette:les-sacs:les-mamies"/>
+    <file name="nomq_preview_master_jeanette.css" crc="3855163112" ref="le-journal:jeanette:les-sacs:les-mamies"/>
+    <file name="le-journal.css" crc="4286846076" ref="le-journal"/>
+    <file name="nomq_le-journal.css" crc="4118989240" ref="le-journal"/>
+    <file name="palais-des-glaces.css" crc="439775624" ref="palais-des-glaces"/>
     <file name="nomq_palais-des-glaces.css" crc="4260206320" ref="palais-des-glaces"/>
-    <file name="memoire.css" crc="4150663845" ref="memoire"/>
-    <file name="nomq_memoire.css" crc="4102744343" ref="memoire"/>
-    <file name="dios-rojo.css" crc="4174110717" ref="dios-rojo"/>
+    <file name="index.css" crc="44843926" ref="index"/>
+    <file name="nomq_index.css" crc="170538861" ref="index"/>
+    <file name="emojizz.css" crc="38417314" ref="emojizz"/>
+    <file name="nomq_emojizz.css" crc="180632618" ref="emojizz"/>
+    <file name="about.css" crc="119158488" ref="about"/>
+    <file name="dios-rojo.css" crc="4018792547" ref="dios-rojo"/>
     <file name="nomq_dios-rojo.css" crc="7047535" ref="dios-rojo"/>
-    <file name="master_jeanette.css" crc="254861060" ref="jeanette:les-mamies:les-sacs:le-journal"/>
-    <file name="nomq_preview_master_jeanette.css" crc="4213825371" ref="jeanette:les-mamies:les-sacs:le-journal"/>
-    <file name="jeanette.css" crc="4110796013" ref="jeanette"/>
-    <file name="nomq_jeanette.css" crc="399445570" ref="jeanette"/>
-    <file name="les-mamies.css" crc="3929825194" ref="les-mamies"/>
-    <file name="nomq_les-mamies.css" crc="10431166" ref="les-mamies"/>
-    <file name="les-sacs.css" crc="3929825194" ref="les-sacs"/>
-    <file name="nomq_les-sacs.css" crc="10431166" ref="les-sacs"/>
-    <file name="le-journal.css" crc="3929825194" ref="le-journal"/>
-    <file name="nomq_le-journal.css" crc="10431166" ref="le-journal"/>
+    <file name="flamingo.css" crc="316155963" ref="flamingo"/>
+    <file name="nomq_flamingo.css" crc="3968449563" ref="flamingo"/>
+    <file name="memoire.css" crc="3968565350" ref="memoire"/>
+    <file name="nomq_memoire.css" crc="4102744343" ref="memoire"/>
+    <file name="jeanette.css" crc="3808134633" ref="jeanette"/>
+    <file name="nomq_jeanette.css" crc="257455468" ref="jeanette"/>
+    <file name="dakar.css" crc="497955906" ref="dakar"/>
+    <file name="nomq_dakar.css" crc="463643889" ref="dakar"/>
+    <file name="les-sacs.css" crc="4286846076" ref="les-sacs"/>
+    <file name="nomq_les-sacs.css" crc="4118989240" ref="les-sacs"/>
+    <file name="les-mamies.css" crc="4286846076" ref="les-mamies"/>
+    <file name="nomq_les-mamies.css" crc="4118989240" ref="les-mamies"/>
+    <file name="kodak.css" crc="3950216330" ref="kodak"/>
+    <file name="nomq_kodak.css" crc="4014965651" ref="kodak"/>
   </folder>
   <folder name="fonts">
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
     <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
     <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
     <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
@@ -44,107 +56,161 @@
     <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
     <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
     <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="merriweather-v19-latin-300italic.woff" crc="4274374674"/>
+    <file name="merriweather-v19-latin-300italic.eot" crc="204031419"/>
+    <file name="merriweather-v19-latin-300italic.svg" crc="3806251328"/>
+    <file name="merriweather-v19-latin-300.woff" crc="4136253452"/>
+    <file name="merriweather-v19-latin-300.eot" crc="80404081"/>
+    <file name="merriweather-v19-latin-300.svg" crc="363619817"/>
+    <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
+    <file name="merriweather-v19-latin-700.eot" crc="4121405416"/>
+    <file name="merriweather-v19-latin-700.svg" crc="3841014418"/>
+    <file name="archivo-black-v7-latin-regular1.woff" crc="3963451662"/>
+    <file name="archivo-black-v7-latin-regular1.eot" crc="4016814318"/>
+    <file name="archivo-black-v7-latin-regular1.svg" crc="4129710604"/>
     <file name="roboto-v18-latin-300.woff" crc="3850343889"/>
     <file name="roboto-v18-latin-300.eot" crc="4007918318"/>
     <file name="roboto-v18-latin-300.svg" crc="3933797602"/>
+  </folder>
+  <folder name="assets">
+    <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="museutils.js" crc="340535759" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="museconfig.js" crc="310584261" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:about:jeanette"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:flamingo:emojizz:jeanette:les-sacs"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="require.js" crc="7928878" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="emojizz:kodak:index:flamingo:dakar:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:emojizz:kodak:flamingo:dakar:palais-des-glaces:about:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="favicon.ico" crc="307270355" ref="index"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="journal" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:about:jeanette">
+    <file name="facebook2.png" crc="279691190" ref="index:about:emojizz:jeanette:les-sacs">
       <caption webpage="index" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:about:jeanette">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:about:emojizz:jeanette:les-sacs">
       <caption webpage="index" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:about:jeanette">
+    <file name="instagram2.png" crc="4284952714" ref="index:about:emojizz:jeanette:les-sacs">
       <caption webpage="index" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:about:jeanette">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:about:emojizz:jeanette:les-sacs">
       <caption webpage="index" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:about:emojizz">
+      <caption webpage="index" alt="Portfolio"/>
+    </file>
+    <file name="all-memoire.jpg" crc="3764192846" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-memoire_2x.jpg" crc="445572749" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-memoire-hover.jpg" crc="442940982" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-memoire-hover_2x.jpg" crc="487556554" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="all-flamingo-scene.png" crc="101988814" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="all-flamingo-scene_2x.png" crc="4112291088" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="affiche.gif" crc="4115504218" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="all-flamingo-scene-hover.png" crc="3941196000" ref="index">
       <caption webpage="index" alt=""/>
@@ -164,11 +230,187 @@
     <file name="all-dakar-hover.jpg" crc="4217292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:about">
-      <caption webpage="index" alt="Portfolio"/>
-      <caption webpage="emojizz" alt="Portfolio"/>
-      <caption webpage="flamingo" alt="Portfolio"/>
-      <caption webpage="kodak" alt="Portfolio"/>
+    <file name="all-theatre.jpg" crc="3968326147" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-theatre_2x.jpg" crc="4076179946" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-theatre-hover.jpg" crc="4069347475" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-theatre-hover_2x.jpg" crc="4291978634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-kodak.jpg" crc="4065679557" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-kodak-hover.jpg" crc="3994777501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo.jpg" crc="4217963" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo_2x.jpg" crc="389757753" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-hover.jpg" crc="4236463346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-hover_2x.jpg" crc="4166021784" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-collé-60527-x-219.svg" crc="497217374" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr.png" crc="4196128764" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr_2x.png" crc="130038312" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr.png" crc="341304663" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr_2x.png" crc="330089193" ref="index"/>
+    <file name="all-emojizz2.png" crc="3986781248" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-emojizz_2x.png" crc="3817865508" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-emojizz-hover2.png" crc="3877516450" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-emojizz-hover_2x.png" crc="421780388" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar2.jpg" crc="4260026260" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar_2x.jpg" crc="132053818" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar-hover2.jpg" crc="218471645" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-dakar-hover_2x.jpg" crc="4217292539" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-theatre-u32563-fr.jpg" crc="207468063" ref="index"/>
+    <file name="all-theatre-u32563-fr_2x.jpg" crc="462184925" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr.jpg" crc="431371568" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr_2x.jpg" crc="4114557898" ref="index"/>
+    <file name="all-kodak2.jpg" crc="3812490209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-kodak_2x.jpg" crc="4065679557" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-kodak-hover2.jpg" crc="519390731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-kodak-hover_2x.jpg" crc="3994777501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-diosrojo-u37926-fr.jpg" crc="4003272754" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x.jpg" crc="4285487422" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr.jpg" crc="368401761" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x.jpg" crc="223105827" ref="index"/>
+    <file name="all-memoire-u315-fr.jpg" crc="4199436979" ref="index"/>
+    <file name="all-memoire-u315-fr_2x.jpg" crc="3794855344" ref="index"/>
+    <file name="all-memoire-hover-u315-r-fr.jpg" crc="162715394" ref="index"/>
+    <file name="all-memoire-hover-u315-r-fr_2x.jpg" crc="3891607347" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr2.png" crc="41144394" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr_2x2.png" crc="126534976" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr2.png" crc="177200304" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr_2x2.png" crc="419585859" ref="index"/>
+    <file name="all-emojizz-u1468-fr.png" crc="307674268" ref="index"/>
+    <file name="all-emojizz-u1468-fr_2x.png" crc="4244988035" ref="index"/>
+    <file name="all-emojizz-hover-u1468-r-fr.png" crc="504129404" ref="index"/>
+    <file name="all-emojizz-hover-u1468-r-fr_2x.png" crc="306738570" ref="index"/>
+    <file name="all-dakar-u1465-fr.jpg" crc="4087974094" ref="index"/>
+    <file name="all-dakar-u1465-fr_2x.jpg" crc="4162013012" ref="index"/>
+    <file name="all-dakar-hover-u1465-r-fr.jpg" crc="117349191" ref="index"/>
+    <file name="all-dakar-hover-u1465-r-fr_2x.jpg" crc="101349466" ref="index"/>
+    <file name="all-theatre-u32563-fr2.jpg" crc="4002859880" ref="index"/>
+    <file name="all-theatre-u32563-fr_2x2.jpg" crc="430389219" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr2.jpg" crc="3855109070" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr_2x2.jpg" crc="3993863895" ref="index"/>
+    <file name="all-diosrojo-u37926-fr2.jpg" crc="197848120" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x2.jpg" crc="366387636" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr2.jpg" crc="102775028" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x2.jpg" crc="4226782307" ref="index"/>
+    <file name="facebook2-u27316-fr.png" crc="3822551541" ref="index"/>
+    <file name="facebook2-u27316-fr_2x.png" crc="3850140343" ref="index"/>
+    <file name="instagram2-u27317-fr.png" crc="306722857" ref="index"/>
+    <file name="instagram2-u27317-fr_2x.png" crc="4100779340" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr3.png" crc="170970351" ref="index"/>
+    <file name="all-flamingo-scene-u3077-fr_2x3.png" crc="4278233264" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr3.png" crc="4016203098" ref="index"/>
+    <file name="all-flamingo-scene-hover-u3077-r-fr_2x3.png" crc="4271217854" ref="index"/>
+    <file name="all-memoire-u315-fr2.jpg" crc="4199639443" ref="index"/>
+    <file name="all-memoire-u315-fr_2x2.jpg" crc="7038412" ref="index"/>
+    <file name="all-memoire-hover-u315-r-fr2.jpg" crc="67377054" ref="index"/>
+    <file name="all-memoire-hover-u315-r-fr_2x2.jpg" crc="3798661442" ref="index"/>
+    <file name="all-dakar-u1465-fr2.jpg" crc="99662285" ref="index"/>
+    <file name="all-dakar-u1465-fr_2x2.jpg" crc="292478453" ref="index"/>
+    <file name="all-dakar-hover-u1465-r-fr2.jpg" crc="4128327687" ref="index"/>
+    <file name="all-dakar-hover-u1465-r-fr_2x2.jpg" crc="4033497021" ref="index"/>
+    <file name="all-emojizz-u1468-fr2.png" crc="216028740" ref="index"/>
+    <file name="all-emojizz-u1468-fr_2x2.png" crc="4166846222" ref="index"/>
+    <file name="all-emojizz-hover-u1468-r-fr2.png" crc="3978282245" ref="index"/>
+    <file name="all-emojizz-hover-u1468-r-fr_2x2.png" crc="484890987" ref="index"/>
+    <file name="all-kodak-u10287-fr.jpg" crc="252318898" ref="index"/>
+    <file name="all-kodak-u10287-fr_2x.jpg" crc="273110419" ref="index"/>
+    <file name="all-kodak-hover-u10287-r-fr.jpg" crc="4000410044" ref="index"/>
+    <file name="all-kodak-hover-u10287-r-fr_2x.jpg" crc="4196328083" ref="index"/>
+    <file name="all-theatre-u32563-fr3.jpg" crc="300893383" ref="index"/>
+    <file name="all-theatre-u32563-fr_2x3.jpg" crc="3901015381" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr3.jpg" crc="4268509287" ref="index"/>
+    <file name="all-theatre-hover-u32563-r-fr_2x3.jpg" crc="284431193" ref="index"/>
+    <file name="all-diosrojo-u37926-fr3.jpg" crc="4066748181" ref="index"/>
+    <file name="all-diosrojo-u37926-fr_2x3.jpg" crc="384343628" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr3.jpg" crc="3810080718" ref="index"/>
+    <file name="all-diosrojo-hover-u37926-r-fr_2x3.jpg" crc="106559286" ref="index"/>
+    <file name="marion.jpg" crc="4090222452" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion_2x.jpg" crc="4006964307" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
     </file>
     <file name="f-partie1.png" crc="502616963" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
@@ -176,6 +418,16 @@
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="f-partie1_2x.png" crc="3935005208" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie3.png" crc="3825021669" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie3_2x.png" crc="4217712432" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
@@ -207,30 +459,10 @@
     <file name="flamingo-brandboo5.jpg" crc="4017875148" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="f-partie2.png" crc="3789434200" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="f-partie2_2x.png" crc="502118560" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-    </file>
     <file name="flamingo-brandbook-6.jpg" crc="3784474144" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-6_2x.jpg" crc="4039680230" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="f-partie3.png" crc="3825021669" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-    </file>
-    <file name="f-partie3_2x.png" crc="4217712432" seo="true" ref="flamingo">
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-7.jpg" crc="3941502350" seo="true" ref="flamingo">
@@ -248,719 +480,24 @@
     <file name="flamingo-brandbook-10_2x.jpg" crc="260752021" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
+    <file name="affiche.gif" crc="4115504218" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+    </file>
     <file name="flamingo-brandbook-11.jpg" crc="4085439046" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="dakar-1.jpg" crc="4226733008" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-1_2x.jpg" crc="3880492729" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-2.jpg" crc="3760812371" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-2_2x.jpg" crc="4139284906" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-0.jpg" crc="214860716" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-0_2x.jpg" crc="4163467043" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-3.jpg" crc="307447246" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-3_2x.jpg" crc="3795641173" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-4.jpg" crc="433488759" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-4_2x.jpg" crc="323242158" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-5.jpg" crc="4092431854" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-5_2x.jpg" crc="288268053" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-6.jpg" crc="20129386" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-6_2x.jpg" crc="4060142720" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-7.jpg" crc="4121446818" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-7_2x.jpg" crc="4136126920" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-8.gif" crc="4142283708" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-9-crop-u5705.png" crc="3926468235" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-9bis.jpg" crc="4067327901" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-9bis_2x.jpg" crc="3846537516" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-10.jpg" crc="4180815871" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-10_2x.jpg" crc="160749382" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-11.jpg" crc="349801359" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-11_2x.jpg" crc="4089490788" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-12.jpg" crc="4224400988" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="dakar-12_2x.jpg" crc="495592699" seo="true" ref="dakar">
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="prez-emojizz-1.jpg" crc="81174605" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1_2x.jpg" crc="3860815672" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2.jpg" crc="3806700827" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2_2x.jpg" crc="376920238" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4.jpg" crc="81454432" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4_2x.jpg" crc="353495554" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9.jpg" crc="4282368556" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9_2x.jpg" crc="459961818" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10.jpg" crc="3980535440" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10_2x.jpg" crc="3860143638" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11.jpg" crc="4236034688" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11_2x.jpg" crc="53521924" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u6442.png" crc="19297118" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3.jpg" crc="320340654" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3_2x.jpg" crc="3866536290" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338.png" crc="4185146712" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x.png" crc="57659950" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347.png" crc="44214183" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x.png" crc="411796082" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1900x704.jpg" crc="4080195696" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1900x704_2x.jpg" crc="4086031865" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2900x704.jpg" crc="62796934" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2900x704_2x.jpg" crc="293898325" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4900x704.jpg" crc="300130787" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4900x704_2x.jpg" crc="4263218126" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9900x704.jpg" crc="7726198" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9900x704_2x.jpg" crc="423307626" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10900x704.jpg" crc="181337482" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10900x704_2x.jpg" crc="4137467335" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11900x704.jpg" crc="3898842868" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11900x704_2x.jpg" crc="4073520918" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64422.png" crc="3897632280" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3287x304.jpg" crc="518505770" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3287x304_2x.jpg" crc="320001868" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93382.png" crc="4047804695" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x2.png" crc="3832051306" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93472.png" crc="203425494" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x2.png" crc="263118393" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64423.png" crc="3897632280" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93383.png" crc="4047804695" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x3.png" crc="3832051306" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93473.png" crc="203425494" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x3.png" crc="263118393" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1700x548.jpg" crc="4041705295" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1700x548_2x.jpg" crc="377387107" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2700x548.jpg" crc="435209340" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2700x548_2x.jpg" crc="4058522600" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4700x548.jpg" crc="464657065" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4700x548_2x.jpg" crc="4266165434" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9700x548.jpg" crc="503078761" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9700x548_2x.jpg" crc="4133753664" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10700x548.jpg" crc="308269917" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10700x548_2x.jpg" crc="3939635251" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11700x548.jpg" crc="33476461" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11700x548_2x.jpg" crc="118900844" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64424.png" crc="327779055" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3221x221.jpg" crc="462646616" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3221x221_2x.jpg" crc="498716717" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93384.png" crc="167157662" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x4.png" crc="4239839949" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93474.png" crc="16108428" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x4.png" crc="3834492408" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1.jpg" crc="3789897577" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1_2x.jpg" crc="4291688031" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2.jpg" crc="405596179" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2_2x.jpg" crc="81213135" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3.jpg" crc="4078803160" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3_2x.jpg" crc="3971845036" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4.jpg" crc="3995476888" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4_2x.jpg" crc="3921250966" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5.jpg" crc="4232644752" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5_2x.jpg" crc="223723885" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6.jpg" crc="3963715427" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6_2x.jpg" crc="272152817" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7.jpg" crc="3931610463" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7_2x.jpg" crc="3963415472" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8.jpg" crc="158220814" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8_2x.jpg" crc="456248903" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9.jpg" crc="210202430" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9_2x.jpg" crc="4234177078" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12.jpg" crc="4010487871" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12_2x.jpg" crc="484384694" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="favicon.ico" crc="307270355" ref="index"/>
-    <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93385.png" crc="167157662" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x5.png" crc="4239839949" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93475.png" crc="16108428" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x5.png" crc="3834492408" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64426.png" crc="4028265815" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93386.png" crc="4231760898" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x6.png" crc="3897668129" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93476.png" crc="3979392504" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x6.png" crc="4046732168" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1320x251.jpg" crc="4246438463" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1320x251_2x.jpg" crc="220393593" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2320x251.jpg" crc="3817450230" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2320x251_2x.jpg" crc="4033999442" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4320x251.jpg" crc="3841767766" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4320x251_2x.jpg" crc="420562592" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9320x251.jpg" crc="398421302" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9320x251_2x.jpg" crc="101937893" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10320x251.jpg" crc="383980315" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10320x251_2x.jpg" crc="3863680161" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11320x251.jpg" crc="4085051722" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11320x251_2x.jpg" crc="350786182" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-12-crop-u64427.png" crc="4045063466" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3101x101.jpg" crc="4252988866" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3101x101_2x.jpg" crc="4196580222" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u93387.png" crc="3918543210" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton2-crop-u9338_2x7.png" crc="4025595010" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u93477.png" crc="4126555150" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton1-crop-u9347_2x7.png" crc="4020823250" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="all-flamingo-scene-u3077-fr.png" crc="4196128764" ref="index"/>
-    <file name="all-flamingo-scene-u3077-fr_2x.png" crc="130038312" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr.png" crc="341304663" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr_2x.png" crc="330089193" ref="index"/>
-    <file name="all-dakar-u1465-fr.jpg" crc="328450676" ref="index"/>
-    <file name="all-dakar-u1465-fr_2x.jpg" crc="3812848118" ref="index"/>
-    <file name="all-dakar-hover-u1465-r-fr.jpg" crc="227661975" ref="index"/>
-    <file name="all-dakar-hover-u1465-r-fr_2x.jpg" crc="127277079" ref="index"/>
-    <file name="all-emojizz-u1468-fr.png" crc="1110914" ref="index"/>
-    <file name="all-emojizz-u1468-fr_2x.png" crc="4061537857" ref="index"/>
-    <file name="all-emojizz-hover-u1468-r-fr.png" crc="3261654" ref="index"/>
-    <file name="all-emojizz-hover-u1468-r-fr_2x.png" crc="276856395" ref="index"/>
-    <file name="all-emojizz2.png" crc="3986781248" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-emojizz_2x.png" crc="3817865508" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-emojizz-hover2.png" crc="3877516450" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-emojizz-hover_2x.png" crc="421780388" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-dakar2.jpg" crc="4260026260" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-dakar_2x.jpg" crc="132053818" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-dakar-hover2.jpg" crc="218471645" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-dakar-hover_2x.jpg" crc="4217292539" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-flamingo-scene-u3077-fr2.png" crc="4036258165" ref="index"/>
-    <file name="all-flamingo-scene-u3077-fr_2x2.png" crc="4280006605" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr2.png" crc="314105670" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr_2x2.png" crc="4035855456" ref="index"/>
-    <file name="all-flamingo-scene-u3077-fr3.png" crc="170970351" ref="index"/>
-    <file name="all-flamingo-scene-u3077-fr_2x3.png" crc="4278233264" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr3.png" crc="4016203098" ref="index"/>
-    <file name="all-flamingo-scene-hover-u3077-r-fr_2x3.png" crc="4271217854" ref="index"/>
-    <file name="all-dakar-u1465-fr2.jpg" crc="99662285" ref="index"/>
-    <file name="all-dakar-u1465-fr_2x2.jpg" crc="292478453" ref="index"/>
-    <file name="all-dakar-hover-u1465-r-fr2.jpg" crc="4128327687" ref="index"/>
-    <file name="all-dakar-hover-u1465-r-fr_2x2.jpg" crc="4033497021" ref="index"/>
-    <file name="all-emojizz-u1468-fr2.png" crc="216028740" ref="index"/>
-    <file name="all-emojizz-u1468-fr_2x2.png" crc="4166846222" ref="index"/>
-    <file name="all-emojizz-hover-u1468-r-fr2.png" crc="3978282245" ref="index"/>
-    <file name="all-emojizz-hover-u1468-r-fr_2x2.png" crc="484890987" ref="index"/>
-    <file name="kodak-digitalsucks-(3)-1700x438.jpg" crc="4036456785" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1700x438_2x.jpg" crc="4177815517" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2700x438.jpg" crc="3962824448" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2700x438_2x.jpg" crc="257645689" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3700x438.jpg" crc="4236991858" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3700x438_2x.jpg" crc="287584599" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4700x438.jpg" crc="3792019306" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4700x438_2x.jpg" crc="444793721" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5700x438.jpg" crc="3825104864" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5700x438_2x.jpg" crc="5655053" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6700x525.jpg" crc="483298841" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6700x525_2x.jpg" crc="392626848" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7700x525.jpg" crc="4178644636" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7700x525_2x.jpg" crc="391933570" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8700x525.jpg" crc="4267538232" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8700x525_2x.jpg" crc="251727654" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9700x438.jpg" crc="71974005" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9700x438_2x.jpg" crc="4185688339" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12700x438.jpg" crc="166977711" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12700x438_2x.jpg" crc="4118477714" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="prez-emojizz-1590x462.jpg" crc="1923004" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-1590x462_2x.jpg" crc="476956442" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2590x462.jpg" crc="4165165313" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-2590x462_2x.jpg" crc="44358039" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4590x462.jpg" crc="4196700733" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-4590x462_2x.jpg" crc="487575008" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9590x462.jpg" crc="24897569" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-9590x462_2x.jpg" crc="57253170" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10590x462.jpg" crc="242244057" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-10590x462_2x.jpg" crc="4244678227" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11590x462.jpg" crc="3896295432" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="prez-emojizz-11590x462_2x.jpg" crc="378419825" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3186x186.jpg" crc="4136697531" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="chaton3186x186_2x.jpg" crc="314779348" seo="true" ref="emojizz">
-      <caption webpage="emojizz" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1900x563.jpg" crc="3930533510" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1900x563_2x.jpg" crc="49157678" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2900x563.jpg" crc="3762247200" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2900x563_2x.jpg" crc="81213135" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3900x563.jpg" crc="480646590" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3900x563_2x.jpg" crc="407152428" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4900x563.jpg" crc="316103589" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4900x563_2x.jpg" crc="3760724328" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5900x563.jpg" crc="3774863640" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5900x563_2x.jpg" crc="350212615" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6900x675.jpg" crc="254956671" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6900x675_2x.jpg" crc="4256812716" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7900x675.jpg" crc="4262292824" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7900x675_2x.jpg" crc="47723094" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8900x675.jpg" crc="4179620759" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8900x675_2x.jpg" crc="3870741536" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9960x600.jpg" crc="478006555" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-9960x600_2x.jpg" crc="4234177078" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12900x563.jpg" crc="41619108" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12900x563_2x.jpg" crc="4107763211" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1590x369.jpg" crc="3890358340" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-1590x369_2x.jpg" crc="488898443" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2590x369.jpg" crc="85744796" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-2590x369_2x.jpg" crc="53928348" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3590x369.jpg" crc="528140331" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-3590x369_2x.jpg" crc="3892204993" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4590x369.jpg" crc="4078244715" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-4590x369_2x.jpg" crc="523813045" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5590x369.jpg" crc="3801188641" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-5590x369_2x.jpg" crc="159327365" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6590x443.jpg" crc="4229845866" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-6590x443_2x.jpg" crc="368037022" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7590x443.jpg" crc="279917391" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-7590x443_2x.jpg" crc="3841245270" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8590x443.jpg" crc="4192100270" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-8590x443_2x.jpg" crc="4258393955" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12590x369.jpg" crc="3807295512" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
-    </file>
-    <file name="kodak-digitalsucks-(3)-12590x369_2x.jpg" crc="3865796043" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="f-partie2.png" crc="3789434200" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+    </file>
+    <file name="f-partie2_2x.png" crc="502118560" seo="true" ref="flamingo">
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
     </file>
     <file name="flamingo-brandbook-1412x283.jpg" crc="3845355594" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
@@ -1133,76 +670,87 @@
     <file name="flamingo-brandbook-11200x150.jpg" crc="3869189403" seo="true" ref="flamingo">
       <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-9638x410.jpg" crc="409393974" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-1.jpg" crc="4226733008" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-9638x410_2x.jpg" crc="4015691288" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-1_2x.jpg" crc="3880492729" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-1320x201.jpg" crc="4065406401" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-2.jpg" crc="3760812371" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-1320x201_2x.jpg" crc="321744788" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-2_2x.jpg" crc="4139284906" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-2320x200.jpg" crc="139051025" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-0.jpg" crc="214860716" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-2320x200_2x.jpg" crc="327161055" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-0_2x.jpg" crc="4163467043" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-3320x200.jpg" crc="39020034" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-3.jpg" crc="307447246" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-3320x200_2x.jpg" crc="4195969639" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-3_2x.jpg" crc="3795641173" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-4320x200.jpg" crc="482121796" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-4.jpg" crc="433488759" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-4320x200_2x.jpg" crc="106577817" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-4_2x.jpg" crc="323242158" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-5320x200.jpg" crc="469014092" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-5.jpg" crc="4092431854" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-5320x200_2x.jpg" crc="46436852" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-5_2x.jpg" crc="288268053" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-6320x240.jpg" crc="215116461" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-6.jpg" crc="20129386" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-6320x240_2x.jpg" crc="517490839" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-6_2x.jpg" crc="4060142720" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-7320x240.jpg" crc="60917866" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-7.jpg" crc="4121446818" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-7320x240_2x.jpg" crc="321194004" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-7_2x.jpg" crc="4136126920" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-8320x240.jpg" crc="246440023" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-8.gif" crc="4142283708" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-8320x240_2x.jpg" crc="3864522695" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-9-crop-u5705.png" crc="3926468235" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-9320x200.jpg" crc="46693129" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-9bis.jpg" crc="4067327901" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-9320x200_2x.jpg" crc="212818098" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-9bis_2x.jpg" crc="3846537516" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-12320x200.jpg" crc="319236537" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-10.jpg" crc="4180815871" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="kodak-digitalsucks-(3)-12320x200_2x.jpg" crc="4280154272" seo="true" ref="kodak">
-      <caption webpage="kodak" alt=""/>
+    <file name="dakar-10_2x.jpg" crc="160749382" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
     </file>
-    <file name="facebook2-u27316-fr.png" crc="3822551541" ref="index"/>
-    <file name="facebook2-u27316-fr_2x.png" crc="3850140343" ref="index"/>
-    <file name="instagram2-u27317-fr.png" crc="306722857" ref="index"/>
-    <file name="instagram2-u27317-fr_2x.png" crc="4100779340" ref="index"/>
+    <file name="dakar-11.jpg" crc="349801359" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-11_2x.jpg" crc="4089490788" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12.jpg" crc="4224400988" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
+    <file name="dakar-12_2x.jpg" crc="495592699" seo="true" ref="dakar">
+      <caption webpage="dakar" alt=""/>
+    </file>
     <file name="dakar-1722x7.jpg" crc="3949609859" seo="true" ref="dakar">
       <caption webpage="dakar" alt=""/>
     </file>
@@ -1428,6 +976,649 @@
     <file name="dakar-12284x164_2x.jpg" crc="405460965" seo="true" ref="dakar">
       <caption webpage="dakar" alt=""/>
     </file>
+    <file name="prez-emojizz-1.jpg" crc="81174605" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1_2x.jpg" crc="3860815672" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2.jpg" crc="3806700827" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2_2x.jpg" crc="376920238" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4.jpg" crc="81454432" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4_2x.jpg" crc="353495554" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9.jpg" crc="4282368556" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9_2x.jpg" crc="459961818" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10.jpg" crc="3980535440" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10_2x.jpg" crc="3860143638" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11.jpg" crc="4236034688" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11_2x.jpg" crc="53521924" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u6442.png" crc="19297118" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3.jpg" crc="320340654" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3_2x.jpg" crc="3866536290" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338.png" crc="4185146712" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x.png" crc="57659950" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347.png" crc="44214183" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x.png" crc="411796082" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1900x704.jpg" crc="4080195696" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1900x704_2x.jpg" crc="4086031865" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2900x704.jpg" crc="62796934" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2900x704_2x.jpg" crc="293898325" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4900x704.jpg" crc="300130787" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4900x704_2x.jpg" crc="4263218126" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9900x704.jpg" crc="7726198" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9900x704_2x.jpg" crc="423307626" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10900x704.jpg" crc="181337482" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10900x704_2x.jpg" crc="4137467335" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11900x704.jpg" crc="3898842868" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11900x704_2x.jpg" crc="4073520918" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64422.png" crc="3897632280" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3287x304.jpg" crc="518505770" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3287x304_2x.jpg" crc="320001868" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93382.png" crc="4047804695" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x2.png" crc="3832051306" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93472.png" crc="203425494" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x2.png" crc="263118393" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64423.png" crc="3897632280" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93383.png" crc="4047804695" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x3.png" crc="3832051306" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93473.png" crc="203425494" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x3.png" crc="263118393" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1700x548.jpg" crc="4041705295" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1700x548_2x.jpg" crc="377387107" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2700x548.jpg" crc="435209340" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2700x548_2x.jpg" crc="4058522600" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4700x548.jpg" crc="464657065" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4700x548_2x.jpg" crc="4266165434" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9700x548.jpg" crc="503078761" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9700x548_2x.jpg" crc="4133753664" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10700x548.jpg" crc="308269917" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10700x548_2x.jpg" crc="3939635251" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11700x548.jpg" crc="33476461" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11700x548_2x.jpg" crc="118900844" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64424.png" crc="327779055" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3221x221.jpg" crc="462646616" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3221x221_2x.jpg" crc="498716717" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93384.png" crc="167157662" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x4.png" crc="4239839949" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93474.png" crc="16108428" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x4.png" crc="3834492408" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64425.png" crc="327779055" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93385.png" crc="167157662" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x5.png" crc="4239839949" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93475.png" crc="16108428" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x5.png" crc="3834492408" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1590x462.jpg" crc="1923004" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1590x462_2x.jpg" crc="476956442" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2590x462.jpg" crc="4165165313" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2590x462_2x.jpg" crc="44358039" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4590x462.jpg" crc="4196700733" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4590x462_2x.jpg" crc="487575008" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9590x462.jpg" crc="24897569" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9590x462_2x.jpg" crc="57253170" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10590x462.jpg" crc="242244057" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10590x462_2x.jpg" crc="4244678227" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11590x462.jpg" crc="3896295432" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11590x462_2x.jpg" crc="378419825" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64426.png" crc="4028265815" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3186x186.jpg" crc="4136697531" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3186x186_2x.jpg" crc="314779348" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93386.png" crc="4231760898" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x6.png" crc="3897668129" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93476.png" crc="3979392504" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x6.png" crc="4046732168" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1320x251.jpg" crc="4246438463" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-1320x251_2x.jpg" crc="220393593" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2320x251.jpg" crc="3817450230" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-2320x251_2x.jpg" crc="4033999442" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4320x251.jpg" crc="3841767766" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-4320x251_2x.jpg" crc="420562592" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9320x251.jpg" crc="398421302" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-9320x251_2x.jpg" crc="101937893" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10320x251.jpg" crc="383980315" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-10320x251_2x.jpg" crc="3863680161" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11320x251.jpg" crc="4085051722" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-11320x251_2x.jpg" crc="350786182" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="prez-emojizz-12-crop-u64427.png" crc="4045063466" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3101x101.jpg" crc="4252988866" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton3101x101_2x.jpg" crc="4196580222" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u93387.png" crc="3918543210" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton2-crop-u9338_2x7.png" crc="4025595010" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u93477.png" crc="4126555150" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="chaton1-crop-u9347_2x7.png" crc="4020823250" seo="true" ref="emojizz">
+      <caption webpage="emojizz" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1.jpg" crc="3789897577" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1_2x.jpg" crc="4291688031" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2.jpg" crc="405596179" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2_2x.jpg" crc="81213135" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3.jpg" crc="4078803160" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3_2x.jpg" crc="3971845036" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4.jpg" crc="3995476888" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4_2x.jpg" crc="3921250966" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5.jpg" crc="4232644752" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5_2x.jpg" crc="223723885" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6.jpg" crc="3963715427" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6_2x.jpg" crc="272152817" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7.jpg" crc="3931610463" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7_2x.jpg" crc="3963415472" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8.jpg" crc="158220814" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8_2x.jpg" crc="456248903" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9.jpg" crc="210202430" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9_2x.jpg" crc="4234177078" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12.jpg" crc="4010487871" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12_2x.jpg" crc="484384694" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1900x563.jpg" crc="3930533510" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1900x563_2x.jpg" crc="49157678" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2900x563.jpg" crc="3762247200" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2900x563_2x.jpg" crc="81213135" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3900x563.jpg" crc="480646590" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3900x563_2x.jpg" crc="407152428" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4900x563.jpg" crc="316103589" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4900x563_2x.jpg" crc="3760724328" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5900x563.jpg" crc="3774863640" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5900x563_2x.jpg" crc="350212615" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6900x675.jpg" crc="254956671" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6900x675_2x.jpg" crc="4256812716" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7900x675.jpg" crc="4262292824" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7900x675_2x.jpg" crc="47723094" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8900x675.jpg" crc="4179620759" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8900x675_2x.jpg" crc="3870741536" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9960x600.jpg" crc="478006555" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9960x600_2x.jpg" crc="4234177078" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12900x563.jpg" crc="41619108" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12900x563_2x.jpg" crc="4107763211" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1700x438.jpg" crc="4036456785" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1700x438_2x.jpg" crc="4177815517" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2700x438.jpg" crc="3962824448" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2700x438_2x.jpg" crc="257645689" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3700x438.jpg" crc="4236991858" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3700x438_2x.jpg" crc="287584599" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4700x438.jpg" crc="3792019306" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4700x438_2x.jpg" crc="444793721" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5700x438.jpg" crc="3825104864" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5700x438_2x.jpg" crc="5655053" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6700x525.jpg" crc="483298841" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6700x525_2x.jpg" crc="392626848" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7700x525.jpg" crc="4178644636" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7700x525_2x.jpg" crc="391933570" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8700x525.jpg" crc="4267538232" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8700x525_2x.jpg" crc="251727654" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9700x438.jpg" crc="71974005" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9700x438_2x.jpg" crc="4185688339" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12700x438.jpg" crc="166977711" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12700x438_2x.jpg" crc="4118477714" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1590x369.jpg" crc="3890358340" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1590x369_2x.jpg" crc="488898443" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2590x369.jpg" crc="85744796" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2590x369_2x.jpg" crc="53928348" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3590x369.jpg" crc="528140331" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3590x369_2x.jpg" crc="3892204993" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4590x369.jpg" crc="4078244715" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4590x369_2x.jpg" crc="523813045" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5590x369.jpg" crc="3801188641" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5590x369_2x.jpg" crc="159327365" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6590x443.jpg" crc="4229845866" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6590x443_2x.jpg" crc="368037022" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7590x443.jpg" crc="279917391" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7590x443_2x.jpg" crc="3841245270" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8590x443.jpg" crc="4192100270" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8590x443_2x.jpg" crc="4258393955" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9638x410.jpg" crc="409393974" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9638x410_2x.jpg" crc="4015691288" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12590x369.jpg" crc="3807295512" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12590x369_2x.jpg" crc="3865796043" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1320x201.jpg" crc="4065406401" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-1320x201_2x.jpg" crc="321744788" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2320x200.jpg" crc="139051025" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-2320x200_2x.jpg" crc="327161055" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3320x200.jpg" crc="39020034" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-3320x200_2x.jpg" crc="4195969639" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4320x200.jpg" crc="482121796" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-4320x200_2x.jpg" crc="106577817" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5320x200.jpg" crc="469014092" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-5320x200_2x.jpg" crc="46436852" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6320x240.jpg" crc="215116461" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-6320x240_2x.jpg" crc="517490839" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7320x240.jpg" crc="60917866" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-7320x240_2x.jpg" crc="321194004" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8320x240.jpg" crc="246440023" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-8320x240_2x.jpg" crc="3864522695" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9320x200.jpg" crc="46693129" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-9320x200_2x.jpg" crc="212818098" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12320x200.jpg" crc="319236537" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
+    <file name="kodak-digitalsucks-(3)-12320x200_2x.jpg" crc="4280154272" seo="true" ref="kodak">
+      <caption webpage="kodak" alt=""/>
+    </file>
     <file name="theatregalerie.jpg" crc="4092723282" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
@@ -1470,6 +1661,18 @@
     <file name="theatre_02-crop-u30867.png" crc="4083417020" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
+    <file name="theatregif2.gif" crc="58254494" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregif2_2x.gif" crc="58254494" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
     <file name="theatre_13.jpg" crc="4192889619" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
@@ -1486,18 +1689,6 @@
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
     <file name="theatre_15_2x.jpg" crc="130100532" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatregif2.gif" crc="58254494" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatregif2_2x.gif" crc="58254494" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
     <file name="theatregalerie320x472.jpg" crc="270027922" seo="true" ref="palais-des-glaces">
@@ -1542,6 +1733,27 @@
     <file name="theatre_02-crop-u308672.png" crc="182301301" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
+    <file name="theatre_13705x909.jpg" crc="3946894407" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_13705x909_2x.jpg" crc="4263847641" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14705x420.jpg" crc="182877550" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14705x420_2x.jpg" crc="3978844852" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15705x420.jpg" crc="468994773" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15705x420_2x.jpg" crc="62813363" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregalerie240x354.jpg" crc="437174055" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
     <file name="theatre_04650x369.jpg" crc="3854845976" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
@@ -1578,6 +1790,30 @@
     <file name="theatre_12590x391_2x.jpg" crc="3988070186" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
+    <file name="theatre_02730x402.jpg" crc="4272349335" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_13590x761.jpg" crc="447716364" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_13590x761_2x.jpg" crc="33219700" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14590x352.jpg" crc="121691569" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_14590x352_2x.jpg" crc="3966982192" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15590x352.jpg" crc="92101483" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatre_15590x352_2x.jpg" crc="80411993" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
+    <file name="theatregalerie190x280.jpg" crc="474620038" seo="true" ref="palais-des-glaces">
+      <caption webpage="palais-des-glaces" alt=""/>
+    </file>
     <file name="theatre_04352x200.jpg" crc="472211386" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
@@ -1612,165 +1848,6 @@
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
     <file name="theatre_12320x212_2x.jpg" crc="243447689" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="all-memoire.jpg" crc="3764192846" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-memoire_2x.jpg" crc="445572749" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-memoire-hover.jpg" crc="442940982" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-memoire-hover_2x.jpg" crc="487556554" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-theatre.jpg" crc="3968326147" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-theatre_2x.jpg" crc="4076179946" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-theatre-hover.jpg" crc="4069347475" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-theatre-hover_2x.jpg" crc="4291978634" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-kodak.jpg" crc="4065679557" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-kodak-hover.jpg" crc="3994777501" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="svg-collé-60527-x-219.svg" crc="497217374" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-    </file>
-    <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index"/>
-    <file name="all-theatre-u32563-fr.jpg" crc="207468063" ref="index"/>
-    <file name="all-theatre-u32563-fr_2x.jpg" crc="462184925" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr.jpg" crc="431371568" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr_2x.jpg" crc="4114557898" ref="index"/>
-    <file name="all-kodak2.jpg" crc="3812490209" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-kodak_2x.jpg" crc="4065679557" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-kodak-hover2.jpg" crc="519390731" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-kodak-hover_2x.jpg" crc="3994777501" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-memoire-u315-fr.jpg" crc="4199639443" ref="index"/>
-    <file name="all-memoire-u315-fr_2x.jpg" crc="7038412" ref="index"/>
-    <file name="all-memoire-hover-u315-r-fr.jpg" crc="67377054" ref="index"/>
-    <file name="all-memoire-hover-u315-r-fr_2x.jpg" crc="3798661442" ref="index"/>
-    <file name="all-theatre-u32563-fr2.jpg" crc="3841053459" ref="index"/>
-    <file name="all-theatre-u32563-fr_2x2.jpg" crc="218861526" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr2.jpg" crc="4164079970" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr_2x2.jpg" crc="4069975716" ref="index"/>
-    <file name="all-kodak-u10287-fr.jpg" crc="18807453" ref="index"/>
-    <file name="all-kodak-u10287-fr_2x.jpg" crc="162841521" ref="index"/>
-    <file name="all-kodak-hover-u10287-r-fr.jpg" crc="510945239" ref="index"/>
-    <file name="all-kodak-hover-u10287-r-fr_2x.jpg" crc="80031220" ref="index"/>
-    <file name="all-kodak-u10287-fr2.jpg" crc="252318898" ref="index"/>
-    <file name="all-kodak-u10287-fr_2x2.jpg" crc="273110419" ref="index"/>
-    <file name="all-kodak-hover-u10287-r-fr2.jpg" crc="4000410044" ref="index"/>
-    <file name="all-kodak-hover-u10287-r-fr_2x2.jpg" crc="4196328083" ref="index"/>
-    <file name="all-theatre-u32563-fr3.jpg" crc="300893383" ref="index"/>
-    <file name="all-theatre-u32563-fr_2x3.jpg" crc="3901015381" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr3.jpg" crc="4268509287" ref="index"/>
-    <file name="all-theatre-hover-u32563-r-fr_2x3.jpg" crc="284431193" ref="index"/>
-    <file name="marion.jpg" crc="4090222452" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="marion_2x.jpg" crc="4006964307" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="theatre_13705x909.jpg" crc="3946894407" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_13705x909_2x.jpg" crc="4263847641" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_14705x420.jpg" crc="182877550" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_14705x420_2x.jpg" crc="3978844852" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_15705x420.jpg" crc="468994773" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_15705x420_2x.jpg" crc="62813363" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatregalerie240x354.jpg" crc="437174055" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_02730x402.jpg" crc="4272349335" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_13590x761.jpg" crc="447716364" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_13590x761_2x.jpg" crc="33219700" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_14590x352.jpg" crc="121691569" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_14590x352_2x.jpg" crc="3966982192" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_15590x352.jpg" crc="92101483" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatre_15590x352_2x.jpg" crc="80411993" seo="true" ref="palais-des-glaces">
-      <caption webpage="palais-des-glaces" alt=""/>
-    </file>
-    <file name="theatregalerie190x280.jpg" crc="474620038" seo="true" ref="palais-des-glaces">
       <caption webpage="palais-des-glaces" alt=""/>
     </file>
     <file name="theatre_02400x220.jpg" crc="196669393" seo="true" ref="palais-des-glaces">
@@ -2514,43 +2591,20 @@
     <file name="resto-13320x200_2x.jpg" crc="497569335" seo="true" ref="dios-rojo">
       <caption webpage="dios-rojo" alt=""/>
     </file>
-    <file name="all-diosrojo.jpg" crc="4217963" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-diosrojo_2x.jpg" crc="389757753" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-diosrojo-hover.jpg" crc="4236463346" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-diosrojo-hover_2x.jpg" crc="4166021784" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all-diosrojo-u37926-fr.jpg" crc="4003272754" ref="index"/>
-    <file name="all-diosrojo-u37926-fr_2x.jpg" crc="4285487422" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr.jpg" crc="368401761" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr_2x.jpg" crc="223105827" ref="index"/>
-    <file name="all-diosrojo-u37926-fr2.jpg" crc="4264820682" ref="index"/>
-    <file name="all-diosrojo-u37926-fr_2x2.jpg" crc="375674952" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr2.jpg" crc="3804305299" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr_2x2.jpg" crc="468302911" ref="index"/>
-    <file name="all-diosrojo-u37926-fr3.jpg" crc="4066748181" ref="index"/>
-    <file name="all-diosrojo-u37926-fr_2x3.jpg" crc="384343628" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr3.jpg" crc="3810080718" ref="index"/>
-    <file name="all-diosrojo-hover-u37926-r-fr_2x3.jpg" crc="106559286" ref="index"/>
-    <file name="web-logo-jeanette-fixe.png" crc="3971741165" ref="jeanette">
+    <file name="web-logo-jeanette-fixe.png" crc="3971741165" ref="jeanette:les-sacs">
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette-fixe_2x.png" crc="231261116" ref="jeanette">
+    <file name="web-logo-jeanette-fixe_2x.png" crc="231261116" ref="jeanette:les-sacs">
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette.gif" crc="87586629" ref="jeanette">
-      <caption webpage="jeanette" alt=""/>
+    <file name="web-logo-jeanette.gif" crc="87586629" ref="jeanette:les-sacs">
+      <caption webpage="les-sacs" alt=""/>
+      <caption webpage="les-sacs" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette_2x.gif" crc="87586629" ref="jeanette">
+    <file name="web-logo-jeanette_2x.gif" crc="87586629" ref="jeanette:les-sacs">
       <caption webpage="jeanette" alt=""/>
     </file>
     <file name="svg-collé-3947021-x-190.svg" crc="3820643338" seo="true" ref="jeanette:les-sacs:les-mamies:le-journal">
@@ -2558,10 +2612,6 @@
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="les-sacs" alt=""/>
-      <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
       <caption webpage="les-mamies" alt=""/>
       <caption webpage="les-mamies" alt=""/>
       <caption webpage="les-mamies" alt=""/>
@@ -2570,22 +2620,24 @@
       <caption webpage="le-journal" alt=""/>
       <caption webpage="le-journal" alt=""/>
       <caption webpage="le-journal" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="svg collé 3947021 x 190_poster_.png" crc="101436414" ref="jeanette"/>
-    <file name="u38825.png" crc="451220090" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38825_2x.png" crc="185745264" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38825-r.png" crc="4202922118" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38825-r_2x.png" crc="4244901545" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38878.png" crc="3917798689" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38878_2x.png" crc="3992065157" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38878-r.png" crc="4102422021" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38878-r_2x.png" crc="3968474175" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38927.png" crc="72653991" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38927_2x.png" crc="277619676" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38927-r.png" crc="3896832526" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u38927-r_2x.png" crc="4143278011" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="svg collé 3947021 x 190_poster_.png" crc="176723508" ref="jeanette"/>
+    <file name="u39427.png" crc="3917798689" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39427_2x.png" crc="3992065157" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39427-r.png" crc="4102422021" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39427-r_2x.png" crc="3968474175" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39425.png" crc="451220090" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39425_2x.png" crc="185745264" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39425-r.png" crc="4202922118" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39425-r_2x.png" crc="4244901545" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39429.png" crc="3906949298" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39429_2x.png" crc="4015070088" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39429-r.png" crc="84939237" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39429-r_2x.png" crc="4052152680" ref="jeanette:les-sacs:les-mamies:le-journal"/>
     <file name="mbl_6634.jpg" crc="244764531" seo="true" ref="jeanette">
-      <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
@@ -2594,20 +2646,161 @@
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652451x299.png" crc="372135004" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652451x299_2x.png" crc="3853500055" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6498-2.jpg" crc="153086957" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6498-2_2x.jpg" crc="4145943236" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6501.jpg" crc="512030215" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6501_2x.jpg" crc="246977305" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post15.jpg" crc="3960394468" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post15_2x.jpg" crc="149379571" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post17.jpg" crc="510432271" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post17_2x.jpg" crc="3892160480" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post9.jpg" crc="203205902" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post9_2x.jpg" crc="319915091" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post20.jpg" crc="4209940840" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post20_2x.jpg" crc="62239554" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post18.jpg" crc="3977314431" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post18_2x.jpg" crc="335867079" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post19.jpg" crc="3946879846" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="post19_2x.jpg" crc="135823144" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 142600.png" crc="140209588" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 142600_2x.png" crc="3774240324" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 142307.png" crc="374941628" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 142307_2x.png" crc="530874374" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 141840.png" crc="3817481282" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 141840_2x.png" crc="3823240431" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 141905.png" crc="3775763707" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 141905_2x.png" crc="3804193874" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652.png" crc="87556978" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652_2x.png" crc="22897728" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 1426001237x703.png" crc="4168639882" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 1426001237x703_2x.png" crc="395068640" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 1426001236x703.png" crc="415703496" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="capture d’écran 2018-05-17 à 1426001236x703_2x.png" crc="3919178060" seo="true" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4208991001" seo="true" mt="1528026829844" redirect="true"/>
-  <file name="about.html" crc="3984035478" seo="true" mt="1528026829844" redirect="true"/>
-  <file name="flamingo.html" crc="4191729820" seo="true" mt="1528026829904" redirect="true"/>
-  <file name="dakar.html" crc="4198037614" seo="true" mt="1528026829909" redirect="true"/>
-  <file name="emojizz.html" crc="193075366" seo="true" mt="1528026829914" redirect="true"/>
-  <file name="kodak.html" crc="300353930" seo="true" mt="1528026829919" redirect="true"/>
-  <file name="palais-des-glaces.html" crc="534360533" seo="true" mt="1528026829924" redirect="true"/>
-  <file name="memoire.html" crc="3949462925" seo="true" mt="1528026829929" redirect="true"/>
-  <file name="dios-rojo.html" crc="464457364" seo="true" mt="1528026829935" redirect="true"/>
-  <file name="jeanette.html" crc="4104533181" seo="true" mt="1528030187937" redirect="true"/>
-  <file name="les-sacs.html" crc="4174235484" seo="true" mt="1528030187937" redirect="true"/>
-  <file name="les-mamies.html" crc="418539506" seo="true" mt="1528030187937" redirect="true"/>
-  <file name="le-journal.html" crc="4002902372" seo="true" mt="1528030187937" redirect="true"/>
+  <file name="index.html" crc="3759121093" seo="true" mt="1528238721418" redirect="true"/>
+  <file name="about.html" crc="4120779654" seo="true" mt="1528026829844" redirect="true"/>
+  <file name="flamingo.html" crc="385649488" seo="true" mt="1528026829904" redirect="true"/>
+  <file name="dakar.html" crc="467595107" seo="true" mt="1528026829909" redirect="true"/>
+  <file name="emojizz.html" crc="108152277" seo="true" mt="1528026829914" redirect="true"/>
+  <file name="kodak.html" crc="3971841266" seo="true" mt="1528026829919" redirect="true"/>
+  <file name="palais-des-glaces.html" crc="4023184789" seo="true" mt="1528026829924" redirect="true"/>
+  <file name="memoire.html" crc="3934927926" seo="true" mt="1528026829929" redirect="true"/>
+  <file name="dios-rojo.html" crc="3853007676" seo="true" mt="1528026829935" redirect="true"/>
+  <file name="jeanette.html" crc="4109754351" seo="true" mt="1528238812381" redirect="true"/>
+  <file name="les-sacs.html" crc="4081324110" seo="true" mt="1528238395535" redirect="true"/>
+  <file name="les-mamies.html" crc="250239145" seo="true" mt="1528238395535" redirect="true"/>
+  <file name="le-journal.html" crc="163921367" seo="true" mt="1528238395535" redirect="true"/>
 </manifest>
