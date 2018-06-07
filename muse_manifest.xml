@@ -1,34 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1528239015021">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1528332624412">
   <folder name="css">
-    <file name="site_global.css" crc="4106240452"/>
-    <file name="master_a-gabarit.css" crc="297340569" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="272817151" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
-    <file name="master_jeanette.css" crc="259591242" ref="le-journal:jeanette:les-sacs:les-mamies"/>
-    <file name="nomq_preview_master_jeanette.css" crc="3855163112" ref="le-journal:jeanette:les-sacs:les-mamies"/>
-    <file name="le-journal.css" crc="4286846076" ref="le-journal"/>
-    <file name="nomq_le-journal.css" crc="4118989240" ref="le-journal"/>
-    <file name="palais-des-glaces.css" crc="439775624" ref="palais-des-glaces"/>
+    <file name="site_global.css" crc="3840703877"/>
+    <file name="master_a-gabarit.css" crc="3975724646" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="206973591" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak"/>
+    <file name="master_jeanette.css" crc="3936321733" ref="jeanette"/>
+    <file name="nomq_preview_master_jeanette.css" crc="3855163112" ref="jeanette"/>
+    <file name="palais-des-glaces.css" crc="483371018" ref="palais-des-glaces"/>
     <file name="nomq_palais-des-glaces.css" crc="4260206320" ref="palais-des-glaces"/>
-    <file name="index.css" crc="44843926" ref="index"/>
+    <file name="index.css" crc="530694983" ref="index"/>
     <file name="nomq_index.css" crc="170538861" ref="index"/>
-    <file name="emojizz.css" crc="38417314" ref="emojizz"/>
+    <file name="emojizz.css" crc="3828767441" ref="emojizz"/>
     <file name="nomq_emojizz.css" crc="180632618" ref="emojizz"/>
     <file name="about.css" crc="119158488" ref="about"/>
-    <file name="dios-rojo.css" crc="4018792547" ref="dios-rojo"/>
+    <file name="dios-rojo.css" crc="276258769" ref="dios-rojo"/>
     <file name="nomq_dios-rojo.css" crc="7047535" ref="dios-rojo"/>
-    <file name="flamingo.css" crc="316155963" ref="flamingo"/>
+    <file name="flamingo.css" crc="109311302" ref="flamingo"/>
     <file name="nomq_flamingo.css" crc="3968449563" ref="flamingo"/>
-    <file name="memoire.css" crc="3968565350" ref="memoire"/>
+    <file name="memoire.css" crc="524474677" ref="memoire"/>
     <file name="nomq_memoire.css" crc="4102744343" ref="memoire"/>
-    <file name="jeanette.css" crc="3808134633" ref="jeanette"/>
-    <file name="nomq_jeanette.css" crc="257455468" ref="jeanette"/>
-    <file name="dakar.css" crc="497955906" ref="dakar"/>
+    <file name="jeanette.css" crc="484357933" ref="jeanette"/>
+    <file name="nomq_jeanette.css" crc="333878381" ref="jeanette"/>
+    <file name="dakar.css" crc="4067435168" ref="dakar"/>
     <file name="nomq_dakar.css" crc="463643889" ref="dakar"/>
-    <file name="les-sacs.css" crc="4286846076" ref="les-sacs"/>
-    <file name="nomq_les-sacs.css" crc="4118989240" ref="les-sacs"/>
-    <file name="les-mamies.css" crc="4286846076" ref="les-mamies"/>
-    <file name="nomq_les-mamies.css" crc="4118989240" ref="les-mamies"/>
-    <file name="kodak.css" crc="3950216330" ref="kodak"/>
+    <file name="kodak.css" crc="342391040" ref="kodak"/>
     <file name="nomq_kodak.css" crc="4014965651" ref="kodak"/>
   </folder>
   <folder name="fonts">
@@ -118,45 +112,25 @@
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="museutils.js" crc="340535759" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:flamingo:emojizz:jeanette:les-sacs"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:flamingo:emojizz:jeanette"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="require.js" crc="7928878" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
+    <file name="require.js" crc="7928878" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="307270355" ref="index"/>
     <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
@@ -166,31 +140,51 @@
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
-    <file name="facebook2.png" crc="279691190" ref="index:about:emojizz:jeanette:les-sacs">
+    <file name="facebook2.png" crc="279691190" ref="index:about:emojizz">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:about:emojizz:jeanette:les-sacs">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:about:emojizz">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:about:emojizz:jeanette:les-sacs">
+    <file name="instagram2.png" crc="4284952714" ref="index:about:emojizz">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:about:emojizz:jeanette:les-sacs">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:about:emojizz">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette"/>
     <file name="boutonmenutest.png" crc="3903872985" ref="index:about:emojizz">
       <caption webpage="index" alt="Portfolio"/>
     </file>
@@ -261,26 +255,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="svg-collé-60527-x-219.svg" crc="497217374" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo">
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
+      <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
       <caption webpage="dios-rojo" alt=""/>
@@ -290,16 +268,32 @@
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
       <caption webpage="dakar" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
     </file>
     <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index"/>
     <file name="all-flamingo-scene-u3077-fr.png" crc="4196128764" ref="index"/>
@@ -2591,23 +2585,33 @@
     <file name="resto-13320x200_2x.jpg" crc="497569335" seo="true" ref="dios-rojo">
       <caption webpage="dios-rojo" alt=""/>
     </file>
-    <file name="web-logo-jeanette-fixe.png" crc="3971741165" ref="jeanette:les-sacs">
+    <file name="web-logo-jeanette-fixe.png" crc="3971741165" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette-fixe_2x.png" crc="231261116" ref="jeanette:les-sacs">
+    <file name="web-logo-jeanette-fixe_2x.png" crc="231261116" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette.gif" crc="87586629" ref="jeanette:les-sacs">
+    <file name="web-logo-jeanette.gif" crc="87586629" ref="jeanette">
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="web-logo-jeanette_2x.gif" crc="87586629" ref="jeanette:les-sacs">
+    <file name="web-logo-jeanette_2x.gif" crc="87586629" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
     </file>
-    <file name="svg-collé-3947021-x-190.svg" crc="3820643338" seo="true" ref="jeanette:les-sacs:les-mamies:le-journal">
+    <file name="svg-collé-3947021-x-190.svg" crc="3820643338" seo="true" ref="jeanette">
+      <caption webpage="le-journal" alt=""/>
+      <caption webpage="le-journal" alt=""/>
+      <caption webpage="le-journal" alt=""/>
+      <caption webpage="le-journal" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="les-sacs" alt=""/>
       <caption webpage="les-sacs" alt=""/>
@@ -2616,43 +2620,32 @@
       <caption webpage="les-mamies" alt=""/>
       <caption webpage="les-mamies" alt=""/>
       <caption webpage="les-mamies" alt=""/>
-      <caption webpage="le-journal" alt=""/>
-      <caption webpage="le-journal" alt=""/>
-      <caption webpage="le-journal" alt=""/>
-      <caption webpage="le-journal" alt=""/>
-      <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
     </file>
     <file name="svg collé 3947021 x 190_poster_.png" crc="176723508" ref="jeanette"/>
-    <file name="u39427.png" crc="3917798689" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39427_2x.png" crc="3992065157" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39427-r.png" crc="4102422021" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39427-r_2x.png" crc="3968474175" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39425.png" crc="451220090" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39425_2x.png" crc="185745264" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39425-r.png" crc="4202922118" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39425-r_2x.png" crc="4244901545" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39429.png" crc="3906949298" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39429_2x.png" crc="4015070088" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39429-r.png" crc="84939237" ref="jeanette:les-sacs:les-mamies:le-journal"/>
-    <file name="u39429-r_2x.png" crc="4052152680" ref="jeanette:les-sacs:les-mamies:le-journal"/>
+    <file name="u39427.png" crc="3917798689" ref="jeanette"/>
+    <file name="u39427_2x.png" crc="3992065157" ref="jeanette"/>
+    <file name="u39427-r.png" crc="4102422021" ref="jeanette"/>
+    <file name="u39427-r_2x.png" crc="3968474175" ref="jeanette"/>
+    <file name="u39425.png" crc="451220090" ref="jeanette"/>
+    <file name="u39425_2x.png" crc="185745264" ref="jeanette"/>
+    <file name="u39425-r.png" crc="4202922118" ref="jeanette"/>
+    <file name="u39425-r_2x.png" crc="4244901545" ref="jeanette"/>
+    <file name="u39429.png" crc="3906949298" ref="jeanette"/>
+    <file name="u39429_2x.png" crc="4015070088" ref="jeanette"/>
+    <file name="u39429-r.png" crc="84939237" ref="jeanette"/>
+    <file name="u39429-r_2x.png" crc="4052152680" ref="jeanette"/>
     <file name="mbl_6634.jpg" crc="244764531" seo="true" ref="jeanette">
-      <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
     </file>
     <file name="mbl_6634_2x.jpg" crc="4076590449" seo="true" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
     </file>
     <file name="mbl_6652451x299.png" crc="372135004" seo="true" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
-      <caption webpage="jeanette" alt=""/>
     </file>
     <file name="mbl_6652451x299_2x.png" crc="3853500055" seo="true" ref="jeanette">
-      <caption webpage="jeanette" alt=""/>
       <caption webpage="jeanette" alt=""/>
     </file>
     <file name="mbl_6498-2.jpg" crc="153086957" seo="true" ref="jeanette">
@@ -2789,18 +2782,247 @@
     <file name="capture d’écran 2018-05-17 à 1426001236x703_2x.png" crc="3919178060" seo="true" ref="jeanette">
       <caption webpage="jeanette" alt=""/>
     </file>
+    <file name="picto-rs-07.svg" crc="29462835" ref="jeanette"/>
+    <file name="picto-rs-07_poster_u40900.png" crc="368043610" ref="jeanette"/>
+    <file name="picto-rs-05.svg" crc="3965004558" ref="jeanette"/>
+    <file name="picto-rs-05_poster_u40884.png" crc="195020275" ref="jeanette"/>
+    <file name="picto-rs-06.svg" crc="4188220976" ref="jeanette"/>
+    <file name="picto-rs-06_poster_u40892.png" crc="4089645959" ref="jeanette"/>
+    <file name="picto-rs-04.svg" crc="174324393" ref="jeanette"/>
+    <file name="picto-rs-04_poster_u40876.png" crc="516719974" ref="jeanette"/>
+    <file name="61f672a78520180f2ff75be4665f8704267x267.jpg" crc="1150668" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jean.png" crc="280869849" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jean_2x.png" crc="3885636904" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="béton.png" crc="3852079204" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7178.jpg" crc="3985922774" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7178_2x.jpg" crc="506453923" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7183-2452x299.jpg" crc="208479495" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7183-2452x299_2x.jpg" crc="4029991512" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="old-woman-light-skin-tone.png" crc="115784755" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="old-woman-light-skin-tone_2x.png" crc="4289201729" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jeans.png" crc="416550850" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jeans_2x.png" crc="4073047403" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="scissors.png" crc="242416873" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="scissors_2x.png" crc="3889280973" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="gilet.png" crc="4062647897" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="gilet_2x.png" crc="47687889" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="u41304.png" crc="451220090" ref="jeanette"/>
+    <file name="u41304_2x.png" crc="185745264" ref="jeanette"/>
+    <file name="u41304-r.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41304-r_2x.png" crc="4244901545" ref="jeanette"/>
+    <file name="mbl_6691-2.jpg" crc="3799522064" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6691-2_2x.jpg" crc="26990249" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6415.jpg" crc="275276313" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6415_2x.jpg" crc="12142512" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6434.jpg" crc="3921304795" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6434_2x.jpg" crc="224203448" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6413.jpg" crc="3884446094" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6413_2x.jpg" crc="4053142675" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6342.jpg" crc="3852791475" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6342_2x.jpg" crc="4271827598" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="u41725.png" crc="3917798689" ref="jeanette"/>
+    <file name="u41725_2x.png" crc="3992065157" ref="jeanette"/>
+    <file name="u41725-r.png" crc="4102422021" ref="jeanette"/>
+    <file name="u41725-r_2x.png" crc="3968474175" ref="jeanette"/>
+    <file name="u41727.png" crc="451220090" ref="jeanette"/>
+    <file name="u41727_2x.png" crc="185745264" ref="jeanette"/>
+    <file name="u41727-r.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41727-r_2x.png" crc="4244901545" ref="jeanette"/>
+    <file name="u41729.png" crc="3906949298" ref="jeanette"/>
+    <file name="u41729_2x.png" crc="4015070088" ref="jeanette"/>
+    <file name="u41729-r.png" crc="84939237" ref="jeanette"/>
+    <file name="u41729-r_2x.png" crc="4052152680" ref="jeanette"/>
+    <file name="mbl_7183-2527x349.jpg" crc="3771898784" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7183-2527x349_2x.jpg" crc="4001826444" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="u413042.png" crc="451220090" ref="jeanette"/>
+    <file name="u41304_2x2.png" crc="185745264" ref="jeanette"/>
+    <file name="u41304-r2.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41304-r_2x2.png" crc="4244901545" ref="jeanette"/>
+    <file name="u417252.png" crc="4230589262" ref="jeanette"/>
+    <file name="u41725_2x2.png" crc="188177017" ref="jeanette"/>
+    <file name="u41725-r2.png" crc="431540268" ref="jeanette"/>
+    <file name="u41725-r_2x2.png" crc="122278627" ref="jeanette"/>
+    <file name="u417272.png" crc="451220090" ref="jeanette"/>
+    <file name="u41727_2x2.png" crc="185745264" ref="jeanette"/>
+    <file name="u41727-r2.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41727-r_2x2.png" crc="4244901545" ref="jeanette"/>
+    <file name="u417292.png" crc="250313780" ref="jeanette"/>
+    <file name="u41729_2x2.png" crc="183480363" ref="jeanette"/>
+    <file name="u41729-r2.png" crc="121895088" ref="jeanette"/>
+    <file name="u41729-r_2x2.png" crc="12181860" ref="jeanette"/>
+    <file name="mbl_6634440x665.jpg" crc="386560844" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6634440x665_2x.jpg" crc="352021166" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652440x291.png" crc="167880931" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6652440x291_2x.png" crc="16311011" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="old-woman-light-skin-tone42x42.png" crc="4288742205" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="old-woman-light-skin-tone42x42_2x.png" crc="4256334914" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="scissors42x42.png" crc="4044338748" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="scissors42x42_2x.png" crc="86403033" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="gilet62x62.png" crc="4222918538" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="gilet62x62_2x.png" crc="4207781795" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jeans42x42.png" crc="106256957" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="jeans42x42_2x.png" crc="3773720740" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="u413043.png" crc="451220090" ref="jeanette"/>
+    <file name="u41304_2x3.png" crc="185745264" ref="jeanette"/>
+    <file name="u41304-r3.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41304-r_2x3.png" crc="4244901545" ref="jeanette"/>
+    <file name="mbl_6691-2342x366.jpg" crc="4085436491" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_6691-2342x366_2x.jpg" crc="112924012" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="61f672a78520180f2ff75be4665f8704.jpg" crc="4050490390" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7178360x544.jpg" crc="3795357864" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7178360x544_2x.jpg" crc="345003548" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7183-2-crop-u41620.png" crc="3970195938" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="mbl_7183-2-crop-u41620_2x.png" crc="4034830037" seo="true" ref="jeanette">
+      <caption webpage="jeanette" alt=""/>
+    </file>
+    <file name="u417253.png" crc="3917798689" ref="jeanette"/>
+    <file name="u41725_2x3.png" crc="3992065157" ref="jeanette"/>
+    <file name="u41725-r3.png" crc="4102422021" ref="jeanette"/>
+    <file name="u41725-r_2x3.png" crc="3968474175" ref="jeanette"/>
+    <file name="u417273.png" crc="451220090" ref="jeanette"/>
+    <file name="u41727_2x3.png" crc="185745264" ref="jeanette"/>
+    <file name="u41727-r3.png" crc="4202922118" ref="jeanette"/>
+    <file name="u41727-r_2x3.png" crc="4244901545" ref="jeanette"/>
+    <file name="u417293.png" crc="308480423" ref="jeanette"/>
+    <file name="u41729_2x3.png" crc="282980552" ref="jeanette"/>
+    <file name="u41729-r3.png" crc="3789156138" ref="jeanette"/>
+    <file name="u41729-r_2x3.png" crc="52199622" ref="jeanette"/>
   </folder>
-  <file name="index.html" crc="3759121093" seo="true" mt="1528238721418" redirect="true"/>
-  <file name="about.html" crc="4120779654" seo="true" mt="1528026829844" redirect="true"/>
-  <file name="flamingo.html" crc="385649488" seo="true" mt="1528026829904" redirect="true"/>
-  <file name="dakar.html" crc="467595107" seo="true" mt="1528026829909" redirect="true"/>
-  <file name="emojizz.html" crc="108152277" seo="true" mt="1528026829914" redirect="true"/>
-  <file name="kodak.html" crc="3971841266" seo="true" mt="1528026829919" redirect="true"/>
-  <file name="palais-des-glaces.html" crc="4023184789" seo="true" mt="1528026829924" redirect="true"/>
-  <file name="memoire.html" crc="3934927926" seo="true" mt="1528026829929" redirect="true"/>
-  <file name="dios-rojo.html" crc="3853007676" seo="true" mt="1528026829935" redirect="true"/>
-  <file name="jeanette.html" crc="4109754351" seo="true" mt="1528238812381" redirect="true"/>
-  <file name="les-sacs.html" crc="4081324110" seo="true" mt="1528238395535" redirect="true"/>
-  <file name="les-mamies.html" crc="250239145" seo="true" mt="1528238395535" redirect="true"/>
-  <file name="le-journal.html" crc="163921367" seo="true" mt="1528238395535" redirect="true"/>
+  <file name="index.html" crc="70576327" seo="true" mt="1528271325469" redirect="true"/>
+  <file name="about.html" crc="327389168" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="flamingo.html" crc="284754041" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="dakar.html" crc="4261738844" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="emojizz.html" crc="4115262838" seo="true" mt="1528332498244" redirect="true"/>
+  <file name="kodak.html" crc="4117871882" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="palais-des-glaces.html" crc="446770583" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="memoire.html" crc="4047125243" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="dios-rojo.html" crc="3778610749" seo="true" mt="1528240310360" redirect="true"/>
+  <file name="jeanette.html" crc="4066757709" seo="true" mt="1528332381658" redirect="true"/>
 </manifest>
