@@ -429,12 +429,6 @@
       <image:loc>http://marionbrizardlamour.fr/images/marion269x276_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/marion240x246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/marion240x246_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/mains200x200.png</image:loc>
     </image:image>
     <image:image>
@@ -445,6 +439,12 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/marion210x216_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion220x226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion220x226_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

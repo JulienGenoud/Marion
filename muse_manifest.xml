@@ -1,42 +1,42 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1542895947540">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1542897869955">
   <folder name="css">
     <file name="site_global.css" crc="4084419540"/>
     <file name="master_a-gabarit.css" crc="3801654642" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair"/>
     <file name="nomq_preview_master_a-gabarit.css" crc="4253793017" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair"/>
     <file name="master_jeanette.css" crc="503972166" ref="jeanette"/>
     <file name="nomq_preview_master_jeanette.css" crc="4008924794" ref="jeanette"/>
-    <file name="palais-des-glaces.css" crc="3822751982" ref="palais-des-glaces"/>
+    <file name="palais-des-glaces.css" crc="145994188" ref="palais-des-glaces"/>
     <file name="nomq_palais-des-glaces.css" crc="4263596224" ref="palais-des-glaces"/>
-    <file name="index.css" crc="3883890445" ref="index"/>
+    <file name="index.css" crc="162815155" ref="index"/>
     <file name="nomq_index.css" crc="4255376342" ref="index"/>
-    <file name="emojizz.css" crc="4252571450" ref="emojizz"/>
+    <file name="emojizz.css" crc="31200680" ref="emojizz"/>
     <file name="nomq_emojizz.css" crc="107958367" ref="emojizz"/>
-    <file name="about.css" crc="428572508" ref="about"/>
-    <file name="dios-rojo.css" crc="4191293100" ref="dios-rojo"/>
+    <file name="about.css" crc="3822556885" ref="about"/>
+    <file name="dios-rojo.css" crc="3804490593" ref="dios-rojo"/>
     <file name="nomq_dios-rojo.css" crc="4053175898" ref="dios-rojo"/>
-    <file name="flamingo.css" crc="4102737657" ref="flamingo"/>
+    <file name="flamingo.css" crc="4157617487" ref="flamingo"/>
     <file name="nomq_flamingo.css" crc="217056738" ref="flamingo"/>
-    <file name="memoire.css" crc="3890679197" ref="memoire"/>
+    <file name="memoire.css" crc="333405945" ref="memoire"/>
     <file name="nomq_memoire.css" crc="4013308449" ref="memoire"/>
     <file name="jeanette.css" crc="3803822575" ref="jeanette"/>
     <file name="nomq_jeanette.css" crc="163933996" ref="jeanette"/>
-    <file name="dakar.css" crc="112815189" ref="dakar"/>
+    <file name="dakar.css" crc="4238989578" ref="dakar"/>
     <file name="nomq_dakar.css" crc="293219979" ref="dakar"/>
-    <file name="kodak.css" crc="3763916004" ref="kodak"/>
+    <file name="kodak.css" crc="4060551802" ref="kodak"/>
     <file name="nomq_kodak.css" crc="339974791" ref="kodak"/>
-    <file name="etamliveshow.css" crc="3995889823" ref="etamliveshow"/>
+    <file name="etamliveshow.css" crc="278103213" ref="etamliveshow"/>
     <file name="nomq_etamliveshow.css" crc="199045725" ref="etamliveshow"/>
-    <file name="journal.css" crc="4005110063" ref="journal"/>
+    <file name="journal.css" crc="38089992" ref="journal"/>
     <file name="nomq_journal.css" crc="4096002522" ref="journal"/>
-    <file name="adidasnmd_ahtlaqdmm.css" crc="309895383" ref="adidasnmd_ahtlaqdmm"/>
+    <file name="adidasnmd_ahtlaqdmm.css" crc="4049614501" ref="adidasnmd_ahtlaqdmm"/>
     <file name="nomq_adidasnmd_ahtlaqdmm.css" crc="3999356816" ref="adidasnmd_ahtlaqdmm"/>
-    <file name="chanelcocogameclub.css" crc="233834521" ref="chanelcocogameclub"/>
+    <file name="chanelcocogameclub.css" crc="4287523846" ref="chanelcocogameclub"/>
     <file name="nomq_chanelcocogameclub.css" crc="124614106" ref="chanelcocogameclub"/>
-    <file name="jeandubuffet.css" crc="3906930586" ref="jeandubuffet"/>
+    <file name="jeandubuffet.css" crc="4201573407" ref="jeandubuffet"/>
     <file name="nomq_jeandubuffet.css" crc="351415107" ref="jeandubuffet"/>
-    <file name="nikeonair.css" crc="3851719785" ref="nikeonair"/>
+    <file name="nikeonair.css" crc="3762728651" ref="nikeonair"/>
     <file name="nomq_nikeonair.css" crc="4266487945" ref="nikeonair"/>
-    <file name="nomq_about.css" crc="3987944562" ref="about"/>
+    <file name="nomq_about.css" crc="532649396" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
@@ -4218,12 +4218,6 @@
     <file name="u74550-4_2x2.png" crc="351924739" ref="about"/>
     <file name="u74541-42.png" crc="370469589" ref="about"/>
     <file name="u74541-4_2x2.png" crc="4235178577" ref="about"/>
-    <file name="marion240x246.jpg" crc="348704437" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="marion240x246_2x.jpg" crc="4234028547" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="u74544-173.png" crc="3933711613" ref="about"/>
     <file name="u74544-17_2x3.png" crc="3762491139" ref="about"/>
     <file name="mains200x200.png" crc="4223931086" seo="true" ref="about">
@@ -4296,21 +4290,27 @@
     <file name="u74548-4_2x4.png" crc="3873654402" ref="about"/>
     <file name="u74543-44.png" crc="3848072376" ref="about"/>
     <file name="u74543-4_2x4.png" crc="12741570" ref="about"/>
+    <file name="marion220x226.jpg" crc="477268406" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion220x226_2x.jpg" crc="252245461" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4092398746" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="about.html" crc="4019725308" seo="true" mt="1542895730454" redirect="true"/>
-  <file name="flamingo.html" crc="4193258497" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="dakar.html" crc="4195287725" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="emojizz.html" crc="3878181085" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="kodak.html" crc="255704570" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="palais-des-glaces.html" crc="319797148" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="memoire.html" crc="494964594" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="dios-rojo.html" crc="3811199128" seo="true" mt="1542883312214" redirect="true"/>
+  <file name="index.html" crc="367961570" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="about.html" crc="3993016689" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="flamingo.html" crc="3983861088" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="dakar.html" crc="214154228" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="emojizz.html" crc="4175472191" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="kodak.html" crc="3847990766" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="palais-des-glaces.html" crc="4100248568" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="memoire.html" crc="468119293" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="dios-rojo.html" crc="4269118978" seo="true" mt="1542897736372" redirect="true"/>
   <file name="jeanette.html" crc="356928513" seo="true" mt="1541534478140" redirect="true"/>
-  <file name="journal.html" crc="528098695" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="jeandubuffet.html" crc="153918042" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="nikeonair.html" crc="4011237293" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="chanelcocogameclub.html" crc="87372835" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="adidasnmd_ahtlaqdmm.html" crc="447437963" seo="true" mt="1542883312214" redirect="true"/>
-  <file name="etamliveshow.html" crc="4282450396" seo="true" mt="1542883312214" redirect="true"/>
+  <file name="journal.html" crc="348490750" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="jeandubuffet.html" crc="226081929" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="nikeonair.html" crc="3918195754" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="chanelcocogameclub.html" crc="4122782354" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="adidasnmd_ahtlaqdmm.html" crc="4031354778" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="etamliveshow.html" crc="4062008055" seo="true" mt="1542897736372" redirect="true"/>
 </manifest>
