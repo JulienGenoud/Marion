@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://marionbrizardlamour.fr/index.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/memoire.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -386,7 +386,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/about.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -396,15 +396,60 @@
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/marion.jpg</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/marion290x298.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/marion_2x.jpg</image:loc>
+      <image:loc>http://marionbrizardlamour.fr/images/marion290x298_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-168056-x-13.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mains.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mains_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-1137-x-11.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-70869-x-80.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-18438-x-7.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-160866-x-74.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion269x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion269x276_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion240x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion240x246_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mains200x200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/mains200x200_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion210x216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/marion210x216_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/flamingo.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -656,7 +701,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/dakar.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -971,7 +1016,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/emojizz.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1298,7 +1343,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/kodak.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1610,7 +1655,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/palais-des-glaces.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1868,7 +1913,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/jeandubuffet.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1878,6 +1923,12 @@
       <image:loc>http://marionbrizardlamour.fr/images/svg-coll%C3%A9-60527-x-219.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1885,6 +1936,12 @@
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-3_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-7bis.jpg</image:loc>
@@ -2097,21 +2154,21 @@
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-5bis321x200_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-9bis320x273.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-9bis320x273_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-8492x307.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/dubuffet-8492x307_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-9bis526x448.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-9bis526x448_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/dios-rojo.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2687,7 +2744,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/journal.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2712,10 +2769,22 @@
       <image:loc>http://marionbrizardlamour.fr/images/cocogameclub-1749x467_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/etamliveshow-0749x467.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/etamliveshow-0749x467_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marionbrizardlamour.fr/images/dubuffet-3_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marionbrizardlamour.fr/images/adidas-3665x415.jpg</image:loc>
@@ -2774,7 +2843,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/chanelcocogameclub.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2966,7 +3035,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/nikeonair.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3062,7 +3131,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/adidasnmd_ahtlaqdmm.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3197,7 +3266,7 @@
   </url>
   <url>
     <loc>http://marionbrizardlamour.fr/etamliveshow.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
