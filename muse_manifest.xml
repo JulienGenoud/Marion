@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1542897869955">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marionbrizardlamour.fr" resolutions="1x,2x" timestamp="1543243085140">
   <folder name="css">
     <file name="site_global.css" crc="4084419540"/>
-    <file name="master_a-gabarit.css" crc="3801654642" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="4253793017" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair"/>
+    <file name="master_a-gabarit.css" crc="4120595876" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair:projet"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4253793017" ref="palais-des-glaces:index:emojizz:about:dios-rojo:flamingo:memoire:dakar:kodak:etamliveshow:journal:adidasnmd_ahtlaqdmm:chanelcocogameclub:jeandubuffet:nikeonair:projet"/>
     <file name="master_jeanette.css" crc="503972166" ref="jeanette"/>
     <file name="nomq_preview_master_jeanette.css" crc="4008924794" ref="jeanette"/>
     <file name="palais-des-glaces.css" crc="145994188" ref="palais-des-glaces"/>
@@ -11,7 +11,7 @@
     <file name="nomq_index.css" crc="4255376342" ref="index"/>
     <file name="emojizz.css" crc="31200680" ref="emojizz"/>
     <file name="nomq_emojizz.css" crc="107958367" ref="emojizz"/>
-    <file name="about.css" crc="3822556885" ref="about"/>
+    <file name="about.css" crc="4151531977" ref="about"/>
     <file name="dios-rojo.css" crc="3804490593" ref="dios-rojo"/>
     <file name="nomq_dios-rojo.css" crc="4053175898" ref="dios-rojo"/>
     <file name="flamingo.css" crc="4157617487" ref="flamingo"/>
@@ -24,19 +24,21 @@
     <file name="nomq_dakar.css" crc="293219979" ref="dakar"/>
     <file name="kodak.css" crc="4060551802" ref="kodak"/>
     <file name="nomq_kodak.css" crc="339974791" ref="kodak"/>
-    <file name="etamliveshow.css" crc="278103213" ref="etamliveshow"/>
-    <file name="nomq_etamliveshow.css" crc="199045725" ref="etamliveshow"/>
+    <file name="etamliveshow.css" crc="421365581" ref="etamliveshow"/>
+    <file name="nomq_etamliveshow.css" crc="4201957086" ref="etamliveshow"/>
     <file name="journal.css" crc="38089992" ref="journal"/>
     <file name="nomq_journal.css" crc="4096002522" ref="journal"/>
-    <file name="adidasnmd_ahtlaqdmm.css" crc="4049614501" ref="adidasnmd_ahtlaqdmm"/>
-    <file name="nomq_adidasnmd_ahtlaqdmm.css" crc="3999356816" ref="adidasnmd_ahtlaqdmm"/>
+    <file name="adidasnmd_ahtlaqdmm.css" crc="93914062" ref="adidasnmd_ahtlaqdmm"/>
+    <file name="nomq_adidasnmd_ahtlaqdmm.css" crc="533985455" ref="adidasnmd_ahtlaqdmm"/>
     <file name="chanelcocogameclub.css" crc="4287523846" ref="chanelcocogameclub"/>
     <file name="nomq_chanelcocogameclub.css" crc="124614106" ref="chanelcocogameclub"/>
     <file name="jeandubuffet.css" crc="4201573407" ref="jeandubuffet"/>
     <file name="nomq_jeandubuffet.css" crc="351415107" ref="jeandubuffet"/>
     <file name="nikeonair.css" crc="3762728651" ref="nikeonair"/>
     <file name="nomq_nikeonair.css" crc="4266487945" ref="nikeonair"/>
-    <file name="nomq_about.css" crc="532649396" ref="about"/>
+    <file name="nomq_about.css" crc="4268711781" ref="about"/>
+    <file name="projet.css" crc="3780732867" ref="projet"/>
+    <file name="nomq_projet.css" crc="166734636" ref="projet"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-700.woff" crc="524597591"/>
@@ -125,46 +127,35 @@
     <file name="brizardlamour_marion_5_partiel_slide24.mp3" crc="4183386622" seo="true" mt="1515179114000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="museutils.js" crc="340535759" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:about"/>
-    <file name="require.js" crc="7928878" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:flamingo:emojizz:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:about:projet"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:about:projet"/>
+    <file name="require.js" crc="7928878" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="307270355" ref="index"/>
-    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow">
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+    <file name="favicon.ico" crc="307270355" ref="index:adidasnmd_ahtlaqdmm"/>
+    <file name="svg-collé-99738-x-55.svg" crc="3915704616" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet">
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -173,77 +164,98 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="journal" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
       <caption webpage="memoire" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
       <caption webpage="flamingo" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
-      <caption webpage="journal" alt=""/>
     </file>
-    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index"/>
-    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal">
+    <file name="svg collé 99738 x 55_poster_.png" crc="3867252412" ref="index:adidasnmd_ahtlaqdmm"/>
+    <file name="facebook2.png" crc="279691190" ref="index:emojizz:journal:adidasnmd_ahtlaqdmm:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal">
+    <file name="facebook2_2x.png" crc="48676983" ref="index:emojizz:journal:adidasnmd_ahtlaqdmm:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal">
+    <file name="instagram2.png" crc="4284952714" ref="index:emojizz:journal:adidasnmd_ahtlaqdmm:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal">
+    <file name="instagram2_2x.png" crc="143827305" ref="index:emojizz:journal:adidasnmd_ahtlaqdmm:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="kodak" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow"/>
-    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:journal">
+    <file name="blank.gif" crc="4208392903" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:jeanette:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet"/>
+    <file name="boutonmenutest.png" crc="3903872985" ref="index:emojizz:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:journal:about:projet">
       <caption webpage="index" alt="Portfolio"/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt="Portfolio"/>
       <caption webpage="journal" alt="Portfolio"/>
       <caption webpage="kodak" alt="Portfolio"/>
     </file>
@@ -313,80 +325,85 @@
     <file name="all-diosrojo-hover_2x.jpg" crc="4166021784" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="svg-collé-60527-x-219.svg" crc="497217374" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow">
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="dios-rojo" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
-      <caption webpage="emojizz" alt=""/>
+    <file name="svg-collé-60527-x-219.svg" crc="497217374" seo="true" ref="index:about:flamingo:dakar:emojizz:kodak:palais-des-glaces:memoire:dios-rojo:journal:jeandubuffet:nikeonair:chanelcocogameclub:adidasnmd_ahtlaqdmm:etamliveshow:projet">
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
+      <caption webpage="nikeonair" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
       <caption webpage="palais-des-glaces" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="dakar" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
-      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
+      <caption webpage="dios-rojo" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="chanelcocogameclub" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="kodak" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="jeandubuffet" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="etamliveshow" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
-      <caption webpage="nikeonair" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="memoire" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
-      <caption webpage="flamingo" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="journal" alt=""/>
       <caption webpage="journal" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="chanelcocogameclub" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="memoire" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="adidasnmd_ahtlaqdmm" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="dakar" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="kodak" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="jeandubuffet" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="emojizz" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
+      <caption webpage="flamingo" alt=""/>
     </file>
-    <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index"/>
+    <file name="svg collé 60527 x 219_poster_.png" crc="3990612506" ref="index:adidasnmd_ahtlaqdmm"/>
     <file name="all-flamingo-scene-u3077-fr.png" crc="3795084535" ref="index"/>
     <file name="all-flamingo-scene-u3077-fr_2x.png" crc="33524633" ref="index"/>
     <file name="all-flamingo-scene-hover-u3077-r-fr.png" crc="14477402" ref="index"/>
@@ -3857,45 +3874,61 @@
     </file>
     <file name="u62195-14.png" crc="85127891" ref="etamliveshow"/>
     <file name="u62195-14_2x.png" crc="3928353924" ref="etamliveshow"/>
-    <file name="etamliveshow-0.jpg" crc="3994722459" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-0.jpg" crc="3994722459" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-1.jpg" crc="3819279755" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-1.jpg" crc="3819279755" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-1_2x.jpg" crc="4035198513" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-1_2x.jpg" crc="4035198513" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-2.jpg" crc="36472673" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-2.jpg" crc="36472673" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-2_2x.jpg" crc="258094624" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-2_2x.jpg" crc="258094624" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-4.jpg" crc="4156269911" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-4.jpg" crc="4156269911" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-4_2x.jpg" crc="3984561109" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-4_2x.jpg" crc="3984561109" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-3.jpg" crc="37201254" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-3.jpg" crc="37201254" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-3_2x.jpg" crc="3920306961" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-3_2x.jpg" crc="3920306961" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-5.jpg" crc="3901621264" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-5.jpg" crc="3901621264" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow-5_2x.jpg" crc="3954285375" seo="true" ref="etamliveshow">
+    <file name="etamliveshow-5_2x.jpg" crc="3954285375" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
-    <file name="etamliveshow.gif" crc="3940300208" seo="true" ref="etamliveshow">
+    <file name="etamliveshow.gif" crc="3940300208" seo="true" ref="etamliveshow:projet">
       <caption webpage="etamliveshow" alt=""/>
       <caption webpage="etamliveshow" alt=""/>
       <caption webpage="etamliveshow" alt=""/>
       <caption webpage="etamliveshow" alt=""/>
       <caption webpage="etamliveshow" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
+      <caption webpage="projet" alt=""/>
     </file>
     <file name="etamliveshow-0703x438.jpg" crc="30220636" seo="true" ref="etamliveshow">
       <caption webpage="etamliveshow" alt=""/>
@@ -4073,12 +4106,6 @@
     <file name="dubuffet-9bis526x448_2x.jpg" crc="396583658" seo="true" ref="jeandubuffet">
       <caption webpage="jeandubuffet" alt=""/>
     </file>
-    <file name="marion290x298.jpg" crc="402837433" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="marion290x298_2x.jpg" crc="469782297" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="svg-collé-168056-x-13.svg" crc="430987401" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -4182,12 +4209,6 @@
     <file name="u74548-4_2x.png" crc="4171947582" ref="about"/>
     <file name="u74543-4.png" crc="231681711" ref="about"/>
     <file name="u74543-4_2x.png" crc="4149661515" ref="about"/>
-    <file name="marion269x276.jpg" crc="4228321183" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="marion269x276_2x.jpg" crc="3971189453" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="u74544-172.png" crc="503116639" ref="about"/>
     <file name="u74544-17_2x2.png" crc="255448181" ref="about"/>
     <file name="u74514-42.png" crc="4057043843" ref="about"/>
@@ -4254,12 +4275,6 @@
     <file name="u74548-4_2x3.png" crc="4204095810" ref="about"/>
     <file name="u74543-43.png" crc="432741177" ref="about"/>
     <file name="u74543-4_2x3.png" crc="477295782" ref="about"/>
-    <file name="marion210x216.jpg" crc="3906720558" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="marion210x216_2x.jpg" crc="4074875553" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="u74544-174.png" crc="3843863161" ref="about"/>
     <file name="u74544-17_2x4.png" crc="4173804726" ref="about"/>
     <file name="u74514-44.png" crc="4057043843" ref="about"/>
@@ -4290,15 +4305,43 @@
     <file name="u74548-4_2x4.png" crc="3873654402" ref="about"/>
     <file name="u74543-44.png" crc="3848072376" ref="about"/>
     <file name="u74543-4_2x4.png" crc="12741570" ref="about"/>
-    <file name="marion220x226.jpg" crc="477268406" seo="true" ref="about">
+    <file name="marion3.jpg" crc="3888279984" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="marion220x226_2x.jpg" crc="252245461" seo="true" ref="about">
+    <file name="marion3_2x.jpg" crc="3906318244" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="marion3269x276.jpg" crc="322317267" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion3269x276_2x.jpg" crc="3825277470" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion3220x226.jpg" crc="3988625041" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion3220x226_2x.jpg" crc="187629231" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion3210x216.jpg" crc="3890838948" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marion3210x216_2x.jpg" crc="174184119" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u78279-14.png" crc="85127891" ref="projet"/>
+    <file name="u78279-14_2x.png" crc="3928353924" ref="projet"/>
+    <file name="u78279-142.png" crc="3920743321" ref="projet"/>
+    <file name="u78279-14_2x2.png" crc="393069666" ref="projet"/>
+    <file name="u78279-143.png" crc="3920743321" ref="projet"/>
+    <file name="u78279-14_2x3.png" crc="393069666" ref="projet"/>
+    <file name="u78279-144.png" crc="3920743321" ref="projet"/>
+    <file name="u78279-14_2x4.png" crc="393069666" ref="projet"/>
+    <file name="u78279-145.png" crc="4054804478" ref="projet"/>
+    <file name="u78279-14_2x5.png" crc="4261030917" ref="projet"/>
   </folder>
   <file name="index.html" crc="367961570" seo="true" mt="1542897736372" redirect="true"/>
-  <file name="about.html" crc="3993016689" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="about.html" crc="4018742317" seo="true" mt="1543243042401" redirect="true"/>
   <file name="flamingo.html" crc="3983861088" seo="true" mt="1542897736372" redirect="true"/>
   <file name="dakar.html" crc="214154228" seo="true" mt="1542897736372" redirect="true"/>
   <file name="emojizz.html" crc="4175472191" seo="true" mt="1542897736372" redirect="true"/>
@@ -4311,6 +4354,7 @@
   <file name="jeandubuffet.html" crc="226081929" seo="true" mt="1542897736372" redirect="true"/>
   <file name="nikeonair.html" crc="3918195754" seo="true" mt="1542897736372" redirect="true"/>
   <file name="chanelcocogameclub.html" crc="4122782354" seo="true" mt="1542897736372" redirect="true"/>
-  <file name="adidasnmd_ahtlaqdmm.html" crc="4031354778" seo="true" mt="1542897736372" redirect="true"/>
-  <file name="etamliveshow.html" crc="4062008055" seo="true" mt="1542897736372" redirect="true"/>
+  <file name="adidasnmd_ahtlaqdmm.html" crc="4116867057" seo="true" mt="1543242832148" redirect="true"/>
+  <file name="etamliveshow.html" crc="530275419" seo="true" mt="1542898077383" redirect="true"/>
+  <file name="projet.html" crc="157809241" seo="true" mt="1542898102612" redirect="true"/>
 </manifest>
